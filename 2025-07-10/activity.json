@@ -504,7 +504,7 @@
       "averageChangeSize": 8
     },
     ".config": {
-      "totalLinesAdded": 92,
+      "totalLinesAdded": 130,
       "totalLinesRemoved": 30,
       "totalActiveTime": 3,
       "files": {
@@ -543,6 +543,20 @@
             "fileType": ".fish",
             "linesAdded": 0,
             "linesRemoved": 30,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T21:12:43.956Z",
+            "fileName": "/Users/i/.config/ai-agents/ai_agent_config.fish",
+            "fileType": ".fish",
+            "linesAdded": 38,
+            "linesRemoved": 0,
             "projectName": ".config",
             "content": {
               "added": [],
