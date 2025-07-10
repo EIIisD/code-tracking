@@ -109,9 +109,9 @@
       "averageChangeSize": 22
     },
     "fish": {
-      "totalLinesAdded": 2313,
-      "totalLinesRemoved": 339,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 2746,
+      "totalLinesRemoved": 340,
+      "totalActiveTime": 23,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -364,6 +364,34 @@
             "fileType": ".sh",
             "linesAdded": 0,
             "linesRemoved": 286,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-10T20:44:59.322Z",
+            "fileName": "/Users/i/.config/fish/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-10T20:44:59.723Z",
+            "fileName": "/Users/i/.config/fish/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 433,
+            "linesRemoved": 0,
             "projectName": "fish",
             "content": {
               "added": [],
