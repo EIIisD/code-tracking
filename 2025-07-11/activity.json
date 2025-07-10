@@ -2,7 +2,7 @@
   "date": "2025-07-11",
   "projects": {
     ".config": {
-      "totalLinesAdded": 23,
+      "totalLinesAdded": 24,
       "totalLinesRemoved": 2,
       "totalActiveTime": 9,
       "files": {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T23:18:40.624Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "fish"
           }
         ]
