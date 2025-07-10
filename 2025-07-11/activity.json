@@ -1,0 +1,91 @@
+{
+  "date": "2025-07-11",
+  "projects": {
+    ".config": {
+      "totalLinesAdded": 13,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/i/.config/fish/functions/agent.fish": [
+          {
+            "timestamp": "2025-07-10T22:56:23.062Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:56:57.824Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:58:49.930Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T23:00:31.526Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 6
+      },
+      "changeFrequency": {
+        "0": 2,
+        "23": 4
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/functions/agent.fish"
+      ],
+      "averageChangeSize": 3.75
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23,
+    0
+  ],
+  "mostUsedLanguages": [
+    "fish"
+  ]
+}
