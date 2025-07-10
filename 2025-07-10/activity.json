@@ -109,9 +109,9 @@
       "averageChangeSize": 22
     },
     "fish": {
-      "totalLinesAdded": 2130,
+      "totalLinesAdded": 2313,
       "totalLinesRemoved": 339,
-      "totalActiveTime": 21,
+      "totalActiveTime": 22,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -423,6 +423,36 @@
             "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
             "fileType": ".json",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.config/macrowhisper/macrowhisper.json": [
+          {
+            "timestamp": "2025-07-10T20:21:22.464Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T20:21:52.108Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 138,
             "linesRemoved": 0,
             "projectName": "fish",
             "content": {

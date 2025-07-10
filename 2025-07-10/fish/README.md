@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2130                                          |
+| **Lines Added** (➕)   | 2313                                          |
 | **Lines Removed** (➖) | 339                                        |
-| **Net Change** (↕)    | 1791                |
-| **Active Time** (⌚)   | 21 minutes |
+| **Net Change** (↕)    | 1974                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **install.sh** (+288, -286)
 - **embeddable_files.txt** (+45, -44)
 - **settings.json** (+518, -0)
+- **macrowhisper.json** (+183, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@ pie showData
 title Lines changed by file type
 ".fish" : 170
 ".md" : 524
-".json" : 1112
+".json" : 1295
 ".sh" : 574
 ".txt" : 89
 ```
@@ -39,7 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 7
 "20h" : 15
+"21h" : 2
 ```
 
 
-> **Last Updated:** 10/07/2025, 20:33:19
+> **Last Updated:** 10/07/2025, 21:23:19
