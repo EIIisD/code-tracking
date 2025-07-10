@@ -5,15 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 61                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 60                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Removed** (➖) | 144                                        |
+| **Net Change** (↕)    | -83                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **agent.fish** (+23, -1)
 - **keybindings.json** (+8, -0)
 - **ai_github_functions.fish** (+30, -0)
+- **config.fish** (+0, -143)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 54
+".fish" : 197
 ".json" : 8
 ```
 
@@ -31,9 +32,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 6
+"00h" : 7
 "23h" : 1
 ```
 
 
-> **Last Updated:** 11/07/2025, 00:23:19
+> **Last Updated:** 11/07/2025, 00:28:19
