@@ -92,9 +92,9 @@
       "averageChangeSize": 3.75
     },
     "fish": {
-      "totalLinesAdded": 22,
+      "totalLinesAdded": 30,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 7,
+      "totalActiveTime": 9,
       "files": {
         "/Users/i/.config/fish/functions/agent.fish": [
           {
@@ -138,6 +138,36 @@
             },
             "duration": 3,
             "language": "fish"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json": [
+          {
+            "timestamp": "2025-07-10T23:03:41.439Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T23:03:54.758Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
