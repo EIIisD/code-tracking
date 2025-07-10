@@ -110,8 +110,8 @@
     },
     "fish": {
       "totalLinesAdded": 3216,
-      "totalLinesRemoved": 340,
-      "totalActiveTime": 29,
+      "totalLinesRemoved": 413,
+      "totalActiveTime": 31,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -533,6 +533,20 @@
             },
             "duration": 2,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T21:48:40.553Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_github_functions.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/test_plan.fish": [
@@ -556,6 +570,20 @@
             "fileType": ".fish",
             "linesAdded": 71,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T21:49:36.572Z",
+            "fileName": "/Users/i/.config/fish/test_plan.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 70,
             "projectName": "fish",
             "content": {
               "added": [],
