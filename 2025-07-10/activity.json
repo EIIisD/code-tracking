@@ -666,9 +666,9 @@
       "averageChangeSize": 8
     },
     ".config": {
-      "totalLinesAdded": 175,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 611,
+      "totalLinesRemoved": 176,
+      "totalActiveTime": 17,
       "files": {
         "/Users/i/.config/ai-agents/ai_agent_config.fish": [
           {
@@ -753,6 +753,136 @@
               "removed": []
             },
             "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:53:33.907Z",
+            "fileName": "/Users/i/.config/ai-agents/ai_agent_config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 110,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:54:11.834Z",
+            "fileName": "/Users/i/.config/ai-agents/ai_agent_config.fish",
+            "fileType": ".fish",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/agent.fish": [
+          {
+            "timestamp": "2025-07-10T22:53:24.424Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:53:25.280Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:55:36.469Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:55:43.693Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:55:49.810Z",
+            "fileName": "/Users/i/.config/fish/functions/agent.fish",
+            "fileType": ".fish",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/Users/i/.config/ai-agents/ai_agent_config.fish": [
+          {
+            "timestamp": "2025-07-10T22:54:14.776Z",
+            "fileName": "/Users/i/.config/Users/i/.config/ai-agents/ai_agent_config.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T22:54:14.805Z",
+            "fileName": "/Users/i/.config/Users/i/.config/ai-agents/ai_agent_config.fish",
+            "fileType": ".fish",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": ".config",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "fish"
           }
         ]
