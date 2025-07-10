@@ -109,9 +109,9 @@
       "averageChangeSize": 22
     },
     "fish": {
-      "totalLinesAdded": 2114,
-      "totalLinesRemoved": 335,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 2130,
+      "totalLinesRemoved": 339,
+      "totalActiveTime": 21,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -250,6 +250,76 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T19:28:23.382Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T19:28:38.794Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T19:28:43.861Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T19:29:02.844Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T19:29:06.944Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "fish",
             "content": {
               "added": [],
