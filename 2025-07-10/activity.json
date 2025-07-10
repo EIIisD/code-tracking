@@ -109,9 +109,9 @@
       "averageChangeSize": 22
     },
     "fish": {
-      "totalLinesAdded": 1256,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 1547,
+      "totalLinesRemoved": 287,
+      "totalActiveTime": 10,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -169,6 +169,20 @@
             },
             "duration": 0,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T19:02:21.734Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/Downloads/plan.md": [
@@ -215,6 +229,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/.config/fish/install.sh": [
+          {
+            "timestamp": "2025-07-10T19:02:09.761Z",
+            "fileName": "/Users/i/.config/fish/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-10T19:02:11.193Z",
+            "fileName": "/Users/i/.config/fish/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 287,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-10T19:02:26.042Z",
+            "fileName": "/Users/i/.config/fish/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 286,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ]
       },
