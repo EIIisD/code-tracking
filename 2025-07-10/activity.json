@@ -109,9 +109,9 @@
       "averageChangeSize": 22
     },
     "fish": {
-      "totalLinesAdded": 2746,
+      "totalLinesAdded": 3216,
       "totalLinesRemoved": 340,
-      "totalActiveTime": 23,
+      "totalActiveTime": 29,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -489,6 +489,80 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_github_functions.fish": [
+          {
+            "timestamp": "2025-07-10T21:45:28.477Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_github_functions.fish",
+            "fileType": ".fish",
+            "linesAdded": 276,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T21:45:30.148Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_github_functions.fish",
+            "fileType": ".fish",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T21:46:39.179Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_github_functions.fish",
+            "fileType": ".fish",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/test_plan.fish": [
+          {
+            "timestamp": "2025-07-10T21:48:02.206Z",
+            "fileName": "/Users/i/.config/fish/test_plan.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-10T21:48:03.077Z",
+            "fileName": "/Users/i/.config/fish/test_plan.fish",
+            "fileType": ".fish",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ]
       },
