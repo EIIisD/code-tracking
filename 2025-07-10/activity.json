@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-10",
+  "projects": {
+    "ribbon": {
+      "totalLinesAdded": 42,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.cursor/mcp.json": [
+          {
+            "timestamp": "2025-07-10T17:54:39.072Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T17:54:45.768Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "/Users/i/.cursor/mcp.json"
+      ],
+      "averageChangeSize": 22
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
