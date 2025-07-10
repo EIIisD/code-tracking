@@ -109,9 +109,9 @@
       "averageChangeSize": 22
     },
     "fish": {
-      "totalLinesAdded": 1551,
-      "totalLinesRemoved": 291,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 2114,
+      "totalLinesRemoved": 335,
+      "totalActiveTime": 14,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -301,6 +301,66 @@
             },
             "duration": 1,
             "language": "sh"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/workspaceStorage/7b01b7fad99f45a5728a43989715805e/anysphere.cursor-retrieval/embeddable_files.txt": [
+          {
+            "timestamp": "2025-07-10T19:24:49.748Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/workspaceStorage/7b01b7fad99f45a5728a43989715805e/anysphere.cursor-retrieval/embeddable_files.txt",
+            "fileType": ".txt",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-10T19:24:50.897Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/workspaceStorage/7b01b7fad99f45a5728a43989715805e/anysphere.cursor-retrieval/embeddable_files.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-10T19:25:32.322Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 517,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T19:25:32.368Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1551                                          |
-| **Lines Removed** (➖) | 291                                        |
-| **Net Change** (↕)    | 1260                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Added** (➕)   | 2114                                          |
+| **Lines Removed** (➖) | 335                                        |
+| **Net Change** (↕)    | 1779                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **plan.md** (+524, -0)
 - **keybindings.json** (+570, -4)
 - **install.sh** (+288, -286)
+- **embeddable_files.txt** (+45, -44)
+- **settings.json** (+518, -0)
 
 ## Visualizations
 
@@ -25,8 +27,9 @@ pie showData
 title Lines changed by file type
 ".fish" : 170
 ".md" : 524
-".json" : 574
+".json" : 1092
 ".sh" : 574
+".txt" : 89
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 7
-"20h" : 6
+"20h" : 10
 ```
 
 
-> **Last Updated:** 10/07/2025, 20:18:19
+> **Last Updated:** 10/07/2025, 20:28:19
