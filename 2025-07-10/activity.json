@@ -2,9 +2,9 @@
   "date": "2025-07-10",
   "projects": {
     "ribbon": {
-      "totalLinesAdded": 604,
+      "totalLinesAdded": 627,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 4,
+      "totalActiveTime": 8,
       "files": {
         "/Users/i/.cursor/mcp.json": [
           {
@@ -78,6 +78,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/i/.config/fish/config.fish": [
+          {
+            "timestamp": "2025-07-10T18:13:24.304Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "fish"
           }
         ]
       },
