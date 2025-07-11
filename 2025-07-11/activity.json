@@ -1416,7 +1416,7 @@
     },
     "braintubers": {
       "totalLinesAdded": 105,
-      "totalLinesRemoved": 28,
+      "totalLinesRemoved": 86,
       "totalActiveTime": 12,
       "files": {
         "/Users/i/Projects/braintubers/logo.svg": [
@@ -1446,6 +1446,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-11T20:21:44.284Z",
+            "fileName": "/Users/i/Projects/braintubers/logo.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 58,
+            "projectName": "braintubers",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "svg"
           }
         ],
