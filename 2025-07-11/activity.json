@@ -520,6 +520,194 @@
         "/Users/i/Library/Application Support/Cursor/User/keybindings.json"
       ],
       "averageChangeSize": 287
+    },
+    "ribbon": {
+      "totalLinesAdded": 1003,
+      "totalLinesRemoved": 38,
+      "totalActiveTime": 11,
+      "files": {
+        "/Users/i/Projects/ribbon/src/app/(main-app)/edit/materials/page.tsx": [
+          {
+            "timestamp": "2025-07-11T01:25:56.506Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/(main-app)/edit/materials/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx": [
+          {
+            "timestamp": "2025-07-11T01:26:51.790Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-11T01:26:52.651Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-11T01:29:10.636Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-11T01:29:21.324Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/components/Finder/MiniFinderSingleSelectWithSearch.tsx": [
+          {
+            "timestamp": "2025-07-11T01:27:01.948Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/MiniFinderSingleSelectWithSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/components/ui/searchable-materials.tsx": [
+          {
+            "timestamp": "2025-07-11T01:27:10.143Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/ui/searchable-materials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/lib/controllers/materials/materials.ts": [
+          {
+            "timestamp": "2025-07-11T01:27:49.016Z",
+            "fileName": "/Users/i/Projects/ribbon/src/lib/controllers/materials/materials.ts",
+            "fileType": ".ts",
+            "linesAdded": 681,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T01:27:49.866Z",
+            "fileName": "/Users/i/Projects/ribbon/src/lib/controllers/materials/materials.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/lib/utils/materialSearch.ts": [
+          {
+            "timestamp": "2025-07-11T01:28:59.602Z",
+            "fileName": "/Users/i/Projects/ribbon/src/lib/utils/materialSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T01:29:00.471Z",
+            "fileName": "/Users/i/Projects/ribbon/src/lib/utils/materialSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 6,
+        "ts": 5
+      },
+      "changeFrequency": {
+        "2": 11
+      },
+      "topFiles": [
+        "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx",
+        "/Users/i/Projects/ribbon/src/lib/controllers/materials/materials.ts",
+        "/Users/i/Projects/ribbon/src/lib/utils/materialSearch.ts",
+        "/Users/i/Projects/ribbon/src/app/(main-app)/edit/materials/page.tsx",
+        "/Users/i/Projects/ribbon/src/components/Finder/MiniFinderSingleSelectWithSearch.tsx"
+      ],
+      "averageChangeSize": 94.63636363636364
     }
   },
   "totalActiveTime": 6,
