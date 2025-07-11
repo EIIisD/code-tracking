@@ -106,9 +106,9 @@
       "averageChangeSize": 3.75
     },
     "fish": {
-      "totalLinesAdded": 61,
-      "totalLinesRemoved": 144,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 206,
+      "totalLinesRemoved": 268,
+      "totalActiveTime": 16,
       "files": {
         "/Users/i/.config/fish/functions/agent.fish": [
           {
@@ -221,6 +221,36 @@
             "fileType": ".fish",
             "linesAdded": 0,
             "linesRemoved": 143,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/ai-agents/ai_agent_config.fish": [
+          {
+            "timestamp": "2025-07-11T00:14:10.367Z",
+            "fileName": "/Users/i/.config/ai-agents/ai_agent_config.fish",
+            "fileType": ".fish",
+            "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-11T00:14:11.286Z",
+            "fileName": "/Users/i/.config/ai-agents/ai_agent_config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 124,
             "projectName": "fish",
             "content": {
               "added": [],
