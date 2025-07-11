@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 365                                          |
+| **Lines Added** (➕)   | 596                                          |
 | **Lines Removed** (➖) | 95                                        |
-| **Net Change** (↕)    | 270                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Net Change** (↕)    | 501                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
 - **macrowhisper.json** (+183, -93)
 - **index.ts** (+165, -2)
 - **package.json** (+17, -0)
+- **macrowhisper.schema.ts** (+231, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 293
-".ts" : 167
+".ts" : 398
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,7 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "03h" : 7
+"06h" : 2
 ```
 
 
-> **Last Updated:** 11/07/2025, 03:59:19
+> **Last Updated:** 11/07/2025, 06:33:35
