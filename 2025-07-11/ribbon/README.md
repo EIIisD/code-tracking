@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1699                                          |
-| **Lines Removed** (➖) | 316                                        |
-| **Net Change** (↕)    | 1383                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Lines Added** (➕)   | 1715                                          |
+| **Lines Removed** (➖) | 333                                        |
+| **Net Change** (↕)    | 1382                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
 - **page.tsx** (+15, -0)
-- **searchable-materials.tsx** (+281, -175)
+- **searchable-materials.tsx** (+281, -176)
 - **MiniFinderSingleSelectWithSearch.tsx** (+93, -0)
 - **searchable-materials.tsx** (+1, -0)
 - **materials.ts** (+684, -6)
@@ -21,7 +21,7 @@
 - **Sheet.tsx** (+100, -2)
 - **EditMaterials.tsx** (+25, -2)
 - **MaterialSelector.tsx** (+98, -0)
-- **useSearchMaterials.tsx** (+30, -0)
+- **useSearchMaterials.tsx** (+46, -16)
 
 ## Visualizations
 
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1111
+".tsx" : 1144
 ".ts" : 904
 ```
 
@@ -40,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "02h" : 22
-"03h" : 12
+"03h" : 15
 ```
 
 
-> **Last Updated:** 11/07/2025, 03:14:38
+> **Last Updated:** 11/07/2025, 03:19:38
