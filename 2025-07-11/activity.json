@@ -1250,6 +1250,53 @@
         "/Users/i/.config/macrowhisper/package.json"
       ],
       "averageChangeSize": 65.71428571428571
+    },
+    ".raycast": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.raycast/open-directory.sh": [
+          {
+            "timestamp": "2025-07-11T03:03:47.628Z",
+            "fileName": "/Users/i/.raycast/open-directory.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-11T03:03:48.499Z",
+            "fileName": "/Users/i/.raycast/open-directory.sh",
+            "fileType": ".sh",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 1
+      },
+      "changeFrequency": {
+        "4": 1
+      },
+      "topFiles": [
+        "/Users/i/.raycast/open-directory.sh"
+      ],
+      "averageChangeSize": 2
     }
   },
   "totalActiveTime": 6,
