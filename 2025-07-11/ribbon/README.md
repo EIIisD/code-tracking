@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2076                                          |
+| **Lines Added** (➕)   | 2348                                          |
 | **Lines Removed** (➖) | 359                                        |
-| **Net Change** (↕)    | 1717                |
-| **Active Time** (⌚)   | 46 minutes |
+| **Net Change** (↕)    | 1989                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,7 @@
 - **preload.applescript** (+19, -0)
 - **package.json** (+3, -2)
 - **test-materials-search.ts** (+266, -0)
+- **package.json** (+272, -0)
 
 ## Visualizations
 
@@ -36,7 +37,7 @@ title Lines changed by file type
 ".tsx" : 1144
 ".ts" : 1267
 ".applescript" : 19
-".json" : 5
+".json" : 277
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +48,8 @@ title Coding activity by hour (count of changes)
 "02h" : 22
 "03h" : 15
 "04h" : 1
-"22h" : 7
+"22h" : 9
 ```
 
 
-> **Last Updated:** 11/07/2025, 22:18:44
+> **Last Updated:** 11/07/2025, 22:23:44
