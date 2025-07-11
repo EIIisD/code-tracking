@@ -594,9 +594,9 @@
       "averageChangeSize": 287
     },
     "ribbon": {
-      "totalLinesAdded": 1734,
-      "totalLinesRemoved": 333,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 1737,
+      "totalLinesRemoved": 335,
+      "totalActiveTime": 38,
       "files": {
         "/Users/i/Projects/ribbon/src/app/(main-app)/edit/materials/page.tsx": [
           {
@@ -1152,6 +1152,36 @@
             },
             "duration": 0,
             "language": "applescript"
+          }
+        ],
+        "/Users/i/Projects/ribbon/.next/package.json": [
+          {
+            "timestamp": "2025-07-11T21:05:06.864Z",
+            "fileName": "/Users/i/Projects/ribbon/.next/package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-11T21:06:02.508Z",
+            "fileName": "/Users/i/Projects/ribbon/.next/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
