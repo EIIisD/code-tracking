@@ -426,6 +426,53 @@
         "/Users/i/.config/fish/functions/agent.fish"
       ],
       "averageChangeSize": 7.666666666666667
+    },
+    "ai-agents": {
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.config/ai-agents/custom_agents.fish": [
+          {
+            "timestamp": "2025-07-11T00:21:33.970Z",
+            "fileName": "/Users/i/.config/ai-agents/custom_agents.fish",
+            "fileType": ".fish",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ai-agents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-11T00:21:34.646Z",
+            "fileName": "/Users/i/.config/ai-agents/custom_agents.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "ai-agents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 1
+      },
+      "changeFrequency": {
+        "1": 1
+      },
+      "topFiles": [
+        "/Users/i/.config/ai-agents/custom_agents.fish"
+      ],
+      "averageChangeSize": 18
     }
   },
   "totalActiveTime": 6,
