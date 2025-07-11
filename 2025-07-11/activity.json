@@ -638,9 +638,9 @@
       "averageChangeSize": 287
     },
     "ribbon": {
-      "totalLinesAdded": 3087,
-      "totalLinesRemoved": 443,
-      "totalActiveTime": 76,
+      "totalLinesAdded": 3147,
+      "totalLinesRemoved": 444,
+      "totalActiveTime": 79,
       "files": {
         "/Users/i/Projects/ribbon/src/app/(main-app)/edit/materials/page.tsx": [
           {
@@ -1615,6 +1615,64 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/ribbon/scripts/testing/repopulate-demo-images.ts": [
+          {
+            "timestamp": "2025-07-11T22:57:58.760Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/testing/repopulate-demo-images.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T22:57:59.765Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/testing/repopulate-demo-images.ts",
+            "fileType": ".ts",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T22:58:11.020Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/testing/repopulate-demo-images.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T22:58:34.315Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/testing/repopulate-demo-images.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
