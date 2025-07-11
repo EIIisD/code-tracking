@@ -1416,8 +1416,8 @@
     },
     "braintubers": {
       "totalLinesAdded": 105,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 12,
       "files": {
         "/Users/i/Projects/braintubers/logo.svg": [
           {
@@ -1490,6 +1490,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-11T19:14:48.154Z",
+            "fileName": "/Users/i/Projects/braintubers/logo_isolated.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "braintubers",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-11T19:14:54.416Z",
+            "fileName": "/Users/i/Projects/braintubers/logo_isolated.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "braintubers",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-11T19:16:23.644Z",
+            "fileName": "/Users/i/Projects/braintubers/logo_isolated.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "braintubers",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-11T19:16:51.071Z",
+            "fileName": "/Users/i/Projects/braintubers/logo_isolated.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "braintubers",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "svg"
           }
         ]
