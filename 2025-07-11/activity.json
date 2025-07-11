@@ -522,7 +522,7 @@
       "averageChangeSize": 287
     },
     "ribbon": {
-      "totalLinesAdded": 1715,
+      "totalLinesAdded": 1734,
       "totalLinesRemoved": 333,
       "totalActiveTime": 37,
       "files": {
@@ -1064,6 +1064,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/.raycast/preload.applescript": [
+          {
+            "timestamp": "2025-07-11T03:02:07.280Z",
+            "fileName": "/Users/i/.raycast/preload.applescript",
+            "fileType": ".applescript",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "applescript"
           }
         ]
       },
