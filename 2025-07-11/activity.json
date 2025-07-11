@@ -638,9 +638,9 @@
       "averageChangeSize": 287
     },
     "ribbon": {
-      "totalLinesAdded": 1810,
+      "totalLinesAdded": 2076,
       "totalLinesRemoved": 359,
-      "totalActiveTime": 45,
+      "totalActiveTime": 46,
       "files": {
         "/Users/i/Projects/ribbon/src/app/(main-app)/edit/materials/page.tsx": [
           {
@@ -1268,6 +1268,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/ribbon/scripts/test-materials-search.ts": [
+          {
+            "timestamp": "2025-07-11T21:18:10.197Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/test-materials-search.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T21:18:11.009Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/test-materials-search.ts",
+            "fileType": ".ts",
+            "linesAdded": 265,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
