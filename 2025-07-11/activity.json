@@ -1082,6 +1082,130 @@
         "/Users/i/Projects/ribbon/src/components/Finder/MiniFinderSingleSelectWithSearch.tsx"
       ],
       "averageChangeSize": 94.63636363636364
+    },
+    "macrowhisper": {
+      "totalLinesAdded": 365,
+      "totalLinesRemoved": 95,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/i/.config/macrowhisper/macrowhisper.json": [
+          {
+            "timestamp": "2025-07-11T02:54:24.043Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-11T02:56:53.961Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 93,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.config/macrowhisper/src/index.ts": [
+          {
+            "timestamp": "2025-07-11T02:56:10.140Z",
+            "fileName": "/Users/i/.config/macrowhisper/src/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T02:56:11.209Z",
+            "fileName": "/Users/i/.config/macrowhisper/src/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-11T02:56:47.051Z",
+            "fileName": "/Users/i/.config/macrowhisper/src/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/macrowhisper/package.json": [
+          {
+            "timestamp": "2025-07-11T02:56:15.537Z",
+            "fileName": "/Users/i/.config/macrowhisper/package.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-11T02:56:23.286Z",
+            "fileName": "/Users/i/.config/macrowhisper/package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3,
+        "ts": 4
+      },
+      "changeFrequency": {
+        "3": 7
+      },
+      "topFiles": [
+        "/Users/i/.config/macrowhisper/src/index.ts",
+        "/Users/i/.config/macrowhisper/macrowhisper.json",
+        "/Users/i/.config/macrowhisper/package.json"
+      ],
+      "averageChangeSize": 65.71428571428571
     }
   },
   "totalActiveTime": 6,
