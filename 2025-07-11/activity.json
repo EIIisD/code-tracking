@@ -107,8 +107,8 @@
     },
     "fish": {
       "totalLinesAdded": 1362,
-      "totalLinesRemoved": 441,
-      "totalActiveTime": 30,
+      "totalLinesRemoved": 621,
+      "totalActiveTime": 33,
       "files": {
         "/Users/i/.config/fish/functions/agent.fish": [
           {
@@ -323,6 +323,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-11T00:22:18.744Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_github_functions.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 180,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "fish"
           }
         ],
