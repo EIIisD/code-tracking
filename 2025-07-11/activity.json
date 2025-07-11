@@ -106,9 +106,9 @@
       "averageChangeSize": 3.75
     },
     "fish": {
-      "totalLinesAdded": 1389,
+      "totalLinesAdded": 1505,
       "totalLinesRemoved": 621,
-      "totalActiveTime": 34,
+      "totalActiveTime": 36,
       "files": {
         "/Users/i/.config/fish/functions/agent.fish": [
           {
@@ -433,6 +433,50 @@
             "fileType": ".fish",
             "linesAdded": 0,
             "linesRemoved": 124,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/_start_ribbon_dev_server.fish": [
+          {
+            "timestamp": "2025-07-11T21:04:19.889Z",
+            "fileName": "/Users/i/.config/fish/functions/_start_ribbon_dev_server.fish",
+            "fileType": ".fish",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-11T21:04:42.104Z",
+            "fileName": "/Users/i/.config/fish/functions/_start_ribbon_dev_server.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-11T21:05:41.386Z",
+            "fileName": "/Users/i/.config/fish/functions/_start_ribbon_dev_server.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "fish",
             "content": {
               "added": [],
