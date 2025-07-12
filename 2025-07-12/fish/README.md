@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1386                                          |
-| **Lines Removed** (➖) | 233                                        |
-| **Net Change** (↕)    | 1153                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Lines Added** (➕)   | 1676                                          |
+| **Lines Removed** (➖) | 277                                        |
+| **Net Change** (↕)    | 1399                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **_start_ribbon_dev_server.fish** (+117, -0)
 - **settings.json** (+519, -4)
 - **COMMIT_EDITMSG** (+2, -0)
-- **env.fish** (+28, -0)
+- **env.fish** (+71, -0)
 - **init.fish** (+22, -0)
 - **fish_prompt.fish** (+10, -0)
 - **ll.fish** (+6, -0)
@@ -38,6 +38,28 @@
 - **.git.fish** (+4, -0)
 - **.f.fish** (+4, -0)
 - **.bun.fish** (+4, -0)
+- **note.fish** (+26, -0)
+- **bun.fish** (+38, -25)
+- **unbun.fish** (+39, -19)
+- **codex.fish** (+7, -0)
+- **qlmodelids.fish** (+5, -0)
+- **gemini_interactive.fish** (+57, -0)
+- **rmd.fish** (+12, -0)
+- **bun_update_all.fish** (+7, -0)
+- **bun_downgrade_all.fish** (+4, -0)
+- **opencode_bun.fish** (+4, -0)
+- **opencode_go.fish** (+4, -0)
+- **o.fish** (+4, -0)
+- **i.fish** (+4, -0)
+- **add.fish** (+4, -0)
+- **ad.fish** (+4, -0)
+- **a.fish** (+4, -0)
+- **remove.fish** (+4, -0)
+- **run.fish** (+4, -0)
+- **start.fish** (+4, -0)
+- **build.fish** (+4, -0)
+- **tests.fish** (+4, -0)
+- **check.fish** (+4, -0)
 
 ## Visualizations
 
@@ -46,7 +68,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 1094
+".fish" : 1428
 ".json" : 523
 "unknown" : 2
 ```
@@ -58,8 +80,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 2
 "13h" : 5
-"15h" : 60
+"15h" : 72
+"16h" : 45
 ```
 
 
-> **Last Updated:** 12/07/2025, 15:58:15
+> **Last Updated:** 12/07/2025, 16:03:15
