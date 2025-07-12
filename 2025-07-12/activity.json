@@ -590,9 +590,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 7707,
+      "totalLinesAdded": 7731,
       "totalLinesRemoved": 1026,
-      "totalActiveTime": 438,
+      "totalActiveTime": 439,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -6945,6 +6945,36 @@
             "fileType": ".fish",
             "linesAdded": 0,
             "linesRemoved": 67,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/openrouter.fish": [
+          {
+            "timestamp": "2025-07-12T18:12:33.316Z",
+            "fileName": "/Users/i/.config/fish/functions/openrouter.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T18:12:33.874Z",
+            "fileName": "/Users/i/.config/fish/functions/openrouter.fish",
+            "fileType": ".fish",
+            "linesAdded": 23,
+            "linesRemoved": 0,
             "projectName": "fish",
             "content": {
               "added": [],
