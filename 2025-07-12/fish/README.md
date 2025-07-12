@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7048                                          |
-| **Lines Removed** (➖) | 786                                        |
-| **Net Change** (↕)    | 6262                |
-| **Active Time** (⌚)   | 391 minutes |
+| **Lines Added** (➕)   | 7707                                          |
+| **Lines Removed** (➖) | 1026                                        |
+| **Net Change** (↕)    | 6681                |
+| **Active Time** (⌚)   | 438 minutes |
 
 
 ## Modified Files
 - **config.fish** (+57, -41)
 - **config.old.fish** (+564, -203)
-- **_start_ribbon_dev_server.fish** (+123, -0)
+- **_start_ribbon_dev_server.fish** (+123, -56)
 - **settings.json** (+594, -5)
 - **COMMIT_EDITMSG** (+2, -0)
 - **env.fish** (+71, -15)
 - **init.fish** (+22, -0)
-- **fish_prompt.fish** (+10, -0)
+- **fish_prompt.fish** (+22, -0)
 - **ll.fish** (+6, -0)
 - **update.fish** (+11, -0)
 - **x.fish** (+4, -0)
@@ -39,14 +39,14 @@
 - **.f.fish** (+4, -0)
 - **.bun.fish** (+4, -0)
 - **note.fish** (+26, -0)
-- **bun.fish** (+53, -40)
-- **unbun.fish** (+39, -19)
+- **bun.fish** (+54, -40)
+- **unbun.fish** (+58, -38)
 - **codex.fish** (+13, -6)
 - **qlmodelids.fish** (+5, -0)
 - **gemini_interactive.fish** (+70, -56)
-- **rmd.fish** (+12, -0)
-- **bun_update_all.fish** (+7, -0)
-- **bun_downgrade_all.fish** (+4, -0)
+- **rmd.fish** (+23, -11)
+- **bun_update_all.fish** (+14, -6)
+- **bun_downgrade_all.fish** (+15, -3)
 - **opencode_bun.fish** (+7, -3)
 - **opencode_go.fish** (+7, -3)
 - **o.fish** (+4, -0)
@@ -74,7 +74,7 @@
 - **.repomix.fish** (+4, -0)
 - **.biome.fish** (+4, -0)
 - **projects.fish** (+4, -0)
-- **update_language_associations.fish** (+4, -0)
+- **update_language_associations.fish** (+7, -3)
 - **.codex.fish** (+4, -0)
 - **.claude.fish** (+4, -0)
 - **.c.fish** (+4, -0)
@@ -145,14 +145,14 @@
 - **system_and_utils.fish** (+220, -49)
 - **biome_aliases.fish** (+25, -23)
 - **dev_scripts copy.fish** (+64, -0)
-- **p.fish** (+64, -37)
+- **p.fish** (+95, -63)
 - **third_person.fish** (+8, -0)
 - **git.fish** (+113, -0)
 - **_ai_github_helpers.fish** (+209, -0)
 - **starship.toml** (+17, -0)
 - **test-file-creation.txt** (+1, -0)
 - **_abbreviations.fish** (+12, -0)
-- **agent.fish** (+167, -11)
+- **agent.fish** (+167, -16)
 - **starship.toml** (+213, -166)
 - **_aliases.fish** (+80, -24)
 - **abbreviations.fish** (+12, -0)
@@ -180,6 +180,21 @@
 - **ai_report_generate.fish** (+18, -0)
 - **ai_workflow_execute.fish** (+17, -0)
 - **ai_context_store.fish** (+29, -0)
+- **bun_aliases.fish** (+16, -0)
+- **dev.fish** (+8, -0)
+- **git_aliases.fish** (+7, -0)
+- **gp.fish** (+84, -0)
+- **vdeploy.fish** (+23, -0)
+- **vercel_aliases.fish** (+3, -0)
+- **openrouter_list_keys.fish** (+13, -0)
+- **openrouter_list_models.fish** (+13, -0)
+- **to_json.fish** (+57, -0)
+- **utility_aliases.fish** (+5, -0)
+- **project_aliases.fish** (+3, -0)
+- **dot_aliases.fish** (+18, -0)
+- **ai_agent_config.fish** (+24, -0)
+- **ghp.fish** (+113, -44)
+- **repo.fish** (+177, -67)
 
 ## Visualizations
 
@@ -188,7 +203,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 3699
+".fish" : 4598
 ".json" : 641
 "unknown" : 2
 ".ts" : 2992
@@ -208,8 +223,9 @@ title Coding activity by hour (count of changes)
 "15h" : 72
 "16h" : 161
 "17h" : 59
-"18h" : 82
+"18h" : 119
+"19h" : 10
 ```
 
 
-> **Last Updated:** 12/07/2025, 18:58:15
+> **Last Updated:** 12/07/2025, 19:03:15
