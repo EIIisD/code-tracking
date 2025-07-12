@@ -1,0 +1,94 @@
+{
+  "date": "2025-07-13",
+  "projects": {
+    "New Folder With Items 3": {
+      "totalLinesAdded": 639,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-12T23:10:12.154Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 589,
+            "linesRemoved": 0,
+            "projectName": "New Folder With Items 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T23:10:12.472Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "New Folder With Items 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Downloads/New Folder With Items 3/convert.py": [
+          {
+            "timestamp": "2025-07-12T23:10:27.861Z",
+            "fileName": "/Users/i/Downloads/New Folder With Items 3/convert.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "New Folder With Items 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-12T23:10:28.905Z",
+            "fileName": "/Users/i/Downloads/New Folder With Items 3/convert.py",
+            "fileType": ".py",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "New Folder With Items 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "py": 2
+      },
+      "changeFrequency": {
+        "0": 3
+      },
+      "topFiles": [
+        "/Users/i/Library/Application Support/Cursor/User/settings.json",
+        "/Users/i/Downloads/New Folder With Items 3/convert.py"
+      ],
+      "averageChangeSize": 159.75
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "py",
+    "json"
+  ]
+}
