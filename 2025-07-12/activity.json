@@ -370,6 +370,53 @@
         "/Users/i/Library/Application Support/Cursor/User/keybindings.json"
       ],
       "averageChangeSize": 289
+    },
+    "fish": {
+      "totalLinesAdded": 27,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.config/fish/config.fish": [
+          {
+            "timestamp": "2025-07-12T11:59:13.760Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T11:59:18.844Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/config.fish"
+      ],
+      "averageChangeSize": 14.5
     }
   },
   "totalActiveTime": 8,
