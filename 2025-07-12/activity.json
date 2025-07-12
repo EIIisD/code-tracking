@@ -676,9 +676,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 7739,
+      "totalLinesAdded": 7813,
       "totalLinesRemoved": 1026,
-      "totalActiveTime": 442,
+      "totalActiveTime": 445,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -1417,6 +1417,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T18:58:20.618Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T18:58:39.243Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "fish"
           }
         ],
@@ -5911,6 +5939,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T18:57:04.660Z",
+            "fileName": "/Users/i/.config/fish/conf.d/aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "fish"
           }
         ],

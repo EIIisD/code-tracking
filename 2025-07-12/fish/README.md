@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7739                                          |
+| **Lines Added** (➕)   | 7813                                          |
 | **Lines Removed** (➖) | 1026                                        |
-| **Net Change** (↕)    | 6713                |
-| **Active Time** (⌚)   | 442 minutes |
+| **Net Change** (↕)    | 6787                |
+| **Active Time** (⌚)   | 445 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **_start_ribbon_dev_server.fish** (+123, -56)
 - **settings.json** (+594, -5)
 - **COMMIT_EDITMSG** (+2, -0)
-- **env.fish** (+71, -15)
+- **env.fish** (+135, -15)
 - **init.fish** (+22, -0)
 - **fish_prompt.fish** (+22, -0)
 - **ll.fish** (+6, -0)
@@ -156,7 +156,7 @@
 - **starship.toml** (+221, -166)
 - **_aliases.fish** (+80, -24)
 - **abbreviations.fish** (+12, -0)
-- **aliases.fish** (+10, -0)
+- **aliases.fish** (+20, -0)
 - **b.fish** (+23, -0)
 - **ultracite_aliases.fish** (+8, -0)
 - **g.fish** (+4, -0)
@@ -204,7 +204,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 4622
+".fish" : 4696
 ".json" : 641
 "unknown" : 2
 ".ts" : 2992
@@ -225,8 +225,8 @@ title Coding activity by hour (count of changes)
 "16h" : 161
 "17h" : 59
 "18h" : 119
-"19h" : 14
+"19h" : 17
 ```
 
 
-> **Last Updated:** 12/07/2025, 19:38:15
+> **Last Updated:** 12/07/2025, 19:59:25
