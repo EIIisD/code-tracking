@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5773                                          |
-| **Lines Removed** (➖) | 390                                        |
-| **Net Change** (↕)    | 5383                |
-| **Active Time** (⌚)   | 255 minutes |
+| **Lines Added** (➕)   | 5931                                          |
+| **Lines Removed** (➖) | 493                                        |
+| **Net Change** (↕)    | 5438                |
+| **Active Time** (⌚)   | 270 minutes |
 
 
 ## Modified Files
@@ -39,7 +39,7 @@
 - **.f.fish** (+4, -0)
 - **.bun.fish** (+4, -0)
 - **note.fish** (+26, -0)
-- **bun.fish** (+38, -25)
+- **bun.fish** (+53, -40)
 - **unbun.fish** (+39, -19)
 - **codex.fish** (+7, -0)
 - **qlmodelids.fish** (+5, -0)
@@ -134,18 +134,20 @@
 - **echo.ts** (+82, -0)
 - **dot_aliases.fish** (+64, -0)
 - **git_aliases.fish** (+20, -0)
-- **bun_aliases.fish** (+44, -0)
+- **bun_aliases.fish** (+52, -0)
 - **bun_scripts.fish** (+47, -0)
 - **dev_aliases.fish** (+20, -0)
-- **dev_scripts.fish** (+64, -0)
+- **dev_scripts.fish** (+64, -39)
 - **ai_aliases.fish** (+8, -0)
 - **ai_scripts.fish** (+76, -0)
 - **aliases.fish** (+57, -0)
 - **ultracite_aliases.fish** (+24, -0)
-- **system_and_utils.fish** (+206, -0)
+- **system_and_utils.fish** (+220, -49)
 - **biome_aliases.fish** (+25, -23)
 - **dev_scripts copy.fish** (+64, -0)
 - **p.fish** (+64, -29)
+- **third_person.fish** (+8, -0)
+- **git.fish** (+113, -0)
 
 ## Visualizations
 
@@ -154,7 +156,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 2501
+".fish" : 2762
 ".json" : 565
 "unknown" : 2
 ".ts" : 2992
@@ -171,8 +173,8 @@ title Coding activity by hour (count of changes)
 "13h" : 5
 "15h" : 72
 "16h" : 161
-"17h" : 29
+"17h" : 43
 ```
 
 
-> **Last Updated:** 12/07/2025, 17:18:15
+> **Last Updated:** 12/07/2025, 17:23:15
