@@ -518,7 +518,7 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 1853,
+      "totalLinesAdded": 2343,
       "totalLinesRemoved": 320,
       "totalActiveTime": 204,
       "files": {
@@ -3430,6 +3430,22 @@
             },
             "duration": 1,
             "language": "fish"
+          }
+        ],
+        "/Users/i/mcp.ts": [
+          {
+            "timestamp": "2025-07-12T15:22:58.194Z",
+            "fileName": "/Users/i/mcp.ts",
+            "fileType": ".ts",
+            "linesAdded": 490,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
