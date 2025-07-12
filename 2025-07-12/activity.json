@@ -3,7 +3,7 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 1267,
-      "totalLinesRemoved": 114,
+      "totalLinesRemoved": 130,
       "totalActiveTime": 34,
       "files": {
         "/Users/i/Projects/ribbon/scripts/repopulate-demo-images.ts": [
@@ -147,6 +147,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T15:44:41.821Z",
+            "fileName": "/Users/i/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
