@@ -590,9 +590,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 6649,
-      "totalLinesRemoved": 679,
-      "totalActiveTime": 325,
+      "totalLinesAdded": 7048,
+      "totalLinesRemoved": 786,
+      "totalActiveTime": 391,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -719,6 +719,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:56:48.508Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "fish"
           }
         ],
@@ -2222,6 +2236,34 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:37.169Z",
+            "fileName": "/Users/i/.config/fish/functions/codex.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:38.566Z",
+            "fileName": "/Users/i/.config/fish/functions/codex.fish",
+            "fileType": ".fish",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/functions/qlmodelids.fish": [
@@ -2274,6 +2316,34 @@
             "fileName": "/Users/i/.config/fish/functions/gemini_interactive.fish",
             "fileType": ".fish",
             "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:35.404Z",
+            "fileName": "/Users/i/.config/fish/functions/gemini_interactive.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 56,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:36.241Z",
+            "fileName": "/Users/i/.config/fish/functions/gemini_interactive.fish",
+            "fileType": ".fish",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "fish",
             "content": {
@@ -2402,6 +2472,34 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:37.680Z",
+            "fileName": "/Users/i/.config/fish/functions/opencode_bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:38.555Z",
+            "fileName": "/Users/i/.config/fish/functions/opencode_bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/functions/opencode_go.fish": [
@@ -2421,6 +2519,34 @@
           },
           {
             "timestamp": "2025-07-12T15:01:54.147Z",
+            "fileName": "/Users/i/.config/fish/functions/opencode_go.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:39.085Z",
+            "fileName": "/Users/i/.config/fish/functions/opencode_go.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:39.425Z",
             "fileName": "/Users/i/.config/fish/functions/opencode_go.fish",
             "fileType": ".fish",
             "linesAdded": 3,
@@ -3557,6 +3683,34 @@
           },
           {
             "timestamp": "2025-07-12T15:06:18.801Z",
+            "fileName": "/Users/i/.config/fish/functions/mcp.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:36.274Z",
+            "fileName": "/Users/i/.config/fish/functions/mcp.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:37.150Z",
             "fileName": "/Users/i/.config/fish/functions/mcp.fish",
             "fileType": ".fish",
             "linesAdded": 3,
@@ -5302,6 +5456,814 @@
             },
             "duration": 4,
             "language": "toml"
+          }
+        ],
+        "/Users/i/.config/fish/functions/_aliases.fish": [
+          {
+            "timestamp": "2025-07-12T17:54:02.858Z",
+            "fileName": "/Users/i/.config/fish/functions/_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:54:03.760Z",
+            "fileName": "/Users/i/.config/fish/functions/_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:54:04.083Z",
+            "fileName": "/Users/i/.config/fish/functions/_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:55:47.263Z",
+            "fileName": "/Users/i/.config/fish/functions/_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/conf.d/abbreviations.fish": [
+          {
+            "timestamp": "2025-07-12T17:56:53.149Z",
+            "fileName": "/Users/i/.config/fish/conf.d/abbreviations.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:56:53.997Z",
+            "fileName": "/Users/i/.config/fish/conf.d/abbreviations.fish",
+            "fileType": ".fish",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/conf.d/aliases.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:03.134Z",
+            "fileName": "/Users/i/.config/fish/conf.d/aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:04.007Z",
+            "fileName": "/Users/i/.config/fish/conf.d/aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/b.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:04.745Z",
+            "fileName": "/Users/i/.config/fish/functions/b.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:04.940Z",
+            "fileName": "/Users/i/.config/fish/functions/b.fish",
+            "fileType": ".fish",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/conf.d/ultracite_aliases.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:13.904Z",
+            "fileName": "/Users/i/.config/fish/conf.d/ultracite_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:14.781Z",
+            "fileName": "/Users/i/.config/fish/conf.d/ultracite_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/g.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:25.014Z",
+            "fileName": "/Users/i/.config/fish/functions/g.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:25.915Z",
+            "fileName": "/Users/i/.config/fish/functions/g.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/conf.d/ai_aliases.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:25.839Z",
+            "fileName": "/Users/i/.config/fish/conf.d/ai_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:26.673Z",
+            "fileName": "/Users/i/.config/fish/conf.d/ai_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ga.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:26.849Z",
+            "fileName": "/Users/i/.config/fish/functions/ga.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:27.569Z",
+            "fileName": "/Users/i/.config/fish/functions/ga.fish",
+            "fileType": ".fish",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_get_repo_info.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:48.766Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_repo_info.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:49.686Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_repo_info.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_get_current_branch.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:49.120Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_current_branch.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:49.672Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_current_branch.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_git_flow.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:50.718Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_git_flow.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:51.609Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_git_flow.fish",
+            "fileType": ".fish",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_smart_commit.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:51.965Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_smart_commit.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:52.474Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_smart_commit.fish",
+            "fileType": ".fish",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_sync_branch.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:52.709Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_sync_branch.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:53.340Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_sync_branch.fish",
+            "fileType": ".fish",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_list_open_issues.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:54.309Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_list_open_issues.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:55.194Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_list_open_issues.fish",
+            "fileType": ".fish",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_get_pr_for_current_branch.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:55.868Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_pr_for_current_branch.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:56.320Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_pr_for_current_branch.fish",
+            "fileType": ".fish",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_batch_op.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:57.418Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_batch_op.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:58.339Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_batch_op.fish",
+            "fileType": ".fish",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_pr_checks.fish": [
+          {
+            "timestamp": "2025-07-12T17:57:58.698Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_pr_checks.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:57:59.208Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_pr_checks.fish",
+            "fileType": ".fish",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_get_pr_diff.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:00.360Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_pr_diff.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:01.232Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_pr_diff.fish",
+            "fileType": ".fish",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_get_review_comments_for_file.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:01.970Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_review_comments_for_file.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:02.191Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_get_review_comments_for_file.fish",
+            "fileType": ".fish",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_repo_ctx.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:02.753Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_repo_ctx.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:03.042Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_repo_ctx.fish",
+            "fileType": ".fish",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_repo_structure.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:04.011Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_repo_structure.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:05.076Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_repo_structure.fish",
+            "fileType": ".fish",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_repo_stats.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:04.584Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_repo_stats.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:05.095Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_repo_stats.fish",
+            "fileType": ".fish",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_search_code.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:05.332Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_search_code.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:06.040Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_search_code.fish",
+            "fileType": ".fish",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_report_generate.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:06.734Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_report_generate.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:06.966Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_report_generate.fish",
+            "fileType": ".fish",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_workflow_execute.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:08.572Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_workflow_execute.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:09.468Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_workflow_execute.fish",
+            "fileType": ".fish",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/ai_context_store.fish": [
+          {
+            "timestamp": "2025-07-12T17:58:11.474Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_context_store.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:58:12.417Z",
+            "fileName": "/Users/i/.config/fish/functions/ai_context_store.fish",
+            "fileType": ".fish",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ]
       },

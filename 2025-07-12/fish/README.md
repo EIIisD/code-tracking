@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6649                                          |
-| **Lines Removed** (➖) | 679                                        |
-| **Net Change** (↕)    | 5970                |
-| **Active Time** (⌚)   | 325 minutes |
+| **Lines Added** (➕)   | 7048                                          |
+| **Lines Removed** (➖) | 786                                        |
+| **Net Change** (↕)    | 6262                |
+| **Active Time** (⌚)   | 391 minutes |
 
 
 ## Modified Files
-- **config.fish** (+57, -29)
+- **config.fish** (+57, -41)
 - **config.old.fish** (+564, -203)
 - **_start_ribbon_dev_server.fish** (+123, -0)
 - **settings.json** (+594, -5)
@@ -41,14 +41,14 @@
 - **note.fish** (+26, -0)
 - **bun.fish** (+53, -40)
 - **unbun.fish** (+39, -19)
-- **codex.fish** (+7, -0)
+- **codex.fish** (+13, -6)
 - **qlmodelids.fish** (+5, -0)
-- **gemini_interactive.fish** (+57, -0)
+- **gemini_interactive.fish** (+70, -56)
 - **rmd.fish** (+12, -0)
 - **bun_update_all.fish** (+7, -0)
 - **bun_downgrade_all.fish** (+4, -0)
-- **opencode_bun.fish** (+4, -0)
-- **opencode_go.fish** (+4, -0)
+- **opencode_bun.fish** (+7, -3)
+- **opencode_go.fish** (+7, -3)
 - **o.fish** (+4, -0)
 - **i.fish** (+4, -0)
 - **add.fish** (+4, -0)
@@ -84,7 +84,7 @@
 - **gitg.fish** (+4, -0)
 - **bang.fish** (+4, -0)
 - **bangbang.fish** (+4, -0)
-- **mcp.fish** (+4, -0)
+- **mcp.fish** (+7, -3)
 - **mcp_alias.fish** (+39, -37)
 - **u.fish** (+4, -0)
 - **uf.fish** (+4, -0)
@@ -154,6 +154,32 @@
 - **_abbreviations.fish** (+12, -0)
 - **agent.fish** (+167, -11)
 - **starship.toml** (+213, -166)
+- **_aliases.fish** (+80, -24)
+- **abbreviations.fish** (+12, -0)
+- **aliases.fish** (+10, -0)
+- **b.fish** (+23, -0)
+- **ultracite_aliases.fish** (+8, -0)
+- **g.fish** (+4, -0)
+- **ai_aliases.fish** (+4, -0)
+- **ga.fish** (+8, -0)
+- **ai_get_repo_info.fish** (+4, -0)
+- **ai_get_current_branch.fish** (+4, -0)
+- **ai_git_flow.fish** (+21, -0)
+- **ai_smart_commit.fish** (+16, -0)
+- **ai_sync_branch.fish** (+6, -0)
+- **ai_list_open_issues.fish** (+18, -0)
+- **ai_get_pr_for_current_branch.fish** (+6, -0)
+- **ai_batch_op.fish** (+19, -0)
+- **ai_pr_checks.fish** (+11, -0)
+- **ai_get_pr_diff.fish** (+11, -0)
+- **ai_get_review_comments_for_file.fish** (+11, -0)
+- **ai_repo_ctx.fish** (+4, -0)
+- **ai_repo_structure.fish** (+12, -0)
+- **ai_repo_stats.fish** (+7, -0)
+- **ai_search_code.fish** (+8, -0)
+- **ai_report_generate.fish** (+18, -0)
+- **ai_workflow_execute.fish** (+17, -0)
+- **ai_context_store.fish** (+29, -0)
 
 ## Visualizations
 
@@ -162,7 +188,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 3193
+".fish" : 3699
 ".json" : 641
 "unknown" : 2
 ".ts" : 2992
@@ -182,8 +208,8 @@ title Coding activity by hour (count of changes)
 "15h" : 72
 "16h" : 161
 "17h" : 59
-"18h" : 17
+"18h" : 82
 ```
 
 
-> **Last Updated:** 12/07/2025, 18:43:15
+> **Last Updated:** 12/07/2025, 18:58:15
