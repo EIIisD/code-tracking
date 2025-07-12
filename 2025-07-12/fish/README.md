@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1676                                          |
-| **Lines Removed** (➖) | 277                                        |
-| **Net Change** (↕)    | 1399                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Lines Added** (➕)   | 1842                                          |
+| **Lines Removed** (➖) | 320                                        |
+| **Net Change** (↕)    | 1522                |
+| **Active Time** (⌚)   | 197 minutes |
 
 
 ## Modified Files
@@ -59,7 +59,39 @@
 - **start.fish** (+4, -0)
 - **build.fish** (+4, -0)
 - **tests.fish** (+4, -0)
-- **check.fish** (+4, -0)
+- **check.fish** (+7, -6)
+- **preview.fish** (+4, -0)
+- **vc.fish** (+4, -0)
+- **ggit.fish** (+4, -0)
+- **ggitv.fish** (+4, -0)
+- **ungit.fish** (+4, -0)
+- **regit.fish** (+4, -0)
+- **npx.fish** (+4, -0)
+- **youtube-dl.fish** (+4, -0)
+- **yt.fish** (+4, -0)
+- **.superwhisper.fish** (+4, -0)
+- **.sw.fish** (+4, -0)
+- **.repomix.fish** (+4, -0)
+- **.biome.fish** (+4, -0)
+- **projects.fish** (+4, -0)
+- **update_language_associations.fish** (+4, -0)
+- **.codex.fish** (+4, -0)
+- **.claude.fish** (+4, -0)
+- **.c.fish** (+4, -0)
+- **.mcp.fish** (+4, -0)
+- **bot.fish** (+4, -0)
+- **help.fish** (+4, -0)
+- **gitg.fish** (+4, -0)
+- **bang.fish** (+4, -0)
+- **bangbang.fish** (+4, -0)
+- **mcp.fish** (+4, -0)
+- **mcp_alias.fish** (+39, -37)
+- **u.fish** (+4, -0)
+- **uf.fish** (+4, -0)
+- **uc.fish** (+4, -0)
+- **ui.fish** (+4, -0)
+- **FIX.fish** (+4, -0)
+- **bunup.fish** (+4, -0)
 
 ## Visualizations
 
@@ -68,7 +100,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 1428
+".fish" : 1637
 ".json" : 523
 "unknown" : 2
 ```
@@ -81,8 +113,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "13h" : 5
 "15h" : 72
-"16h" : 45
+"16h" : 112
 ```
 
 
-> **Last Updated:** 12/07/2025, 16:03:15
+> **Last Updated:** 12/07/2025, 16:08:15
