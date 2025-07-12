@@ -562,9 +562,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 5576,
-      "totalLinesRemoved": 338,
-      "totalActiveTime": 243,
+      "totalLinesAdded": 5773,
+      "totalLinesRemoved": 390,
+      "totalActiveTime": 255,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -4256,6 +4256,20 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:17:23.737Z",
+            "fileName": "/Users/i/.config/fish/functions/bun_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/functions/bun_scripts.fish": [
@@ -4436,6 +4450,20 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:15:08.272Z",
+            "fileName": "/Users/i/.config/fish/functions/aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/functions/ultracite_aliases.fish": [
@@ -4489,6 +4517,82 @@
             "fileType": ".fish",
             "linesAdded": 205,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/biome_aliases.fish": [
+          {
+            "timestamp": "2025-07-12T16:15:13.036Z",
+            "fileName": "/Users/i/.config/fish/functions/biome_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:15:13.076Z",
+            "fileName": "/Users/i/.config/fish/functions/biome_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/dev_scripts copy.fish": [
+          {
+            "timestamp": "2025-07-12T16:17:54.319Z",
+            "fileName": "/Users/i/.config/fish/functions/dev_scripts copy.fish",
+            "fileType": ".fish",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/p.fish": [
+          {
+            "timestamp": "2025-07-12T16:18:01.322Z",
+            "fileName": "/Users/i/.config/fish/functions/p.fish",
+            "fileType": ".fish",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:18:09.479Z",
+            "fileName": "/Users/i/.config/fish/functions/p.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 29,
             "projectName": "fish",
             "content": {
               "added": [],
