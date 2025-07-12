@@ -548,9 +548,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 2369,
+      "totalLinesAdded": 4990,
       "totalLinesRemoved": 320,
-      "totalActiveTime": 205,
+      "totalActiveTime": 212,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -3492,6 +3492,596 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-interceptor.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.212Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-interceptor.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/balanced-pool.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.199Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/balanced-pool.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/pool.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.197Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/pool.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/pool-stats.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.193Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/pool-stats.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/retry-agent.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.188Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/retry-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/global-dispatcher.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.173Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/global-dispatcher.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-errors.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.167Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-errors.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/handlers.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.183Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/handlers.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/client.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.281Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/client.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-pool.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.235Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-pool.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-client.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.239Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-client.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/env-http-proxy-agent.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.242Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/env-http-proxy-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/agent.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.209Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/header.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.230Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/header.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/fetch.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.226Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/fetch.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/retry-handler.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.243Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/retry-handler.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/interceptors.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.247Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/interceptors.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/cookies.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.287Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/cookies.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/index.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.269Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/index.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-agent.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.221Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/errors.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.282Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/errors.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/h2c-client.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.205Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/h2c-client.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/dispatcher.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.274Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/dispatcher.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 282,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/diagnostics-channel.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.261Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/diagnostics-channel.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/formdata.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.272Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/formdata.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/eventsource.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.255Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/eventsource.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-call-history.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.216Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/mock-call-history.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/proxy-agent.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.254Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/proxy-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/cache.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.265Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/cache.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/websocket.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.292Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/websocket.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 185,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/node_modules/undici-types/api.d.ts": [
+          {
+            "timestamp": "2025-07-12T15:33:58.283Z",
+            "fileName": "/Users/i/.config/fish/scripts/node_modules/undici-types/api.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/bun.lock": [
+          {
+            "timestamp": "2025-07-12T15:34:32.232Z",
+            "fileName": "/Users/i/.config/fish/scripts/bun.lock",
+            "fileType": ".lock",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/package.json": [
+          {
+            "timestamp": "2025-07-12T15:34:32.228Z",
+            "fileName": "/Users/i/.config/fish/scripts/package.json",
+            "fileType": ".json",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/downgrade_global_bun_packages.ts": [
+          {
+            "timestamp": "2025-07-12T15:34:34.722Z",
+            "fileName": "/Users/i/.config/fish/scripts/downgrade_global_bun_packages.ts",
+            "fileType": ".ts",
+            "linesAdded": 102,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/fetch_title.js": [
+          {
+            "timestamp": "2025-07-12T15:35:18.497Z",
+            "fileName": "/Users/i/.config/fish/scripts/fetch_title.js",
+            "fileType": ".js",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/i/.config/fish/scripts/echo.ts": [
+          {
+            "timestamp": "2025-07-12T15:35:48.140Z",
+            "fileName": "/Users/i/.config/fish/scripts/echo.ts",
+            "fileType": ".ts",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-12T15:37:02.053Z",
+            "fileName": "/Users/i/.config/fish/scripts/echo.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
