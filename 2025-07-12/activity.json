@@ -562,7 +562,7 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 6648,
+      "totalLinesAdded": 6649,
       "totalLinesRemoved": 679,
       "totalActiveTime": 325,
       "files": {
@@ -1061,6 +1061,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T17:42:22.351Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
