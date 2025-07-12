@@ -5275,9 +5275,9 @@
       "averageChangeSize": 14.5
     },
     "cursor-openrouter-proxy": {
-      "totalLinesAdded": 605,
+      "totalLinesAdded": 1550,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "/Users/i/Projects/cursor-openrouter-proxy/.env": [
           {
@@ -5407,6 +5407,36 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/cursor-openrouter-proxy/proxy.go": [
+          {
+            "timestamp": "2025-07-12T17:25:20.445Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/proxy.go",
+            "fileType": ".go",
+            "linesAdded": 944,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-07-12T17:25:21.287Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/proxy.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
           }
         ]
       },
