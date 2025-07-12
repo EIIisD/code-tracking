@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 639                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 639                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 672                                          |
+| **Lines Removed** (➖) | 32                                        |
+| **Net Change** (↕)    | 640                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **settings.json** (+590, -0)
 - **convert.py** (+49, -0)
+- **crop.py** (+33, -32)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 590
-".py" : 49
+".py" : 114
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 4
+"00h" : 7
 ```
 
 
-> **Last Updated:** 13/07/2025, 00:14:38
+> **Last Updated:** 13/07/2025, 00:24:38
