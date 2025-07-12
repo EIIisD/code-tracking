@@ -373,8 +373,8 @@
     },
     "fish": {
       "totalLinesAdded": 591,
-      "totalLinesRemoved": 197,
-      "totalActiveTime": 7,
+      "totalLinesRemoved": 207,
+      "totalActiveTime": 12,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -461,6 +461,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T12:34:25.541Z",
+            "fileName": "/Users/i/.config/fish/config.old.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "fish"
           }
         ]
