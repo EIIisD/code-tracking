@@ -2,9 +2,9 @@
   "date": "2025-07-12",
   "projects": {
     "ribbon": {
-      "totalLinesAdded": 133,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 148,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 15,
       "files": {
         "/Users/i/Projects/ribbon/scripts/repopulate-demo-images.ts": [
           {
@@ -99,6 +99,48 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T00:36:55.347Z",
+            "fileName": "/Users/i/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T00:37:11.601Z",
+            "fileName": "/Users/i/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T00:37:18.435Z",
+            "fileName": "/Users/i/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
             "projectName": "ribbon",
             "content": {
               "added": [],
