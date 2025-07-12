@@ -562,9 +562,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 5954,
+      "totalLinesAdded": 6180,
       "totalLinesRemoved": 501,
-      "totalActiveTime": 284,
+      "totalActiveTime": 291,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -4884,6 +4884,52 @@
             },
             "duration": 1,
             "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/_ai_github_helpers.fish": [
+          {
+            "timestamp": "2025-07-12T16:33:58.491Z",
+            "fileName": "/Users/i/.config/fish/functions/_ai_github_helpers.fish",
+            "fileType": ".fish",
+            "linesAdded": 209,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/~/.config/starship.toml": [
+          {
+            "timestamp": "2025-07-12T16:37:43.635Z",
+            "fileName": "/Users/i/.config/fish/~/.config/starship.toml",
+            "fileType": ".toml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-07-12T16:37:44.805Z",
+            "fileName": "/Users/i/.config/fish/~/.config/starship.toml",
+            "fileType": ".toml",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
           }
         ]
       },

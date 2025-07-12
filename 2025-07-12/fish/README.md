@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5954                                          |
+| **Lines Added** (➕)   | 6180                                          |
 | **Lines Removed** (➖) | 501                                        |
-| **Net Change** (↕)    | 5453                |
-| **Active Time** (⌚)   | 284 minutes |
+| **Net Change** (↕)    | 5679                |
+| **Active Time** (⌚)   | 291 minutes |
 
 
 ## Modified Files
@@ -148,6 +148,8 @@
 - **p.fish** (+64, -37)
 - **third_person.fish** (+8, -0)
 - **git.fish** (+113, -0)
+- **_ai_github_helpers.fish** (+209, -0)
+- **starship.toml** (+17, -0)
 
 ## Visualizations
 
@@ -156,12 +158,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 2793
+".fish" : 3002
 ".json" : 565
 "unknown" : 2
 ".ts" : 2992
 ".lock" : 35
 ".js" : 68
+".toml" : 17
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -173,8 +176,8 @@ title Coding activity by hour (count of changes)
 "13h" : 5
 "15h" : 72
 "16h" : 161
-"17h" : 49
+"17h" : 52
 ```
 
 
-> **Last Updated:** 12/07/2025, 17:33:15
+> **Last Updated:** 12/07/2025, 17:38:15
