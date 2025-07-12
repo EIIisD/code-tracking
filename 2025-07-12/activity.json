@@ -5317,9 +5317,9 @@
       "averageChangeSize": 14.5
     },
     "cursor-openrouter-proxy": {
-      "totalLinesAdded": 2139,
+      "totalLinesAdded": 2222,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 12,
+      "totalActiveTime": 15,
       "files": {
         "/Users/i/Projects/cursor-openrouter-proxy/.env": [
           {
@@ -5509,6 +5509,52 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/cursor-openrouter-proxy/test_proxy.sh": [
+          {
+            "timestamp": "2025-07-12T17:50:02.899Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/test_proxy.sh",
+            "fileType": ".sh",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ],
+        "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/test_proxy.fish": [
+          {
+            "timestamp": "2025-07-12T17:51:55.542Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/test_proxy.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:51:57.100Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/test_proxy.fish",
+            "fileType": ".fish",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ]
       },
