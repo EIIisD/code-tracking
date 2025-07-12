@@ -518,9 +518,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 2343,
+      "totalLinesAdded": 2369,
       "totalLinesRemoved": 320,
-      "totalActiveTime": 204,
+      "totalActiveTime": 205,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -3446,6 +3446,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/i/.cursor/mcp.json": [
+          {
+            "timestamp": "2025-07-12T15:23:16.466Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

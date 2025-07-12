@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2343                                          |
+| **Lines Added** (➕)   | 2369                                          |
 | **Lines Removed** (➖) | 320                                        |
-| **Net Change** (↕)    | 2023                |
-| **Active Time** (⌚)   | 204 minutes |
+| **Net Change** (↕)    | 2049                |
+| **Active Time** (⌚)   | 205 minutes |
 
 
 ## Modified Files
@@ -95,6 +95,7 @@
 - **bunup-clean.fish** (+4, -0)
 - **bundown.fish** (+4, -0)
 - **mcp.ts** (+490, -0)
+- **mcp.json** (+26, -0)
 
 ## Visualizations
 
@@ -104,7 +105,7 @@
 pie showData
 title Lines changed by file type
 ".fish" : 1648
-".json" : 523
+".json" : 549
 "unknown" : 2
 ".ts" : 490
 ```
@@ -117,8 +118,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "13h" : 5
 "15h" : 72
-"16h" : 118
+"16h" : 119
 ```
 
 
-> **Last Updated:** 12/07/2025, 16:23:15
+> **Last Updated:** 12/07/2025, 16:28:15
