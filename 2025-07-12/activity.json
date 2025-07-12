@@ -161,6 +161,53 @@
         "/Users/i/Projects/ribbon/scripts/repopulate-demo-images.ts"
       ],
       "averageChangeSize": 21.6
+    },
+    "research": {
+      "totalLinesAdded": 578,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json": [
+          {
+            "timestamp": "2025-07-12T00:38:32.211Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 574,
+            "linesRemoved": 0,
+            "projectName": "research",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T00:38:32.565Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "research",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "1": 1
+      },
+      "topFiles": [
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json"
+      ],
+      "averageChangeSize": 289
     }
   },
   "totalActiveTime": 8,
