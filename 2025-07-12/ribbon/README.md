@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 91                                          |
-| **Lines Removed** (➖) | 17                                        |
-| **Net Change** (↕)    | 74                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Lines Added** (➕)   | 133                                          |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 113                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
 - **repopulate-demo-images.ts** (+91, -17)
+- **mcp.json** (+42, -3)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 108
+".json" : 45
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 5
+"01h" : 2
 ```
 
 
-> **Last Updated:** 12/07/2025, 00:03:44
+> **Last Updated:** 12/07/2025, 01:33:44
