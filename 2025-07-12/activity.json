@@ -6279,9 +6279,9 @@
       "averageChangeSize": 14.5
     },
     "cursor-openrouter-proxy": {
-      "totalLinesAdded": 2222,
+      "totalLinesAdded": 2275,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 15,
+      "totalActiveTime": 25,
       "files": {
         "/Users/i/Projects/cursor-openrouter-proxy/.env": [
           {
@@ -6509,6 +6509,96 @@
             "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/test_proxy.fish",
             "fileType": ".fish",
             "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/start_proxy.fish": [
+          {
+            "timestamp": "2025-07-12T17:55:35.292Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/start_proxy.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:55:38.123Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/start_proxy.fish",
+            "fileType": ".fish",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/stop_proxy.fish": [
+          {
+            "timestamp": "2025-07-12T17:55:47.393Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/stop_proxy.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:55:49.070Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/stop_proxy.fish",
+            "fileType": ".fish",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/proxy_toggle.fish": [
+          {
+            "timestamp": "2025-07-12T17:56:55.534Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/proxy_toggle.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T17:56:57.082Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/~/.config/fish/functions/proxy_toggle.fish",
+            "fileType": ".fish",
+            "linesAdded": 23,
             "linesRemoved": 0,
             "projectName": "cursor-openrouter-proxy",
             "content": {

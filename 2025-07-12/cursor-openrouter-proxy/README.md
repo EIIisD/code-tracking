@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2222                                          |
+| **Lines Added** (➕)   | 2275                                          |
 | **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 2201                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Net Change** (↕)    | 2254                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,9 @@
 - **settings.json** (+589, -0)
 - **test_proxy.sh** (+41, -0)
 - **test_proxy.fish** (+42, -0)
+- **start_proxy.fish** (+22, -0)
+- **stop_proxy.fish** (+7, -0)
+- **proxy_toggle.fish** (+24, -0)
 
 ## Visualizations
 
@@ -29,7 +32,7 @@ title Lines changed by file type
 ".json" : 1167
 ".go" : 945
 ".sh" : 41
-".fish" : 42
+".fish" : 95
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 4
 "17h" : 5
-"18h" : 7
+"18h" : 13
 ```
 
 
-> **Last Updated:** 12/07/2025, 18:54:15
+> **Last Updated:** 12/07/2025, 18:59:15
