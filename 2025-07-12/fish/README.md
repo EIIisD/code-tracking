@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5145                                          |
+| **Lines Added** (➕)   | 5576                                          |
 | **Lines Removed** (➖) | 338                                        |
-| **Net Change** (↕)    | 4807                |
-| **Active Time** (⌚)   | 228 minutes |
+| **Net Change** (↕)    | 5238                |
+| **Active Time** (⌚)   | 243 minutes |
 
 
 ## Modified Files
@@ -136,6 +136,13 @@
 - **git_aliases.fish** (+20, -0)
 - **bun_aliases.fish** (+24, -0)
 - **bun_scripts.fish** (+47, -0)
+- **dev_aliases.fish** (+20, -0)
+- **dev_scripts.fish** (+64, -0)
+- **ai_aliases.fish** (+8, -0)
+- **ai_scripts.fish** (+76, -0)
+- **aliases.fish** (+33, -0)
+- **ultracite_aliases.fish** (+24, -0)
+- **system_and_utils.fish** (+206, -0)
 
 ## Visualizations
 
@@ -144,7 +151,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 1821
+".fish" : 2252
 ".json" : 565
 "unknown" : 2
 ".ts" : 2992
@@ -161,8 +168,8 @@ title Coding activity by hour (count of changes)
 "13h" : 5
 "15h" : 72
 "16h" : 161
-"17h" : 8
+"17h" : 22
 ```
 
 
-> **Last Updated:** 12/07/2025, 17:08:15
+> **Last Updated:** 12/07/2025, 17:13:15
