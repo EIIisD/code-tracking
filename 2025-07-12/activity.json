@@ -372,9 +372,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 591,
+      "totalLinesAdded": 708,
       "totalLinesRemoved": 207,
-      "totalActiveTime": 12,
+      "totalActiveTime": 13,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -475,6 +475,36 @@
               "removed": []
             },
             "duration": 5,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/_start_ribbon_dev_server.fish": [
+          {
+            "timestamp": "2025-07-12T14:29:19.957Z",
+            "fileName": "/Users/i/.config/fish/functions/_start_ribbon_dev_server.fish",
+            "fileType": ".fish",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T14:29:23.301Z",
+            "fileName": "/Users/i/.config/fish/functions/_start_ribbon_dev_server.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "fish"
           }
         ]
