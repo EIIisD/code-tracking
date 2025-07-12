@@ -4511,9 +4511,9 @@
       "averageChangeSize": 14.5
     },
     "cursor-openrouter-proxy": {
-      "totalLinesAdded": 23,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 601,
+      "totalLinesRemoved": 21,
+      "totalActiveTime": 5,
       "files": {
         "/Users/i/Projects/cursor-openrouter-proxy/.env": [
           {
@@ -4571,6 +4571,36 @@
             },
             "duration": 1,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-12T16:12:31.951Z",
+            "fileName": "/Users/i/Projects/cursor-openrouter-proxy/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json": [
+          {
+            "timestamp": "2025-07-12T16:11:07.237Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 578,
+            "linesRemoved": 0,
+            "projectName": "cursor-openrouter-proxy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
