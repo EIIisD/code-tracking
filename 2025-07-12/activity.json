@@ -432,7 +432,7 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 1227,
+      "totalLinesAdded": 1229,
       "totalLinesRemoved": 211,
       "totalActiveTime": 22,
       "files": {
@@ -666,6 +666,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/.config/fish/.git/COMMIT_EDITMSG": [
+          {
+            "timestamp": "2025-07-12T14:52:54.019Z",
+            "fileName": "/Users/i/.config/fish/.git/COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
