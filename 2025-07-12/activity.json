@@ -563,8 +563,8 @@
     },
     "fish": {
       "totalLinesAdded": 6575,
-      "totalLinesRemoved": 538,
-      "totalActiveTime": 309,
+      "totalLinesRemoved": 678,
+      "totalActiveTime": 313,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -5119,6 +5119,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-07-12T17:08:47.312Z",
+            "fileName": "/Users/i/.config/starship.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 140,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "toml"
           }
         ]
