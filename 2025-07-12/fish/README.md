@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4990                                          |
+| **Lines Added** (➕)   | 5145                                          |
 | **Lines Removed** (➖) | 338                                        |
-| **Net Change** (↕)    | 4652                |
-| **Active Time** (⌚)   | 220 minutes |
+| **Net Change** (↕)    | 4807                |
+| **Active Time** (⌚)   | 228 minutes |
 
 
 ## Modified Files
@@ -132,6 +132,10 @@
 - **downgrade_global_bun_packages.ts** (+102, -0)
 - **fetch_title.js** (+68, -0)
 - **echo.ts** (+82, -0)
+- **dot_aliases.fish** (+64, -0)
+- **git_aliases.fish** (+20, -0)
+- **bun_aliases.fish** (+24, -0)
+- **bun_scripts.fish** (+47, -0)
 
 ## Visualizations
 
@@ -140,7 +144,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 1666
+".fish" : 1821
 ".json" : 565
 "unknown" : 2
 ".ts" : 2992
@@ -157,7 +161,8 @@ title Coding activity by hour (count of changes)
 "13h" : 5
 "15h" : 72
 "16h" : 161
+"17h" : 8
 ```
 
 
-> **Last Updated:** 12/07/2025, 17:03:15
+> **Last Updated:** 12/07/2025, 17:08:15

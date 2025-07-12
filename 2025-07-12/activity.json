@@ -562,9 +562,9 @@
       "averageChangeSize": 289
     },
     "fish": {
-      "totalLinesAdded": 4990,
+      "totalLinesAdded": 5145,
       "totalLinesRemoved": 338,
-      "totalActiveTime": 220,
+      "totalActiveTime": 228,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -4166,6 +4166,126 @@
             },
             "duration": 2,
             "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/functions/dot_aliases.fish": [
+          {
+            "timestamp": "2025-07-12T16:05:19.154Z",
+            "fileName": "/Users/i/.config/fish/functions/dot_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:05:20.085Z",
+            "fileName": "/Users/i/.config/fish/functions/dot_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/git_aliases.fish": [
+          {
+            "timestamp": "2025-07-12T16:07:11.361Z",
+            "fileName": "/Users/i/.config/fish/functions/git_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:07:12.221Z",
+            "fileName": "/Users/i/.config/fish/functions/git_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/bun_aliases.fish": [
+          {
+            "timestamp": "2025-07-12T16:07:22.719Z",
+            "fileName": "/Users/i/.config/fish/functions/bun_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:07:23.595Z",
+            "fileName": "/Users/i/.config/fish/functions/bun_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/bun_scripts.fish": [
+          {
+            "timestamp": "2025-07-12T16:08:05.889Z",
+            "fileName": "/Users/i/.config/fish/functions/bun_scripts.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-12T16:08:06.774Z",
+            "fileName": "/Users/i/.config/fish/functions/bun_scripts.fish",
+            "fileType": ".fish",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ]
       },
