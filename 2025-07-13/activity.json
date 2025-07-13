@@ -435,9 +435,9 @@
       "averageChangeSize": 25.5
     },
     "tampermonkey": {
-      "totalLinesAdded": 14,
+      "totalLinesAdded": 893,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 23,
       "files": {
         "/Users/i/Projects/tampermonkey/index.ts": [
           {
@@ -483,6 +483,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T16:57:23.066Z",
+            "fileName": "/Users/i/Projects/tampermonkey/src/example-script/meta.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/i/Projects/tampermonkey/src/example-script/style.css": [
@@ -513,6 +527,276 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/src/example-script/index.ts": [
+          {
+            "timestamp": "2025-07-13T16:54:55.375Z",
+            "fileName": "/Users/i/Projects/tampermonkey/src/example-script/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T16:54:56.650Z",
+            "fileName": "/Users/i/Projects/tampermonkey/src/example-script/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/tsconfig.json": [
+          {
+            "timestamp": "2025-07-13T16:55:02.775Z",
+            "fileName": "/Users/i/Projects/tampermonkey/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/scripts/build.ts": [
+          {
+            "timestamp": "2025-07-13T16:55:17.494Z",
+            "fileName": "/Users/i/Projects/tampermonkey/scripts/build.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T16:55:18.746Z",
+            "fileName": "/Users/i/Projects/tampermonkey/scripts/build.ts",
+            "fileType": ".ts",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T16:55:24.635Z",
+            "fileName": "/Users/i/Projects/tampermonkey/scripts/build.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/package.json": [
+          {
+            "timestamp": "2025-07-13T16:55:31.688Z",
+            "fileName": "/Users/i/Projects/tampermonkey/package.json",
+            "fileType": ".json",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T16:55:32.706Z",
+            "fileName": "/Users/i/Projects/tampermonkey/package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T16:56:34.329Z",
+            "fileName": "/Users/i/Projects/tampermonkey/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/scripts/deploy.ts": [
+          {
+            "timestamp": "2025-07-13T16:55:58.088Z",
+            "fileName": "/Users/i/Projects/tampermonkey/scripts/deploy.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T16:55:59.649Z",
+            "fileName": "/Users/i/Projects/tampermonkey/scripts/deploy.ts",
+            "fileType": ".ts",
+            "linesAdded": 102,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/gists.json": [
+          {
+            "timestamp": "2025-07-13T16:56:13.735Z",
+            "fileName": "/Users/i/Projects/tampermonkey/gists.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/.gitignore": [
+          {
+            "timestamp": "2025-07-13T16:56:21.720Z",
+            "fileName": "/Users/i/Projects/tampermonkey/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T16:56:23.148Z",
+            "fileName": "/Users/i/Projects/tampermonkey/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-13T16:56:34.002Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 590,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T16:56:34.233Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tampermonkey/.env": [
+          {
+            "timestamp": "2025-07-13T16:57:40.417Z",
+            "fileName": "/Users/i/Projects/tampermonkey/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T16:57:42.208Z",
+            "fileName": "/Users/i/Projects/tampermonkey/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
