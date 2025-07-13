@@ -436,8 +436,8 @@
     },
     "tampermonkey": {
       "totalLinesAdded": 1990,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 38,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 45,
       "files": {
         "/Users/i/Projects/tampermonkey/index.ts": [
           {
@@ -948,6 +948,34 @@
             "fileType": ".json",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T20:48:05.290Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T20:49:26.743Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "tampermonkey",
             "content": {
               "added": [],
