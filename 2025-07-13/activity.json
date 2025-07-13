@@ -234,9 +234,9 @@
       "averageChangeSize": 388
     },
     "ableton-mcp": {
-      "totalLinesAdded": 686,
+      "totalLinesAdded": 693,
       "totalLinesRemoved": 20,
-      "totalActiveTime": 4,
+      "totalActiveTime": 5,
       "files": {
         "/Users/i/Projects/ableton-mcp/MCP_Server/server.py": [
           {
@@ -310,6 +310,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/i/Projects/ableton-mcp/mcp.json": [
+          {
+            "timestamp": "2025-07-13T16:57:44.895Z",
+            "fileName": "/Users/i/Projects/ableton-mcp/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T16:57:45.809Z",
+            "fileName": "/Users/i/Projects/ableton-mcp/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
