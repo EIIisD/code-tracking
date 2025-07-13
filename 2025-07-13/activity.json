@@ -436,7 +436,7 @@
     },
     "tampermonkey": {
       "totalLinesAdded": 893,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 3,
       "totalActiveTime": 23,
       "files": {
         "/Users/i/Projects/tampermonkey/index.ts": [
@@ -556,6 +556,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T17:02:59.663Z",
+            "fileName": "/Users/i/Projects/tampermonkey/src/example-script/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
