@@ -435,7 +435,7 @@
       "averageChangeSize": 25.5
     },
     "tampermonkey": {
-      "totalLinesAdded": 893,
+      "totalLinesAdded": 1383,
       "totalLinesRemoved": 3,
       "totalActiveTime": 23,
       "files": {
@@ -811,6 +811,22 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/i/mcp.ts": [
+          {
+            "timestamp": "2025-07-13T20:34:34.635Z",
+            "fileName": "/Users/i/mcp.ts",
+            "fileType": ".ts",
+            "linesAdded": 490,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
