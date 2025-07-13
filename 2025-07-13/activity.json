@@ -232,6 +232,98 @@
         "/Users/i/Downloads/drive-download-20250712T233552Z-1-001/2.vertex.md"
       ],
       "averageChangeSize": 388
+    },
+    "ableton-mcp": {
+      "totalLinesAdded": 686,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/i/Projects/ableton-mcp/MCP_Server/server.py": [
+          {
+            "timestamp": "2025-07-13T11:20:03.444Z",
+            "fileName": "/Users/i/Projects/ableton-mcp/MCP_Server/server.py",
+            "fileType": ".py",
+            "linesAdded": 661,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T11:20:30.408Z",
+            "fileName": "/Users/i/Projects/ableton-mcp/MCP_Server/server.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/i/Projects/ableton-mcp/test_types.py": [
+          {
+            "timestamp": "2025-07-13T11:21:16.998Z",
+            "fileName": "/Users/i/Projects/ableton-mcp/test_types.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T11:21:17.840Z",
+            "fileName": "/Users/i/Projects/ableton-mcp/test_types.py",
+            "fileType": ".py",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T11:21:29.466Z",
+            "fileName": "/Users/i/Projects/ableton-mcp/test_types.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "ableton-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 4
+      },
+      "changeFrequency": {
+        "12": 4
+      },
+      "topFiles": [
+        "/Users/i/Projects/ableton-mcp/test_types.py",
+        "/Users/i/Projects/ableton-mcp/MCP_Server/server.py"
+      ],
+      "averageChangeSize": 141.2
     }
   },
   "totalActiveTime": 3,
