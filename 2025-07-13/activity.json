@@ -324,6 +324,85 @@
         "/Users/i/Projects/ableton-mcp/MCP_Server/server.py"
       ],
       "averageChangeSize": 141.2
+    },
+    "fish": {
+      "totalLinesAdded": 102,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/i/.config/fish/scripts/switch_openrouter_api_key.ts": [
+          {
+            "timestamp": "2025-07-13T15:19:27.951Z",
+            "fileName": "/Users/i/.config/fish/scripts/switch_openrouter_api_key.ts",
+            "fileType": ".ts",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T15:19:40.603Z",
+            "fileName": "/Users/i/.config/fish/scripts/switch_openrouter_api_key.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.config/fish/config.fish": [
+          {
+            "timestamp": "2025-07-13T15:20:21.749Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-13T15:20:42.134Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1,
+        "fish": 2
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/scripts/switch_openrouter_api_key.ts",
+        "/Users/i/.config/fish/config.fish"
+      ],
+      "averageChangeSize": 25.5
     }
   },
   "totalActiveTime": 3,
