@@ -435,9 +435,9 @@
       "averageChangeSize": 25.5
     },
     "tampermonkey": {
-      "totalLinesAdded": 3272,
-      "totalLinesRemoved": 49,
-      "totalActiveTime": 71,
+      "totalLinesAdded": 3886,
+      "totalLinesRemoved": 54,
+      "totalActiveTime": 77,
       "files": {
         "/Users/i/Projects/tampermonkey/index.ts": [
           {
@@ -1298,6 +1298,76 @@
             "fileType": ".json",
             "linesAdded": 603,
             "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T21:33:44.514Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 603,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T21:34:46.018Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T21:35:54.306Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T21:36:43.333Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "tampermonkey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-13T21:36:55.962Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "tampermonkey",
             "content": {
               "added": [],
