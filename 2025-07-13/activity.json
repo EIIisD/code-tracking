@@ -125,9 +125,9 @@
       "averageChangeSize": 159.75
     },
     "drive-download-20250712T233552Z-1-001": {
-      "totalLinesAdded": 768,
+      "totalLinesAdded": 4250,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/i/Downloads/drive-download-20250712T233552Z-1-001/2.vertex.md": [
           {
@@ -159,6 +159,36 @@
             },
             "duration": 1,
             "language": "md"
+          }
+        ],
+        "/Users/i/Downloads/drive-download-20250712T233552Z-1-001/warnings.txt": [
+          {
+            "timestamp": "2025-07-13T01:49:24.708Z",
+            "fileName": "/Users/i/Downloads/drive-download-20250712T233552Z-1-001/warnings.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drive-download-20250712T233552Z-1-001",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-13T01:49:45.609Z",
+            "fileName": "/Users/i/Downloads/drive-download-20250712T233552Z-1-001/warnings.txt",
+            "fileType": ".txt",
+            "linesAdded": 3481,
+            "linesRemoved": 0,
+            "projectName": "drive-download-20250712T233552Z-1-001",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
