@@ -124,9 +124,9 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 1482,
+      "totalLinesAdded": 2092,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 16,
+      "totalActiveTime": 18,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -408,6 +408,52 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/scripts/dev/db-utils.ts": [
+          {
+            "timestamp": "2025-07-14T11:14:43.010Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/dev/db-utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 314,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-14T11:14:44.334Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/dev/db-utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/ribbon/package.json": [
+          {
+            "timestamp": "2025-07-14T11:14:55.695Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 272,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
