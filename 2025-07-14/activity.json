@@ -124,9 +124,9 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 8303,
-      "totalLinesRemoved": 366,
-      "totalActiveTime": 152,
+      "totalLinesAdded": 8415,
+      "totalLinesRemoved": 481,
+      "totalActiveTime": 160,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -2087,6 +2087,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T19:07:08.685Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/VirtualizedFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 111,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T19:07:08.742Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/VirtualizedFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T19:10:30.723Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/VirtualizedFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T19:11:39.778Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/VirtualizedFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
