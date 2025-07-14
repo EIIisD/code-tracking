@@ -124,7 +124,7 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 6965,
+      "totalLinesAdded": 6966,
       "totalLinesRemoved": 355,
       "totalActiveTime": 129,
       "files": {
@@ -1844,6 +1844,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/.next/package.json": [
+          {
+            "timestamp": "2025-07-14T15:07:13.911Z",
+            "fileName": "/Users/i/Projects/ribbon/.next/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
