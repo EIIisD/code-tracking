@@ -125,8 +125,8 @@
     },
     "ribbon": {
       "totalLinesAdded": 3096,
-      "totalLinesRemoved": 63,
-      "totalActiveTime": 62,
+      "totalLinesRemoved": 66,
+      "totalActiveTime": 63,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -635,6 +635,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-14T11:53:32.914Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
