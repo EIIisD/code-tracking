@@ -124,7 +124,7 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 6012,
+      "totalLinesAdded": 6288,
       "totalLinesRemoved": 116,
       "totalActiveTime": 102,
       "files": {
@@ -1528,6 +1528,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/scripts/test-materials-search.ts": [
+          {
+            "timestamp": "2025-07-14T13:14:56.088Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/test-materials-search.ts",
+            "fileType": ".ts",
+            "linesAdded": 276,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
