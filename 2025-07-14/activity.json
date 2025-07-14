@@ -122,6 +122,85 @@
         "/Users/i/Library/Application Support/Cursor/User/settings.json"
       ],
       "averageChangeSize": 133.25
+    },
+    "ribbon": {
+      "totalLinesAdded": 355,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/i/Projects/ribbon/scripts/tst.js": [
+          {
+            "timestamp": "2025-07-14T05:12:48.569Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/tst.js",
+            "fileType": ".js",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-14T05:14:39.219Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/tst.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "/Users/i/Projects/ribbon/scripts/db-utils.ts": [
+          {
+            "timestamp": "2025-07-14T05:16:04.172Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/db-utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 309,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-14T05:17:37.107Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/db-utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 2,
+        "ts": 4
+      },
+      "changeFrequency": {
+        "6": 6
+      },
+      "topFiles": [
+        "/Users/i/Projects/ribbon/scripts/tst.js",
+        "/Users/i/Projects/ribbon/scripts/db-utils.ts"
+      ],
+      "averageChangeSize": 88.75
     }
   },
   "totalActiveTime": 1,
