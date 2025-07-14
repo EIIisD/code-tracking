@@ -2110,6 +2110,251 @@
         "/Users/i/Library/Application Support/Cursor/User/settings.json"
       ],
       "averageChangeSize": 140.2
+    },
+    "content": {
+      "totalLinesAdded": 326,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 13,
+      "files": {
+        "/Users/i/Downloads/content/Apple-App-Store-ecosystem-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:26:53.298Z",
+            "fileName": "/Users/i/Downloads/content/Apple-App-Store-ecosystem-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-App-Store-ecosystem-in-US-illustration-01/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:26:54.636Z",
+            "fileName": "/Users/i/Downloads/content/Apple-App-Store-ecosystem-in-US-illustration-01/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-App-Store-fraud-prevention-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:26:56.072Z",
+            "fileName": "/Users/i/Downloads/content/Apple-App-Store-fraud-prevention-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-Arcade-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:26:57.293Z",
+            "fileName": "/Users/i/Downloads/content/Apple-Arcade-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-Arcade-hero (1)/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:26:58.422Z",
+            "fileName": "/Users/i/Downloads/content/Apple-Arcade-hero (1)/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-CarPlay-Ultra-drive-scenario/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:26:59.702Z",
+            "fileName": "/Users/i/Downloads/content/Apple-CarPlay-Ultra-drive-scenario/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-celebrates-Earth-Day-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:01.140Z",
+            "fileName": "/Users/i/Downloads/content/Apple-celebrates-Earth-Day-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-Health-Study-in-Research-app-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:02.818Z",
+            "fileName": "/Users/i/Downloads/content/Apple-Health-Study-in-Research-app-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-iPad-Air-hero-250304/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:03.944Z",
+            "fileName": "/Users/i/Downloads/content/Apple-iPad-Air-hero-250304/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-MAMI-Select-iPhone-16-Pro-Max-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:05.554Z",
+            "fileName": "/Users/i/Downloads/content/Apple-MAMI-Select-iPhone-16-Pro-Max-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-Miami-Worldcenter-media-preview-store-front/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:06.995Z",
+            "fileName": "/Users/i/Downloads/content/Apple-Miami-Worldcenter-media-preview-store-front/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-Miami-Worldcenter-opening-day-first-customers/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:08.602Z",
+            "fileName": "/Users/i/Downloads/content/Apple-Miami-Worldcenter-opening-day-first-customers/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-Music-Sound-Therapy-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:10.404Z",
+            "fileName": "/Users/i/Downloads/content/Apple-Music-Sound-Therapy-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ],
+        "/Users/i/Downloads/content/Apple-New-Orleans-youth-arts-partners-hero/LEGAL_NOTICE.rtf": [
+          {
+            "timestamp": "2025-07-14T18:27:11.817Z",
+            "fileName": "/Users/i/Downloads/content/Apple-New-Orleans-youth-arts-partners-hero/LEGAL_NOTICE.rtf",
+            "fileType": ".rtf",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rtf"
+          }
+        ]
+      },
+      "languageStats": {
+        "rtf": 13
+      },
+      "changeFrequency": {
+        "19": 13
+      },
+      "topFiles": [
+        "/Users/i/Downloads/content/Apple-App-Store-ecosystem-hero/LEGAL_NOTICE.rtf",
+        "/Users/i/Downloads/content/Apple-App-Store-ecosystem-in-US-illustration-01/LEGAL_NOTICE.rtf",
+        "/Users/i/Downloads/content/Apple-App-Store-fraud-prevention-hero/LEGAL_NOTICE.rtf",
+        "/Users/i/Downloads/content/Apple-Arcade-hero/LEGAL_NOTICE.rtf",
+        "/Users/i/Downloads/content/Apple-Arcade-hero (1)/LEGAL_NOTICE.rtf"
+      ],
+      "averageChangeSize": 23.285714285714285
     }
   },
   "totalActiveTime": 1,
