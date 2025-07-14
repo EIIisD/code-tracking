@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7506                                          |
-| **Lines Removed** (➖) | 356                                        |
-| **Net Change** (↕)    | 7150                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Added** (➕)   | 7560                                          |
+| **Lines Removed** (➖) | 357                                        |
+| **Net Change** (↕)    | 7203                |
+| **Active Time** (⌚)   | 134 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **dependencies.test.sh** (+64, -0)
 - **jest.config.js** (+33, -7)
 - **setup.ts** (+51, -0)
-- **settings.json** (+1613, -1)
+- **settings.json** (+1613, -2)
 - **tsconfig.json** (+86, -0)
 - **MaterialSelector.tsx** (+202, -0)
 - **searchable-materials.tsx** (+212, -2)
@@ -45,6 +45,7 @@
 - **globals.css** (+209, -8)
 - **layout.tsx** (+293, -146)
 - **package.json** (+1, -0)
+- **getActivePersonId.ts** (+54, -0)
 
 ## Visualizations
 
@@ -54,9 +55,9 @@
 pie showData
 title Lines changed by file type
 ".js" : 139
-".ts" : 2738
+".ts" : 2792
 ".tsx" : 2299
-".json" : 2405
+".json" : 2406
 ".sh" : 64
 ".css" : 217
 ```
@@ -72,8 +73,8 @@ title Coding activity by hour (count of changes)
 "13h" : 31
 "14h" : 14
 "15h" : 13
-"16h" : 6
+"16h" : 9
 ```
 
 
-> **Last Updated:** 14/07/2025, 16:16:45
+> **Last Updated:** 14/07/2025, 16:31:45
