@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3001                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 2997                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 3006                                          |
+| **Lines Removed** (➖) | 11                                        |
+| **Net Change** (↕)    | 2995                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -20,13 +20,13 @@
 - **MaterialsFinder.tsx** (+171, -0)
 - **searchable-container.tsx** (+132, -0)
 - **db-utils.ts** (+338, -0)
-- **package.json** (+308, -1)
+- **package.json** (+312, -1)
 - **.eslintrc.js** (+39, -0)
 - **useImageLoading.test.ts** (+60, -0)
 - **portfolioWords.test.ts** (+41, -0)
 - **dbUtils.test.ts** (+48, -0)
 - **dependencies.test.sh** (+64, -0)
-- **jest.config.js** (+32, -0)
+- **jest.config.js** (+33, -7)
 - **setup.ts** (+51, -0)
 - **settings.json** (+534, -0)
 
@@ -37,10 +37,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 115
+".js" : 123
 ".ts" : 1611
 ".tsx" : 372
-".json" : 843
+".json" : 847
 ".sh" : 64
 ```
 
@@ -51,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "06h" : 7
 "11h" : 12
-"12h" : 29
+"12h" : 32
 ```
 
 
-> **Last Updated:** 14/07/2025, 12:33:29
+> **Last Updated:** 14/07/2025, 12:38:29
