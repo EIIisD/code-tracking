@@ -125,8 +125,8 @@
     },
     "ribbon": {
       "totalLinesAdded": 6303,
-      "totalLinesRemoved": 116,
-      "totalActiveTime": 108,
+      "totalLinesRemoved": 124,
+      "totalActiveTime": 109,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -541,6 +541,34 @@
             "fileType": ".tsx",
             "linesAdded": 132,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T13:37:42.378Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/ui/searchable-container.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T13:38:11.867Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/ui/searchable-container.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "ribbon",
             "content": {
               "added": [],
