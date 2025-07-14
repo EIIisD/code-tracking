@@ -124,9 +124,9 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 5525,
-      "totalLinesRemoved": 112,
-      "totalActiveTime": 88,
+      "totalLinesAdded": 5789,
+      "totalLinesRemoved": 116,
+      "totalActiveTime": 93,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -433,6 +433,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T12:32:42.694Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/MaterialsFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 171,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T12:32:43.648Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/MaterialsFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T12:32:51.849Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/MaterialsFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1349,6 +1391,36 @@
             "fileType": ".tsx",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/components/Finder/MiniFinderSingleSelectWithSearch.tsx": [
+          {
+            "timestamp": "2025-07-14T12:33:01.856Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/MiniFinderSingleSelectWithSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T12:33:02.772Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/MiniFinderSingleSelectWithSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "ribbon",
             "content": {
               "added": [],

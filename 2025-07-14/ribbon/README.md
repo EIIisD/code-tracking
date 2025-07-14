@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5525                                          |
-| **Lines Removed** (➖) | 112                                        |
-| **Net Change** (↕)    | 5413                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Lines Added** (➕)   | 5789                                          |
+| **Lines Removed** (➖) | 116                                        |
+| **Net Change** (↕)    | 5673                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **getSignedImageVariants.ts** (+67, -0)
 - **useImageLoading.tsx** (+51, -0)
 - **materials.ts** (+1384, -42)
-- **MaterialsFinder.tsx** (+171, -2)
+- **MaterialsFinder.tsx** (+342, -5)
 - **searchable-container.tsx** (+264, -0)
 - **db-utils.ts** (+338, -0)
 - **package.json** (+656, -48)
@@ -38,6 +38,7 @@
 - **ProfilePage.tsx** (+81, -0)
 - **useMouseMetrics.tsx** (+105, -0)
 - **useHoverIntent.tsx** (+51, -0)
+- **MiniFinderSingleSelectWithSearch.tsx** (+93, -1)
 
 ## Visualizations
 
@@ -48,7 +49,7 @@ pie showData
 title Lines changed by file type
 ".js" : 139
 ".ts" : 2395
-".tsx" : 1179
+".tsx" : 1447
 ".json" : 1860
 ".sh" : 64
 ```
@@ -61,8 +62,8 @@ title Coding activity by hour (count of changes)
 "06h" : 7
 "11h" : 12
 "12h" : 39
-"13h" : 26
+"13h" : 31
 ```
 
 
-> **Last Updated:** 14/07/2025, 13:32:06
+> **Last Updated:** 14/07/2025, 13:37:06
