@@ -124,9 +124,9 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 5977,
+      "totalLinesAdded": 6012,
       "totalLinesRemoved": 116,
-      "totalActiveTime": 97,
+      "totalActiveTime": 102,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -1216,6 +1216,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T13:08:26.946Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/projects/EditFeaturedMaterial/MaterialSelector.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx": [
@@ -1303,6 +1317,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T13:09:52.251Z",
+            "fileName": "/Users/i/Projects/ribbon/src/lib/hooks/useSearchMaterials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
