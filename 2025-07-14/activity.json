@@ -124,9 +124,9 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 6386,
-      "totalLinesRemoved": 124,
-      "totalActiveTime": 110,
+      "totalLinesAdded": 6595,
+      "totalLinesRemoved": 201,
+      "totalActiveTime": 120,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -1658,6 +1658,78 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T14:24:34.075Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/(main-app)/sandbox/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 77,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/app/globals.css": [
+          {
+            "timestamp": "2025-07-14T14:25:41.933Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-14T14:26:00.823Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-14T14:26:24.004Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-14T14:26:45.656Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
