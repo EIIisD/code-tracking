@@ -2355,6 +2355,39 @@
         "/Users/i/Downloads/content/Apple-Arcade-hero (1)/LEGAL_NOTICE.rtf"
       ],
       "averageChangeSize": 23.285714285714285
+    },
+    "compressed": {
+      "totalLinesAdded": 3893,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Downloads/content/compressed/CarPlay-Ultra-drive-scenario.gif": [
+          {
+            "timestamp": "2025-07-14T18:37:09.431Z",
+            "fileName": "/Users/i/Downloads/content/compressed/CarPlay-Ultra-drive-scenario.gif",
+            "fileType": ".gif",
+            "linesAdded": 3893,
+            "linesRemoved": 0,
+            "projectName": "compressed",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gif"
+          }
+        ]
+      },
+      "languageStats": {
+        "gif": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "/Users/i/Downloads/content/compressed/CarPlay-Ultra-drive-scenario.gif"
+      ],
+      "averageChangeSize": 3893
     }
   },
   "totalActiveTime": 1,
