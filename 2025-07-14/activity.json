@@ -124,9 +124,9 @@
       "averageChangeSize": 133.25
     },
     "ribbon": {
-      "totalLinesAdded": 2092,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 2093,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 23,
       "files": {
         "/Users/i/Projects/ribbon/scripts/tst.js": [
           {
@@ -446,6 +446,34 @@
             "fileName": "/Users/i/Projects/ribbon/package.json",
             "fileType": ".json",
             "linesAdded": 272,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-14T11:18:52.992Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-14T11:19:09.530Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "ribbon",
             "content": {
