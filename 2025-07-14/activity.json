@@ -1961,6 +1961,99 @@
         "/Users/i/Projects/ribbon/scripts/db-utils.ts"
       ],
       "averageChangeSize": 88.75
+    },
+    "defer": {
+      "totalLinesAdded": 698,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-14T17:50:10.528Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 538,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-14T17:50:10.631Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/defer/defer.css": [
+          {
+            "timestamp": "2025-07-14T17:50:16.548Z",
+            "fileName": "/Users/i/Projects/defer/defer.css",
+            "fileType": ".css",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-14T17:53:40.092Z",
+            "fileName": "/Users/i/Projects/defer/defer.css",
+            "fileType": ".css",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-14T17:54:26.798Z",
+            "fileName": "/Users/i/Projects/defer/defer.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "css": 6
+      },
+      "changeFrequency": {
+        "18": 7
+      },
+      "topFiles": [
+        "/Users/i/Projects/defer/defer.css",
+        "/Users/i/Library/Application Support/Cursor/User/settings.json"
+      ],
+      "averageChangeSize": 140.2
     }
   },
   "totalActiveTime": 1,
