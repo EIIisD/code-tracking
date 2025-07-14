@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3096                                          |
-| **Lines Removed** (➖) | 66                                        |
-| **Net Change** (↕)    | 3030                |
-| **Active Time** (⌚)   | 63 minutes |
+| **Lines Added** (➕)   | 3380                                          |
+| **Lines Removed** (➖) | 68                                        |
+| **Net Change** (↕)    | 3312                |
+| **Active Time** (⌚)   | 68 minutes |
 
 
 ## Modified Files
@@ -17,10 +17,10 @@
 - **getSignedImageVariants.ts** (+67, -0)
 - **useImageLoading.tsx** (+51, -0)
 - **materials.ts** (+692, -0)
-- **MaterialsFinder.tsx** (+171, -0)
+- **MaterialsFinder.tsx** (+171, -2)
 - **searchable-container.tsx** (+132, -0)
 - **db-utils.ts** (+338, -0)
-- **package.json** (+351, -48)
+- **package.json** (+352, -48)
 - **.eslintrc.js** (+47, -8)
 - **useImageLoading.test.ts** (+60, -0)
 - **portfolioWords.test.ts** (+41, -0)
@@ -30,6 +30,10 @@
 - **setup.ts** (+51, -0)
 - **settings.json** (+534, -0)
 - **tsconfig.json** (+43, -0)
+- **MaterialSelector.tsx** (+99, -0)
+- **searchable-materials.tsx** (+104, -0)
+- **useSearchMaterials.tsx** (+30, -0)
+- **materialSearch.ts** (+50, -0)
 
 ## Visualizations
 
@@ -39,9 +43,9 @@
 pie showData
 title Lines changed by file type
 ".js" : 139
-".ts" : 1611
-".tsx" : 372
-".json" : 976
+".ts" : 1661
+".tsx" : 607
+".json" : 977
 ".sh" : 64
 ```
 
@@ -53,7 +57,8 @@ title Coding activity by hour (count of changes)
 "06h" : 7
 "11h" : 12
 "12h" : 39
+"13h" : 6
 ```
 
 
-> **Last Updated:** 14/07/2025, 12:58:29
+> **Last Updated:** 14/07/2025, 13:03:29
