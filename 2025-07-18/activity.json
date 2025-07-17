@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 60,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 15,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 16,
       "files": {
         "/Users/i/Projects/ribbon/src/app/(main-app)/sandbox/test.svg": [
           {
@@ -193,6 +193,20 @@
           },
           {
             "timestamp": "2025-07-17T23:34:30.269Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/(main-app)/sandbox/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-17T23:34:36.708Z",
             "fileName": "/Users/i/Projects/ribbon/src/app/(main-app)/sandbox/page.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
