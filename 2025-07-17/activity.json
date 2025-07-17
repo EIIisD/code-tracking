@@ -2,9 +2,9 @@
   "date": "2025-07-17",
   "projects": {
     "ribbon": {
-      "totalLinesAdded": 2977,
-      "totalLinesRemoved": 189,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 3129,
+      "totalLinesRemoved": 195,
+      "totalActiveTime": 88,
       "files": {
         "/Users/i/Projects/ribbon/src/app/layout.tsx": [
           {
@@ -826,6 +826,94 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-17T20:06:22.514Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/discover_routes_dynamic.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/ribbon/scripts/preload_routes.ts": [
+          {
+            "timestamp": "2025-07-17T20:07:38.317Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/preload_routes.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-17T20:07:39.237Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/preload_routes.ts",
+            "fileType": ".ts",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-17T20:07:55.052Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/preload_routes.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/ribbon/preload_app.sh": [
+          {
+            "timestamp": "2025-07-17T20:08:04.534Z",
+            "fileName": "/Users/i/Projects/ribbon/preload_app.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-17T20:08:05.461Z",
+            "fileName": "/Users/i/Projects/ribbon/preload_app.sh",
+            "fileType": ".sh",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ]
       },
