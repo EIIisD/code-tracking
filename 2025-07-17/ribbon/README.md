@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4021                                          |
-| **Lines Removed** (➖) | 507                                        |
-| **Net Change** (↕)    | 3514                |
-| **Active Time** (⌚)   | 106 minutes |
+| **Lines Added** (➕)   | 5697                                          |
+| **Lines Removed** (➖) | 579                                        |
+| **Net Change** (↕)    | 5118                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
 - **layout.tsx** (+147, -0)
-- **package.json** (+608, -0)
-- **useImageLoading.tsx** (+51, -0)
+- **package.json** (+611, -35)
+- **useImageLoading.tsx** (+91, -0)
 - **PreviewProjectPageButton.tsx** (+27, -0)
-- **.cursorrules** (+24, -0)
+- **.cursorrules** (+48, -0)
 - **useAvailableProjects.tsx** (+49, -0)
 - **CreateKeyDialog.tsx** (+193, -0)
-- **MaterialsFinder.tsx** (+340, -1)
+- **MaterialsFinder.tsx** (+340, -38)
 - **searchable-container.tsx** (+124, -0)
 - **page.tsx** (+65, -9)
 - **settings.json** (+539, -0)
@@ -36,6 +36,15 @@
 - **.gitignore_global** (+121, -0)
 - **preload.ts** (+257, -0)
 - **prerender.ts** (+257, -0)
+- **dev-performance-test.ts** (+219, -0)
+- **quick-dev-test.ts** (+153, -0)
+- **page.tsx** (+11, -0)
+- **MaterialSelector.tsx** (+102, -0)
+- **materials.ts** (+642, -0)
+- **material.ts** (+357, -0)
+- **index.ts** (+12, -0)
+- **EditMaterials.tsx** (+21, -0)
+- **Sheet.tsx** (+92, -0)
 
 ## Visualizations
 
@@ -44,12 +53,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1113
-".json" : 1147
-"unknown" : 145
+".tsx" : 1416
+".json" : 1185
+"unknown" : 169
 ".sh" : 935
 ".fish" : 70
-".ts" : 1118
+".ts" : 2501
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +69,8 @@ title Coding activity by hour (count of changes)
 "15h" : 13
 "16h" : 1
 "20h" : 32
-"21h" : 27
+"21h" : 45
 ```
 
 
-> **Last Updated:** 17/07/2025, 21:19:34
+> **Last Updated:** 17/07/2025, 21:24:34
