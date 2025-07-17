@@ -225,6 +225,53 @@
         "/Users/i/Projects/ribbon/.cursorrules"
       ],
       "averageChangeSize": 93.875
+    },
+    "macrowhisper": {
+      "totalLinesAdded": 76,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/i/.config/macrowhisper/macrowhisper.json": [
+          {
+            "timestamp": "2025-07-17T14:22:51.353Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-17T14:25:02.532Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "15": 3
+      },
+      "topFiles": [
+        "/Users/i/.config/macrowhisper/macrowhisper.json"
+      ],
+      "averageChangeSize": 38
     }
   },
   "totalActiveTime": 4,
