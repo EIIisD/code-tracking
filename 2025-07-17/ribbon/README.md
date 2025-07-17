@@ -4,22 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5697                                          |
+| **Lines Added** (➕)   | 5903                                          |
 | **Lines Removed** (➖) | 579                                        |
-| **Net Change** (↕)    | 5118                |
-| **Active Time** (⌚)   | 129 minutes |
+| **Net Change** (↕)    | 5324                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
 - **layout.tsx** (+147, -0)
-- **package.json** (+611, -35)
-- **useImageLoading.tsx** (+91, -0)
+- **package.json** (+645, -35)
+- **useImageLoading.tsx** (+102, -0)
 - **PreviewProjectPageButton.tsx** (+27, -0)
 - **.cursorrules** (+48, -0)
 - **useAvailableProjects.tsx** (+49, -0)
 - **CreateKeyDialog.tsx** (+193, -0)
-- **MaterialsFinder.tsx** (+340, -38)
-- **searchable-container.tsx** (+124, -0)
+- **MaterialsFinder.tsx** (+377, -38)
+- **searchable-container.tsx** (+248, -0)
 - **page.tsx** (+65, -9)
 - **settings.json** (+539, -0)
 - **discover_routes.sh** (+32, -31)
@@ -53,8 +53,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1416
-".json" : 1185
+".tsx" : 1588
+".json" : 1219
 "unknown" : 169
 ".sh" : 935
 ".fish" : 70
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "15h" : 13
 "16h" : 1
 "20h" : 32
-"21h" : 45
+"21h" : 50
 ```
 
 
-> **Last Updated:** 17/07/2025, 21:24:34
+> **Last Updated:** 17/07/2025, 21:29:34
