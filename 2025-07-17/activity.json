@@ -2,9 +2,9 @@
   "date": "2025-07-17",
   "projects": {
     "ribbon": {
-      "totalLinesAdded": 2332,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 2544,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 67,
       "files": {
         "/Users/i/Projects/ribbon/src/app/layout.tsx": [
           {
@@ -476,6 +476,20 @@
             },
             "duration": 1,
             "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-17T19:56:31.589Z",
+            "fileName": "/Users/i/Projects/ribbon/discover_routes.sh",
+            "fileType": ".sh",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ],
         "/Users/i/Projects/ribbon/discover_routes.fish": [
@@ -548,6 +562,34 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-17T19:54:38.438Z",
+            "fileName": "/Users/i/Projects/ribbon/discover_routes.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-17T19:56:14.404Z",
+            "fileName": "/Users/i/Projects/ribbon/discover_routes.fish",
+            "fileType": ".fish",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
           }
         ],
         "/Users/i/Projects/ribbon/src/components/searchable-materials.tsx": [
@@ -578,6 +620,66 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/discover_routes_with_ids.sh": [
+          {
+            "timestamp": "2025-07-17T19:58:03.520Z",
+            "fileName": "/Users/i/Projects/ribbon/discover_routes_with_ids.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-17T19:58:04.369Z",
+            "fileName": "/Users/i/Projects/ribbon/discover_routes_with_ids.sh",
+            "fileType": ".sh",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "/Users/i/Projects/ribbon/get_real_ids.ts": [
+          {
+            "timestamp": "2025-07-17T19:59:05.738Z",
+            "fileName": "/Users/i/Projects/ribbon/get_real_ids.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-17T19:59:06.666Z",
+            "fileName": "/Users/i/Projects/ribbon/get_real_ids.ts",
+            "fileType": ".ts",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
