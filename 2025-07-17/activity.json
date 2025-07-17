@@ -1,0 +1,165 @@
+{
+  "date": "2025-07-17",
+  "projects": {
+    "ribbon": {
+      "totalLinesAdded": 751,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/i/Projects/ribbon/src/app/layout.tsx": [
+          {
+            "timestamp": "2025-07-17T14:12:37.370Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/package.json": [
+          {
+            "timestamp": "2025-07-17T14:12:37.501Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 270,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-17T14:12:41.171Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/hooks/useImageLoading.tsx": [
+          {
+            "timestamp": "2025-07-17T14:12:37.499Z",
+            "fileName": "/Users/i/Projects/ribbon/src/hooks/useImageLoading.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/app/(main-app)/edit/@headerAction/work/[projectId]/_components/PreviewProjectPageButton.tsx": [
+          {
+            "timestamp": "2025-07-17T14:12:41.169Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/(main-app)/edit/@headerAction/work/[projectId]/_components/PreviewProjectPageButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/.cursorrules": [
+          {
+            "timestamp": "2025-07-17T14:12:41.163Z",
+            "fileName": "/Users/i/Projects/ribbon/.cursorrules",
+            "fileType": "unknown",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/components/showcases/EditSection/hooks/useAvailableProjects.tsx": [
+          {
+            "timestamp": "2025-07-17T14:12:41.175Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/showcases/EditSection/hooks/useAvailableProjects.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/src/components/api-keys/CreateKeyDialog.tsx": [
+          {
+            "timestamp": "2025-07-17T14:12:41.166Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/api-keys/CreateKeyDialog.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 193,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 4,
+        "json": 2,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "15": 7
+      },
+      "topFiles": [
+        "/Users/i/Projects/ribbon/package.json",
+        "/Users/i/Projects/ribbon/src/app/layout.tsx",
+        "/Users/i/Projects/ribbon/src/hooks/useImageLoading.tsx",
+        "/Users/i/Projects/ribbon/src/app/(main-app)/edit/@headerAction/work/[projectId]/_components/PreviewProjectPageButton.tsx",
+        "/Users/i/Projects/ribbon/.cursorrules"
+      ],
+      "averageChangeSize": 93.875
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "json",
+    "unknown"
+  ]
+}
