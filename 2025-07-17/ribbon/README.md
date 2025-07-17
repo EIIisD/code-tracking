@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5914                                          |
-| **Lines Removed** (➖) | 580                                        |
-| **Net Change** (↕)    | 5334                |
-| **Active Time** (⌚)   | 141 minutes |
+| **Lines Added** (➕)   | 6158                                          |
+| **Lines Removed** (➖) | 623                                        |
+| **Net Change** (↕)    | 5535                |
+| **Active Time** (⌚)   | 144 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **CreateKeyDialog.tsx** (+193, -0)
 - **MaterialsFinder.tsx** (+377, -38)
 - **searchable-container.tsx** (+248, -0)
-- **page.tsx** (+76, -10)
+- **page.tsx** (+119, -53)
 - **settings.json** (+539, -0)
 - **discover_routes.sh** (+32, -31)
 - **discover_routes.fish** (+36, -34)
@@ -45,6 +45,7 @@
 - **index.ts** (+12, -0)
 - **EditMaterials.tsx** (+21, -0)
 - **Sheet.tsx** (+92, -0)
+- **globals.css** (+201, -0)
 
 ## Visualizations
 
@@ -53,12 +54,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1600
+".tsx" : 1686
 ".json" : 1219
 "unknown" : 169
 ".sh" : 935
 ".fish" : 70
 ".ts" : 2501
+".css" : 201
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +71,8 @@ title Coding activity by hour (count of changes)
 "15h" : 13
 "16h" : 1
 "20h" : 32
-"21h" : 54
+"21h" : 57
 ```
 
 
-> **Last Updated:** 17/07/2025, 21:44:34
+> **Last Updated:** 17/07/2025, 21:49:34
