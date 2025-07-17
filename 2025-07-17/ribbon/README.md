@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2544                                          |
-| **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 2530                |
-| **Active Time** (⌚)   | 67 minutes |
+| **Lines Added** (➕)   | 2977                                          |
+| **Lines Removed** (➖) | 189                                        |
+| **Net Change** (↕)    | 2788                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,9 @@
 - **searchable-materials.tsx** (+106, -1)
 - **discover_routes_with_ids.sh** (+123, -0)
 - **get_real_ids.ts** (+80, -0)
+- **discover_routes_populated.sh** (+137, -23)
+- **discover_routes_dynamic.sh** (+168, -152)
+- **discover_routes_dynamic.ts** (+128, -0)
 
 ## Visualizations
 
@@ -38,9 +41,9 @@ title Lines changed by file type
 ".tsx" : 1113
 ".json" : 1147
 "unknown" : 24
-".sh" : 155
+".sh" : 635
 ".fish" : 39
-".ts" : 80
+".ts" : 208
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,7 +54,8 @@ title Coding activity by hour (count of changes)
 "15h" : 13
 "16h" : 1
 "20h" : 32
+"21h" : 10
 ```
 
 
-> **Last Updated:** 17/07/2025, 20:59:34
+> **Last Updated:** 17/07/2025, 21:04:34
