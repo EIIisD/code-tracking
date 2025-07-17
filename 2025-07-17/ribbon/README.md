@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3129                                          |
-| **Lines Removed** (➖) | 195                                        |
-| **Net Change** (↕)    | 2934                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Lines Added** (➕)   | 3384                                          |
+| **Lines Removed** (➖) | 507                                        |
+| **Net Change** (↕)    | 2877                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
@@ -22,16 +22,17 @@
 - **searchable-container.tsx** (+124, -0)
 - **page.tsx** (+65, -9)
 - **settings.json** (+539, -0)
-- **discover_routes.sh** (+32, -0)
-- **discover_routes.fish** (+36, -3)
+- **discover_routes.sh** (+32, -31)
+- **discover_routes.fish** (+36, -34)
 - **searchable-materials.tsx** (+106, -1)
-- **discover_routes_with_ids.sh** (+123, -0)
+- **discover_routes_with_ids.sh** (+123, -122)
 - **get_real_ids.ts** (+80, -0)
-- **discover_routes_populated.sh** (+137, -23)
-- **discover_routes_dynamic.sh** (+168, -152)
+- **discover_routes_populated.sh** (+137, -136)
+- **discover_routes_dynamic.sh** (+168, -167)
 - **discover_routes_dynamic.ts** (+128, -5)
 - **preload_routes.ts** (+133, -1)
 - **preload_app.sh** (+19, -0)
+- **route_manager.ts** (+255, -0)
 
 ## Visualizations
 
@@ -43,9 +44,9 @@ title Lines changed by file type
 ".tsx" : 1113
 ".json" : 1147
 "unknown" : 24
-".sh" : 654
-".fish" : 39
-".ts" : 347
+".sh" : 935
+".fish" : 70
+".ts" : 602
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +57,8 @@ title Coding activity by hour (count of changes)
 "15h" : 13
 "16h" : 1
 "20h" : 32
-"21h" : 16
+"21h" : 23
 ```
 
 
-> **Last Updated:** 17/07/2025, 21:09:34
+> **Last Updated:** 17/07/2025, 21:14:34
