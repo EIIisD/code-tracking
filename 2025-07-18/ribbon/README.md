@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8446                                          |
+| **Lines Added** (➕)   | 8460                                          |
 | **Lines Removed** (➖) | 586                                        |
-| **Net Change** (↕)    | 7860                |
-| **Active Time** (⌚)   | 199 minutes |
+| **Net Change** (↕)    | 7874                |
+| **Active Time** (⌚)   | 206 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **all.mdc** (+30, -4)
 - **globals.css** (+228, -6)
 - **tailwind.config.ts** (+212, -1)
-- **searchable-container.tsx** (+708, -467)
+- **searchable-container.tsx** (+710, -467)
 - **MaterialsFinder.tsx** (+173, -5)
 - **settings.json** (+546, -2)
 - **layout.tsx** (+147, -0)
@@ -27,6 +27,7 @@
 - **bun.lock** (+5415, -0)
 - **searchable-materials.tsx** (+106, -0)
 - **VirtualizedFinder.tsx** (+124, -9)
+- **page.tsx** (+12, -0)
 
 ## Visualizations
 
@@ -36,7 +37,7 @@
 pie showData
 title Lines changed by file type
 ".svg" : 24
-".tsx" : 2207
+".tsx" : 2221
 ".mdc" : 34
 ".css" : 234
 ".ts" : 266
@@ -57,8 +58,8 @@ title Coding activity by hour (count of changes)
 "06h" : 1
 "14h" : 11
 "15h" : 31
-"16h" : 12
+"16h" : 15
 ```
 
 
-> **Last Updated:** 18/07/2025, 16:09:33
+> **Last Updated:** 18/07/2025, 16:14:33
