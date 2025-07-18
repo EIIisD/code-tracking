@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 8419,
-      "totalLinesRemoved": 574,
-      "totalActiveTime": 180,
+      "totalLinesRemoved": 580,
+      "totalActiveTime": 188,
       "files": {
         "/Users/i/Projects/ribbon/src/app/(main-app)/sandbox/test.svg": [
           {
@@ -1668,6 +1668,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-18T15:02:11.195Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/ui/searchable-container.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/i/Projects/ribbon/src/components/Finder/MaterialsFinder.tsx": [
@@ -1705,6 +1719,20 @@
             "fileType": ".tsx",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-18T15:02:39.378Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/MaterialsFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "ribbon",
             "content": {
               "added": [],
@@ -1961,6 +1989,34 @@
             "fileType": ".tsx",
             "linesAdded": 117,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-18T14:59:58.332Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/VirtualizedFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-18T15:00:02.949Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/Finder/VirtualizedFinder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "ribbon",
             "content": {
               "added": [],
