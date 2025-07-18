@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 157                                          |
-| **Lines Removed** (➖) | 106                                        |
-| **Net Change** (↕)    | 51                |
-| **Active Time** (⌚)   | 69 minutes |
+| **Lines Added** (➕)   | 315                                          |
+| **Lines Removed** (➖) | 260                                        |
+| **Net Change** (↕)    | 55                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **all.mdc** (+30, -4)
 - **globals.css** (+14, -6)
 - **tailwind.config.ts** (+3, -0)
-- **searchable-container.tsx** (+35, -4)
+- **searchable-container.tsx** (+193, -158)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".svg" : 24
-".tsx" : 182
+".tsx" : 494
 ".mdc" : 34
 ".css" : 20
 ".ts" : 3
@@ -39,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 25
 "01h" : 18
-"02h" : 11
+"02h" : 14
 ```
 
 
-> **Last Updated:** 18/07/2025, 02:14:34
+> **Last Updated:** 18/07/2025, 02:24:34
