@@ -2209,6 +2209,53 @@
         "/Users/i/Projects/ribbon/src/app/(main-app)/sandbox/test.svg"
       ],
       "averageChangeSize": 5.285714285714286
+    },
+    "nhs": {
+      "totalLinesAdded": 68,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/nhs/split_pdf.py": [
+          {
+            "timestamp": "2025-07-18T17:04:13.307Z",
+            "fileName": "/Users/i/Projects/nhs/split_pdf.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-18T17:04:13.841Z",
+            "fileName": "/Users/i/Projects/nhs/split_pdf.py",
+            "fileType": ".py",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "nhs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/nhs/split_pdf.py"
+      ],
+      "averageChangeSize": 34
     }
   },
   "totalActiveTime": 15,
