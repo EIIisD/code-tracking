@@ -1978,9 +1978,9 @@
       "averageChangeSize": 73.3030303030303
     },
     "fish": {
-      "totalLinesAdded": 54,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 83,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 7,
       "files": {
         "/Users/i/.config/fish/functions/aud.fish": [
           {
@@ -2003,6 +2003,62 @@
             "fileType": ".fish",
             "linesAdded": 53,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:36:21.512Z",
+            "fileName": "/Users/i/.config/fish/functions/aud.fish",
+            "fileType": ".fish",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:37:54.822Z",
+            "fileName": "/Users/i/.config/fish/functions/aud.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:39:42.689Z",
+            "fileName": "/Users/i/.config/fish/functions/aud.fish",
+            "fileType": ".fish",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:40:36.101Z",
+            "fileName": "/Users/i/.config/fish/functions/aud.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "fish",
             "content": {
               "added": [],
