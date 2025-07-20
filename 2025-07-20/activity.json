@@ -2,9 +2,9 @@
   "date": "2025-07-20",
   "projects": {
     "defer": {
-      "totalLinesAdded": 48,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 597,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 48,
       "files": {
         "/Users/i/Projects/defer/defer.html": [
           {
@@ -300,6 +300,388 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:24:39.125Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/i/Projects/defer/index.ts": [
+          {
+            "timestamp": "2025-07-20T01:24:10.513Z",
+            "fileName": "/Users/i/Projects/defer/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-20T01:24:11.839Z",
+            "fileName": "/Users/i/Projects/defer/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-20T01:26:01.018Z",
+            "fileName": "/Users/i/Projects/defer/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer/package.json": [
+          {
+            "timestamp": "2025-07-20T01:24:17.044Z",
+            "fileName": "/Users/i/Projects/defer/package.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-20T01:24:17.183Z",
+            "fileName": "/Users/i/Projects/defer/package.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-20T01:25:20.587Z",
+            "fileName": "/Users/i/Projects/defer/package.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-20T01:26:06.379Z",
+            "fileName": "/Users/i/Projects/defer/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-20T01:26:13.152Z",
+            "fileName": "/Users/i/Projects/defer/package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-20T01:27:45.152Z",
+            "fileName": "/Users/i/Projects/defer/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/defer/frontend.ts": [
+          {
+            "timestamp": "2025-07-20T01:24:28.822Z",
+            "fileName": "/Users/i/Projects/defer/frontend.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-20T01:24:29.710Z",
+            "fileName": "/Users/i/Projects/defer/frontend.ts",
+            "fileType": ".ts",
+            "linesAdded": 124,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-20T01:27:14.981Z",
+            "fileName": "/Users/i/Projects/defer/frontend.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer/tsconfig.json": [
+          {
+            "timestamp": "2025-07-20T01:24:33.550Z",
+            "fileName": "/Users/i/Projects/defer/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/defer/vite.config.ts": [
+          {
+            "timestamp": "2025-07-20T01:25:23.066Z",
+            "fileName": "/Users/i/Projects/defer/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-20T01:25:23.933Z",
+            "fileName": "/Users/i/Projects/defer/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-20T01:26:43.294Z",
+            "fileName": "/Users/i/Projects/defer/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-20T01:26:47.929Z",
+            "fileName": "/Users/i/Projects/defer/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer/defer.css": [
+          {
+            "timestamp": "2025-07-20T01:25:49.685Z",
+            "fileName": "/Users/i/Projects/defer/defer.css",
+            "fileType": ".css",
+            "linesAdded": 150,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T01:25:50.560Z",
+            "fileName": "/Users/i/Projects/defer/defer.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/i/Projects/defer/index.html": [
+          {
+            "timestamp": "2025-07-20T01:26:30.975Z",
+            "fileName": "/Users/i/Projects/defer/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:26:31.878Z",
+            "fileName": "/Users/i/Projects/defer/index.html",
+            "fileType": ".html",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/i/Projects/defer/style.css": [
+          {
+            "timestamp": "2025-07-20T01:26:36.441Z",
+            "fileName": "/Users/i/Projects/defer/style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T01:26:37.265Z",
+            "fileName": "/Users/i/Projects/defer/style.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/i/Projects/defer/dev.sh": [
+          {
+            "timestamp": "2025-07-20T01:27:36.747Z",
+            "fileName": "/Users/i/Projects/defer/dev.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-07-20T01:27:37.588Z",
+            "fileName": "/Users/i/Projects/defer/dev.sh",
+            "fileType": ".sh",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ]
       },
