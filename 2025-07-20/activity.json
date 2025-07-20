@@ -1,0 +1,327 @@
+{
+  "date": "2025-07-20",
+  "projects": {
+    "defer": {
+      "totalLinesAdded": 48,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 21,
+      "files": {
+        "/Users/i/Projects/defer/defer.html": [
+          {
+            "timestamp": "2025-07-20T01:18:14.353Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:18:27.119Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:19:35.556Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:20:25.033Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:20:29.476Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:20:37.672Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:20:42.650Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:20:44.721Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:20:47.302Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:20:54.912Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:21:04.551Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:21:10.074Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:21:26.655Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:21:58.025Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:22:27.515Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:22:28.233Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:22:40.682Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:22:44.479Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:22:49.635Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:22:57.731Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-20T01:23:06.588Z",
+            "fileName": "/Users/i/Projects/defer/defer.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "defer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 21
+      },
+      "changeFrequency": {
+        "2": 21
+      },
+      "topFiles": [
+        "/Users/i/Projects/defer/defer.html"
+      ],
+      "averageChangeSize": 3.761904761904762
+    }
+  },
+  "totalActiveTime": 21,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
