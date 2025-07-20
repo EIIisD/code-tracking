@@ -1382,6 +1382,556 @@
         "/Users/i/Downloads/themes/chromium-theme.d.ts"
       ],
       "averageChangeSize": 131
+    },
+    "defer-theme": {
+      "totalLinesAdded": 2419,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 32,
+      "files": {
+        "/Users/i/Projects/defer-theme/manifest.json": [
+          {
+            "timestamp": "2025-07-20T01:56:49.348Z",
+            "fileName": "/Users/i/Projects/defer-theme/manifest.json",
+            "fileType": ".json",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/errors.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.297Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/errors.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-errors.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.283Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-errors.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/@types/react/jsx-runtime.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.289Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/@types/react/jsx-runtime.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/pool.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.308Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/pool.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/formdata.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.293Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/formdata.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/client.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.297Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/client.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/header.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.292Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/header.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/dispatcher.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.299Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/dispatcher.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 282,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/pool-stats.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.305Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/pool-stats.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/balanced-pool.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.319Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/balanced-pool.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/global-dispatcher.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.302Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/global-dispatcher.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/retry-agent.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.342Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/retry-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/agent.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.325Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/h2c-client.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.322Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/h2c-client.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-call-history.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.331Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-call-history.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/api.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.353Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/api.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/handlers.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.317Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/handlers.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/fetch.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.314Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/fetch.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-pool.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.340Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-pool.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-interceptor.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.327Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-interceptor.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-agent.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.333Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/websocket.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.360Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/websocket.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 185,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/proxy-agent.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.345Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/proxy-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/cache.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.363Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/cache.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/cookies.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.357Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/cookies.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/interceptors.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.355Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/interceptors.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/diagnostics-channel.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.362Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/diagnostics-channel.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/retry-handler.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.349Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/retry-handler.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-client.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.334Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-client.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/eventsource.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.361Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/eventsource.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/index.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.374Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/index.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/env-http-proxy-agent.d.ts": [
+          {
+            "timestamp": "2025-07-20T01:57:33.346Z",
+            "fileName": "/Users/i/Projects/defer-theme/node_modules/undici-types/env-http-proxy-agent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "defer-theme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "ts": 32
+      },
+      "changeFrequency": {
+        "2": 32
+      },
+      "topFiles": [
+        "/Users/i/Projects/defer-theme/manifest.json",
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/errors.d.ts",
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/mock-errors.d.ts",
+        "/Users/i/Projects/defer-theme/node_modules/@types/react/jsx-runtime.d.ts",
+        "/Users/i/Projects/defer-theme/node_modules/undici-types/pool.d.ts"
+      ],
+      "averageChangeSize": 73.3030303030303
     }
   },
   "totalActiveTime": 21,
