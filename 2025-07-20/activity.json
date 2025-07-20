@@ -1978,9 +1978,9 @@
       "averageChangeSize": 73.3030303030303
     },
     "fish": {
-      "totalLinesAdded": 232,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 370,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 33,
       "files": {
         "/Users/i/.config/fish/functions/aud.fish": [
           {
@@ -2066,6 +2066,20 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:47:00.968Z",
+            "fileName": "/Users/i/.config/fish/functions/aud.fish",
+            "fileType": ".fish",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/functions/in.fish": [
@@ -2110,6 +2124,20 @@
             },
             "duration": 4,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:46:16.356Z",
+            "fileName": "/Users/i/.config/fish/functions/in.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/functions/out.fish": [
@@ -2147,6 +2175,20 @@
             "fileType": ".fish",
             "linesAdded": 8,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:46:22.561Z",
+            "fileName": "/Users/i/.config/fish/functions/out.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "fish",
             "content": {
               "added": [],
@@ -2198,6 +2240,20 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:46:27.747Z",
+            "fileName": "/Users/i/.config/fish/functions/inn.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/functions/outn.fish": [
@@ -2220,6 +2276,124 @@
             "fileName": "/Users/i/.config/fish/functions/outn.fish",
             "fileType": ".fish",
             "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:45:47.804Z",
+            "fileName": "/Users/i/.config/fish/functions/outn.fish",
+            "fileType": ".fish",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:46:33.385Z",
+            "fileName": "/Users/i/.config/fish/functions/outn.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/conf.d/audio_device_filter.conf": [
+          {
+            "timestamp": "2025-07-20T12:45:58.217Z",
+            "fileName": "/Users/i/.config/fish/conf.d/audio_device_filter.conf",
+            "fileType": ".conf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          },
+          {
+            "timestamp": "2025-07-20T12:45:59.052Z",
+            "fileName": "/Users/i/.config/fish/conf.d/audio_device_filter.conf",
+            "fileType": ".conf",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          }
+        ],
+        "/Users/i/.config/fish/functions/_filter_audio_devices.fish": [
+          {
+            "timestamp": "2025-07-20T12:46:08.926Z",
+            "fileName": "/Users/i/.config/fish/functions/_filter_audio_devices.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:46:09.762Z",
+            "fileName": "/Users/i/.config/fish/functions/_filter_audio_devices.fish",
+            "fileType": ".fish",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/_manage_audio_filter.fish": [
+          {
+            "timestamp": "2025-07-20T12:47:23.343Z",
+            "fileName": "/Users/i/.config/fish/functions/_manage_audio_filter.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-20T12:47:25.075Z",
+            "fileName": "/Users/i/.config/fish/functions/_manage_audio_filter.fish",
+            "fileType": ".fish",
+            "linesAdded": 92,
             "linesRemoved": 0,
             "projectName": "fish",
             "content": {
