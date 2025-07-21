@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3760                                          |
-| **Lines Removed** (➖) | 110                                        |
-| **Net Change** (↕)    | 3650                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Lines Removed** (➖) | 670                                        |
+| **Net Change** (↕)    | 3090                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **keys.fish** (+166, -0)
 - **css.txt** (+1465, -0)
-- **css copy.txt** (+2129, -110)
+- **css copy.txt** (+2129, -670)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".fish" : 166
-".txt" : 3704
+".txt" : 4264
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 1
-"16h" : 8
+"16h" : 10
 ```
 
 
-> **Last Updated:** 21/07/2025, 16:12:26
+> **Last Updated:** 21/07/2025, 16:17:26
