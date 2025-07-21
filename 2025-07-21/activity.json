@@ -197,9 +197,9 @@
       "averageChangeSize": 110
     },
     "fish": {
-      "totalLinesAdded": 3196,
-      "totalLinesRemoved": 100,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 3760,
+      "totalLinesRemoved": 110,
+      "totalActiveTime": 10,
       "files": {
         "/Users/i/.config/fish/keys.fish": [
           {
@@ -282,6 +282,48 @@
             "fileType": ".txt",
             "linesAdded": 0,
             "linesRemoved": 100,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-21T15:09:20.164Z",
+            "fileName": "/Users/i/.config/fish/css copy.txt",
+            "fileType": ".txt",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-21T15:11:04.625Z",
+            "fileName": "/Users/i/.config/fish/css copy.txt",
+            "fileType": ".txt",
+            "linesAdded": 464,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-21T15:11:47.696Z",
+            "fileName": "/Users/i/.config/fish/css copy.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": "fish",
             "content": {
               "added": [],
