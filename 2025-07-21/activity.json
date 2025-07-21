@@ -1,0 +1,108 @@
+{
+  "date": "2025-07-21",
+  "projects": {
+    "vtuber": {
+      "totalLinesAdded": 548,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/i/mcp.ts": [
+          {
+            "timestamp": "2025-07-21T00:33:19.981Z",
+            "fileName": "/Users/i/mcp.ts",
+            "fileType": ".ts",
+            "linesAdded": 497,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-21T00:33:29.550Z",
+            "fileName": "/Users/i/mcp.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-21T00:34:04.498Z",
+            "fileName": "/Users/i/mcp.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-21T00:34:27.727Z",
+            "fileName": "/Users/i/mcp.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.cursor/mcp.json": [
+          {
+            "timestamp": "2025-07-21T00:34:30.754Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 3,
+        "json": 1
+      },
+      "changeFrequency": {
+        "1": 4
+      },
+      "topFiles": [
+        "/Users/i/mcp.ts",
+        "/Users/i/.cursor/mcp.json"
+      ],
+      "averageChangeSize": 110
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "json"
+  ]
+}
