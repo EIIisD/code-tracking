@@ -197,9 +197,9 @@
       "averageChangeSize": 110
     },
     "fish": {
-      "totalLinesAdded": 5957,
+      "totalLinesAdded": 5966,
       "totalLinesRemoved": 1862,
-      "totalActiveTime": 38,
+      "totalActiveTime": 42,
       "files": {
         "/Users/i/.config/fish/keys.fish": [
           {
@@ -668,6 +668,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-21T16:54:51.292Z",
+            "fileName": "/Users/i/.config/fish/discord.css",
+            "fileType": ".css",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "css"
           }
         ],
