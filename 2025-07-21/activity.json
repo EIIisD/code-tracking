@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "vtuber": {
-      "totalLinesAdded": 675,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 1219,
+      "totalLinesRemoved": 35,
+      "totalActiveTime": 15,
       "files": {
         "/Users/i/mcp.ts": [
           {
@@ -180,6 +180,36 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-21T18:03:15.316Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 544,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-21T18:03:15.971Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
