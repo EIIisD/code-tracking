@@ -197,9 +197,9 @@
       "averageChangeSize": 110
     },
     "fish": {
-      "totalLinesAdded": 3760,
+      "totalLinesAdded": 5258,
       "totalLinesRemoved": 670,
-      "totalActiveTime": 13,
+      "totalActiveTime": 21,
       "files": {
         "/Users/i/.config/fish/keys.fish": [
           {
@@ -359,6 +359,64 @@
             },
             "duration": 2,
             "language": "txt"
+          }
+        ],
+        "/Users/i/.config/fish/discord.css": [
+          {
+            "timestamp": "2025-07-21T15:17:30.721Z",
+            "fileName": "/Users/i/.config/fish/discord.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-21T15:17:30.944Z",
+            "fileName": "/Users/i/.config/fish/discord.css",
+            "fileType": ".css",
+            "linesAdded": 1490,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-21T15:17:53.993Z",
+            "fileName": "/Users/i/.config/fish/discord.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-21T15:19:27.733Z",
+            "fileName": "/Users/i/.config/fish/discord.css",
+            "fileType": ".css",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
           }
         ]
       },
