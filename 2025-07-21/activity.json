@@ -195,6 +195,39 @@
         "/Users/i/.cursor/mcp.json"
       ],
       "averageChangeSize": 110
+    },
+    "fish": {
+      "totalLinesAdded": 166,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.config/fish/keys.fish": [
+          {
+            "timestamp": "2025-07-21T14:32:29.751Z",
+            "fileName": "/Users/i/.config/fish/keys.fish",
+            "fileType": ".fish",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/keys.fish"
+      ],
+      "averageChangeSize": 166
     }
   },
   "totalActiveTime": 4,
