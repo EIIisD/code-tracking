@@ -459,6 +459,39 @@
         "/Users/i/.config/fish/keys.fish"
       ],
       "averageChangeSize": 43.6
+    },
+    "i": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.opencode.json": [
+          {
+            "timestamp": "2025-07-22T16:25:44.951Z",
+            "fileName": "/Users/i/.opencode.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "i",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/i/.opencode.json"
+      ],
+      "averageChangeSize": 14
     }
   },
   "totalActiveTime": 4,
