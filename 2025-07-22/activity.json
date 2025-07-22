@@ -1,0 +1,103 @@
+{
+  "date": "2025-07-22",
+  "projects": {
+    "fish": {
+      "totalLinesAdded": 166,
+      "totalLinesRemoved": 52,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/i/.config/fish/keys.fish": [
+          {
+            "timestamp": "2025-07-22T14:57:06.299Z",
+            "fileName": "/Users/i/.config/fish/keys.fish",
+            "fileType": ".fish",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T14:57:54.209Z",
+            "fileName": "/Users/i/.config/fish/keys.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T14:58:00.304Z",
+            "fileName": "/Users/i/.config/fish/keys.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T14:58:08.110Z",
+            "fileName": "/Users/i/.config/fish/keys.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T14:58:28.986Z",
+            "fileName": "/Users/i/.config/fish/keys.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 4
+      },
+      "changeFrequency": {
+        "15": 4
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/keys.fish"
+      ],
+      "averageChangeSize": 43.6
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "fish"
+  ]
+}
