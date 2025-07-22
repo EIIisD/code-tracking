@@ -642,6 +642,109 @@
         "/Users/i/.cursor/mcp.json"
       ],
       "averageChangeSize": 13
+    },
+    ".claude-code-router": {
+      "totalLinesAdded": 80,
+      "totalLinesRemoved": 54,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/i/.claude-code-router/config.json": [
+          {
+            "timestamp": "2025-07-22T18:51:17.372Z",
+            "fileName": "/Users/i/.claude-code-router/config.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude-code-router",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-22T18:51:17.405Z",
+            "fileName": "/Users/i/.claude-code-router/config.json",
+            "fileType": ".json",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": ".claude-code-router",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-22T18:52:08.767Z",
+            "fileName": "/Users/i/.claude-code-router/config.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 43,
+            "projectName": ".claude-code-router",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-22T18:52:24.154Z",
+            "fileName": "/Users/i/.claude-code-router/config.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": ".claude-code-router",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-22T18:53:13.836Z",
+            "fileName": "/Users/i/.claude-code-router/config.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": ".claude-code-router",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-22T18:53:50.223Z",
+            "fileName": "/Users/i/.claude-code-router/config.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": ".claude-code-router",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 5
+      },
+      "changeFrequency": {
+        "19": 5
+      },
+      "topFiles": [
+        "/Users/i/.claude-code-router/config.json"
+      ],
+      "averageChangeSize": 22.333333333333332
     }
   },
   "totalActiveTime": 4,
