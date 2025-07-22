@@ -595,6 +595,53 @@
         "/Users/i/.config/opencode/config.json"
       ],
       "averageChangeSize": 7
+    },
+    ".cursor": {
+      "totalLinesAdded": 19,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.cursor/mcp.json": [
+          {
+            "timestamp": "2025-07-22T17:08:04.461Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": ".cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-22T17:08:04.844Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": ".cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "/Users/i/.cursor/mcp.json"
+      ],
+      "averageChangeSize": 13
     }
   },
   "totalActiveTime": 4,
