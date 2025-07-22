@@ -2,9 +2,9 @@
   "date": "2025-07-22",
   "projects": {
     "fish": {
-      "totalLinesAdded": 326,
-      "totalLinesRemoved": 52,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 327,
+      "totalLinesRemoved": 63,
+      "totalActiveTime": 29,
       "files": {
         "/Users/i/.config/fish/keys.fish": [
           {
@@ -197,6 +197,62 @@
             "fileType": ".fish",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T15:28:12.220Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T15:28:52.700Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T15:30:40.839Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-22T15:31:07.702Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "fish",
             "content": {
               "added": [],
