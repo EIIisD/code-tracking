@@ -2,9 +2,9 @@
   "date": "2025-07-23",
   "projects": {
     "transactions-new": {
-      "totalLinesAdded": 2810,
+      "totalLinesAdded": 3720,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 4,
       "files": {
         "/Users/i/Projects/transactions-new/transactions.csv": [
           {
@@ -63,6 +63,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "csv"
+          }
+        ],
+        "/Users/i/Downloads/1.csv": [
+          {
+            "timestamp": "2025-07-23T14:05:17.864Z",
+            "fileName": "/Users/i/Downloads/1.csv",
+            "fileType": ".csv",
+            "linesAdded": 451,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "/Users/i/Downloads/2.csv": [
+          {
+            "timestamp": "2025-07-23T14:06:32.244Z",
+            "fileName": "/Users/i/Downloads/2.csv",
+            "fileType": ".csv",
+            "linesAdded": 459,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "csv"
           }
         ]
