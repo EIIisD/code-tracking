@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-23",
+  "projects": {
+    "transactions-new": {
+      "totalLinesAdded": 1899,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/transactions-new/transactions.csv": [
+          {
+            "timestamp": "2025-07-23T12:45:08.229Z",
+            "fileName": "/Users/i/Projects/transactions-new/transactions.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-07-23T12:45:08.749Z",
+            "fileName": "/Users/i/Projects/transactions-new/transactions.csv",
+            "fileType": ".csv",
+            "linesAdded": 1898,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          }
+        ]
+      },
+      "languageStats": {
+        "csv": 1
+      },
+      "changeFrequency": {
+        "13": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/transactions-new/transactions.csv"
+      ],
+      "averageChangeSize": 949.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "csv"
+  ]
+}
