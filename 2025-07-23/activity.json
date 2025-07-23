@@ -271,6 +271,53 @@
         "/Users/i/Projects/transactions-new/transactions.csv"
       ],
       "averageChangeSize": 949.5
+    },
+    "ableton-mcp-extended": {
+      "totalLinesAdded": 40,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/ableton-mcp-extended/pyproject.toml": [
+          {
+            "timestamp": "2025-07-23T22:07:52.814Z",
+            "fileName": "/Users/i/Projects/ableton-mcp-extended/pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp-extended",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-07-23T22:07:54.108Z",
+            "fileName": "/Users/i/Projects/ableton-mcp-extended/pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ableton-mcp-extended",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
+          }
+        ]
+      },
+      "languageStats": {
+        "toml": 1
+      },
+      "changeFrequency": {
+        "23": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/ableton-mcp-extended/pyproject.toml"
+      ],
+      "averageChangeSize": 20.5
     }
   },
   "totalActiveTime": 1,
