@@ -348,6 +348,84 @@
         "/Users/i/Projects/ableton-mcp-extended/pyproject.toml"
       ],
       "averageChangeSize": 20.5
+    },
+    "ableton-copilot-mcp": {
+      "totalLinesAdded": 94,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/i/.cursor/mcp.json": [
+          {
+            "timestamp": "2025-07-23T22:43:16.547Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "ableton-copilot-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-23T22:43:20.132Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ableton-copilot-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/ableton-copilot-mcp/package.json": [
+          {
+            "timestamp": "2025-07-23T22:45:12.511Z",
+            "fileName": "/Users/i/Projects/ableton-copilot-mcp/package.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "ableton-copilot-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-23T22:45:14.390Z",
+            "fileName": "/Users/i/Projects/ableton-copilot-mcp/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ableton-copilot-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 4
+      },
+      "changeFrequency": {
+        "23": 4
+      },
+      "topFiles": [
+        "/Users/i/.cursor/mcp.json",
+        "/Users/i/Projects/ableton-copilot-mcp/package.json"
+      ],
+      "averageChangeSize": 23.75
     }
   },
   "totalActiveTime": 1,
