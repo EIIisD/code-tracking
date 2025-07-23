@@ -3,7 +3,7 @@
   "projects": {
     "transactions-new": {
       "totalLinesAdded": 3720,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 4,
       "files": {
         "/Users/i/Projects/transactions-new/transactions.csv": [
@@ -95,6 +95,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-07-23T14:13:39.416Z",
+            "fileName": "/Users/i/Downloads/2.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "csv"
           }
         ]
