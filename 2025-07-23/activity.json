@@ -273,9 +273,9 @@
       "averageChangeSize": 949.5
     },
     "ableton-mcp-extended": {
-      "totalLinesAdded": 40,
+      "totalLinesAdded": 43,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/i/Projects/ableton-mcp-extended/pyproject.toml": [
           {
@@ -305,6 +305,36 @@
             },
             "duration": 1,
             "language": "toml"
+          }
+        ],
+        "/Users/i/Projects/ableton-mcp-extended/~/Library/Preferences/Ableton/Live\\ 12.2.1/options.txt": [
+          {
+            "timestamp": "2025-07-23T22:36:57.961Z",
+            "fileName": "/Users/i/Projects/ableton-mcp-extended/~/Library/Preferences/Ableton/Live\\ 12.2.1/options.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp-extended",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-23T22:36:58.810Z",
+            "fileName": "/Users/i/Projects/ableton-mcp-extended/~/Library/Preferences/Ableton/Live\\ 12.2.1/options.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ableton-mcp-extended",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
