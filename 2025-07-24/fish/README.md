@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 851                                          |
-| **Lines Removed** (➖) | 27                                        |
-| **Net Change** (↕)    | 824                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Lines Added** (➕)   | 917                                          |
+| **Lines Removed** (➖) | 32                                        |
+| **Net Change** (↕)    | 885                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
 - **dot_aliases.fish** (+20, -2)
 - **config.fish** (+31, -1)
-- **env.fish** (+69, -0)
+- **env.fish** (+135, -5)
 - **settings.json** (+534, -1)
 - **claude-flow.fish** (+54, -0)
 - **claude.fish** (+87, -0)
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".fish" : 264
+".fish" : 335
 ".json" : 614
 ```
 
@@ -37,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 8
 "01h" : 5
-"02h" : 10
+"02h" : 14
 ```
 
 
-> **Last Updated:** 24/07/2025, 02:51:11
+> **Last Updated:** 24/07/2025, 03:03:37
