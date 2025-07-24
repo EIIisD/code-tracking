@@ -77,9 +77,9 @@
       "averageChangeSize": 15
     },
     "fish": {
-      "totalLinesAdded": 705,
+      "totalLinesAdded": 792,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 13,
+      "totalActiveTime": 14,
       "files": {
         "/Users/i/.config/fish/conf.d/dot_aliases.fish": [
           {
@@ -235,6 +235,36 @@
             "fileName": "/Users/i/.config/fish/completions/claude-flow.fish",
             "fileType": ".fish",
             "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/completions/claude.fish": [
+          {
+            "timestamp": "2025-07-24T00:13:55.373Z",
+            "fileName": "/Users/i/.config/fish/completions/claude.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-24T00:13:57.349Z",
+            "fileName": "/Users/i/.config/fish/completions/claude.fish",
+            "fileType": ".fish",
+            "linesAdded": 86,
             "linesRemoved": 0,
             "projectName": "fish",
             "content": {
