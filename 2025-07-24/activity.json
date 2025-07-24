@@ -2,9 +2,9 @@
   "date": "2025-07-24",
   "projects": {
     ".claude": {
-      "totalLinesAdded": 60,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 62,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 8,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -75,6 +75,90 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:46:57.887Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:47:16.432Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:47:46.771Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:48:07.373Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:48:09.756Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:48:35.244Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
