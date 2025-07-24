@@ -819,6 +819,174 @@
         "/Users/i/Library/Application Support/Cursor/User/settings.json"
       ],
       "averageChangeSize": 267
+    },
+    "field": {
+      "totalLinesAdded": 519,
+      "totalLinesRemoved": 120,
+      "totalActiveTime": 10,
+      "files": {
+        "/Users/i/Projects/field/transcribed.txt": [
+          {
+            "timestamp": "2025-07-24T03:00:54.440Z",
+            "fileName": "/Users/i/Projects/field/transcribed.txt",
+            "fileType": ".txt",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-24T03:00:55.817Z",
+            "fileName": "/Users/i/Projects/field/transcribed.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 120,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-24T03:00:56.766Z",
+            "fileName": "/Users/i/Projects/field/transcribed.txt",
+            "fileType": ".txt",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-24T03:01:34.637Z",
+            "fileName": "/Users/i/Projects/field/transcribed.txt",
+            "fileType": ".txt",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/field/t_drone.txt": [
+          {
+            "timestamp": "2025-07-24T03:03:28.125Z",
+            "fileName": "/Users/i/Projects/field/t_drone.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-24T03:03:28.558Z",
+            "fileName": "/Users/i/Projects/field/t_drone.txt",
+            "fileType": ".txt",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/field/t_latest.txt": [
+          {
+            "timestamp": "2025-07-24T03:03:54.481Z",
+            "fileName": "/Users/i/Projects/field/t_latest.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-24T03:03:54.812Z",
+            "fileName": "/Users/i/Projects/field/t_latest.txt",
+            "fileType": ".txt",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/field/t_complex.txt": [
+          {
+            "timestamp": "2025-07-24T03:04:06.049Z",
+            "fileName": "/Users/i/Projects/field/t_complex.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-24T03:04:06.388Z",
+            "fileName": "/Users/i/Projects/field/t_complex.txt",
+            "fileType": ".txt",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "field",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 10
+      },
+      "changeFrequency": {
+        "4": 10
+      },
+      "topFiles": [
+        "/Users/i/Projects/field/transcribed.txt",
+        "/Users/i/Projects/field/t_drone.txt",
+        "/Users/i/Projects/field/t_latest.txt",
+        "/Users/i/Projects/field/t_complex.txt"
+      ],
+      "averageChangeSize": 63.9
     }
   },
   "totalActiveTime": 3,
