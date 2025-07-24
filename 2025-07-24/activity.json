@@ -91,9 +91,9 @@
       "averageChangeSize": 15
     },
     "fish": {
-      "totalLinesAdded": 792,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 793,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 15,
       "files": {
         "/Users/i/.config/fish/conf.d/dot_aliases.fish": [
           {
@@ -226,6 +226,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:45:52.478Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:45:54.522Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
