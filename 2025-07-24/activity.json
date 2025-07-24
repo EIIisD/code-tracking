@@ -1057,6 +1057,53 @@
         "/Users/i/Projects/field/t_complex.txt"
       ],
       "averageChangeSize": 63.9
+    },
+    "UC": {
+      "totalLinesAdded": 532,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-24T14:40:48.465Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 532,
+            "linesRemoved": 0,
+            "projectName": "UC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T14:40:48.742Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "UC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "/Users/i/Library/Application Support/Cursor/User/settings.json"
+      ],
+      "averageChangeSize": 266.5
     }
   },
   "totalActiveTime": 3,
