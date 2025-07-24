@@ -542,6 +542,53 @@
         "/Users/i/.config/fish/config.fish"
       ],
       "averageChangeSize": 23.2
+    },
+    "ableton-copilot-mcp": {
+      "totalLinesAdded": 533,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-24T01:55:42.012Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 533,
+            "linesRemoved": 0,
+            "projectName": "ableton-copilot-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-24T01:55:42.444Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ableton-copilot-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "2": 1
+      },
+      "topFiles": [
+        "/Users/i/Library/Application Support/Cursor/User/settings.json"
+      ],
+      "averageChangeSize": 267
     }
   },
   "totalActiveTime": 3,
