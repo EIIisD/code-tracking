@@ -1196,6 +1196,39 @@
         "/Users/i/Library/Application Support/Cursor/User/settings.json"
       ],
       "averageChangeSize": 266.5
+    },
+    "Downloads": {
+      "totalLinesAdded": 273,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Downloads/input.md": [
+          {
+            "timestamp": "2025-07-24T21:22:58.877Z",
+            "fileName": "/Users/i/Downloads/input.md",
+            "fileType": ".md",
+            "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
+          }
+        ]
+      },
+      "languageStats": {
+        "md": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/i/Downloads/input.md"
+      ],
+      "averageChangeSize": 273
     }
   },
   "totalActiveTime": 3,
