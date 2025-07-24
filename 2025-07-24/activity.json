@@ -77,9 +77,9 @@
       "averageChangeSize": 15
     },
     "fish": {
-      "totalLinesAdded": 116,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 651,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 12,
       "files": {
         "/Users/i/.config/fish/conf.d/dot_aliases.fish": [
           {
@@ -109,6 +109,20 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-23T23:56:27.579Z",
+            "fileName": "/Users/i/.config/fish/conf.d/dot_aliases.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/config.fish": [
@@ -118,6 +132,20 @@
             "fileType": ".fish",
             "linesAdded": 29,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-23T23:56:44.026Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "fish",
             "content": {
               "added": [],
@@ -155,6 +183,36 @@
             },
             "duration": 1,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-23T23:56:15.743Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-24T00:01:00.291Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 533,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
           }
         ]
       },
