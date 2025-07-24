@@ -1059,7 +1059,7 @@
       "averageChangeSize": 63.9
     },
     "UC": {
-      "totalLinesAdded": 620,
+      "totalLinesAdded": 707,
       "totalLinesRemoved": 1,
       "totalActiveTime": 1,
       "files": {
@@ -1113,6 +1113,22 @@
           {
             "timestamp": "2025-07-24T17:24:51.014Z",
             "fileName": "/Users/i/Projects/UC/transactions_chunk5.csv",
+            "fileType": ".csv",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "UC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "/Users/i/Projects/UC/chunks/transactions_chunk5.csv": [
+          {
+            "timestamp": "2025-07-24T17:37:12.312Z",
+            "fileName": "/Users/i/Projects/UC/chunks/transactions_chunk5.csv",
             "fileType": ".csv",
             "linesAdded": 87,
             "linesRemoved": 0,
