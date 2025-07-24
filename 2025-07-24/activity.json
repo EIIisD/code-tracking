@@ -2,9 +2,9 @@
   "date": "2025-07-24",
   "projects": {
     ".claude": {
-      "totalLinesAdded": 124,
+      "totalLinesAdded": 152,
       "totalLinesRemoved": 30,
-      "totalActiveTime": 16,
+      "totalActiveTime": 21,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -260,6 +260,38 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/i/.claude/commands/$/tests_or_incomplete/worktrees": [
+          {
+            "timestamp": "2025-07-24T02:49:03.805Z",
+            "fileName": "/Users/i/.claude/commands/$/tests_or_incomplete/worktrees",
+            "fileType": "unknown",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/.mcp.json": [
+          {
+            "timestamp": "2025-07-24T02:53:56.899Z",
+            "fileName": "/Users/i/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
           }
         ]
       },
