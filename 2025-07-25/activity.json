@@ -1,0 +1,205 @@
+{
+  "date": "2025-07-25",
+  "projects": {
+    "cutler": {
+      "totalLinesAdded": 274,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 10,
+      "files": {
+        "/Users/i/Projects/cutler/1": [
+          {
+            "timestamp": "2025-07-25T07:47:10.423Z",
+            "fileName": "/Users/i/Projects/cutler/1",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-25T07:47:12.676Z",
+            "fileName": "/Users/i/Projects/cutler/1",
+            "fileType": "unknown",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/Projects/cutler/v2.txt": [
+          {
+            "timestamp": "2025-07-25T07:47:50.380Z",
+            "fileName": "/Users/i/Projects/cutler/v2.txt",
+            "fileType": ".txt",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/v4.txt": [
+          {
+            "timestamp": "2025-07-25T07:48:15.641Z",
+            "fileName": "/Users/i/Projects/cutler/v4.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-25T07:48:16.483Z",
+            "fileName": "/Users/i/Projects/cutler/v4.txt",
+            "fileType": ".txt",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-25T07:48:26.538Z",
+            "fileName": "/Users/i/Projects/cutler/v4.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-25T07:48:32.443Z",
+            "fileName": "/Users/i/Projects/cutler/v4.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/v5.txt": [
+          {
+            "timestamp": "2025-07-25T07:48:52.131Z",
+            "fileName": "/Users/i/Projects/cutler/v5.txt",
+            "fileType": ".txt",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/v1.txt": [
+          {
+            "timestamp": "2025-07-25T07:49:04.581Z",
+            "fileName": "/Users/i/Projects/cutler/v1.txt",
+            "fileType": ".txt",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/v7.txt": [
+          {
+            "timestamp": "2025-07-25T07:49:30.250Z",
+            "fileName": "/Users/i/Projects/cutler/v7.txt",
+            "fileType": ".txt",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/v6.txt": [
+          {
+            "timestamp": "2025-07-25T07:49:56.663Z",
+            "fileName": "/Users/i/Projects/cutler/v6.txt",
+            "fileType": ".txt",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 1,
+        "txt": 9
+      },
+      "changeFrequency": {
+        "8": 10
+      },
+      "topFiles": [
+        "/Users/i/Projects/cutler/v4.txt",
+        "/Users/i/Projects/cutler/1",
+        "/Users/i/Projects/cutler/v2.txt",
+        "/Users/i/Projects/cutler/v5.txt",
+        "/Users/i/Projects/cutler/v1.txt"
+      ],
+      "averageChangeSize": 25
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "txt",
+    "unknown"
+  ]
+}
