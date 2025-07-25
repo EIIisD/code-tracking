@@ -2,9 +2,9 @@
   "date": "2025-07-25",
   "projects": {
     "cutler": {
-      "totalLinesAdded": 274,
+      "totalLinesAdded": 692,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 10,
+      "totalActiveTime": 22,
       "files": {
         "/Users/i/Projects/cutler/1": [
           {
@@ -171,6 +171,82 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/transcription.txt": [
+          {
+            "timestamp": "2025-07-25T07:52:38.713Z",
+            "fileName": "/Users/i/Projects/cutler/transcription.txt",
+            "fileType": ".txt",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/notes.txt": [
+          {
+            "timestamp": "2025-07-25T07:52:59.377Z",
+            "fileName": "/Users/i/Projects/cutler/notes.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-25T07:56:54.412Z",
+            "fileName": "/Users/i/Projects/cutler/notes.txt",
+            "fileType": ".txt",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/cutler/combined.txt": [
+          {
+            "timestamp": "2025-07-25T07:54:47.333Z",
+            "fileName": "/Users/i/Projects/cutler/combined.txt",
+            "fileType": ".txt",
+            "linesAdded": 267,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-25T07:56:54.416Z",
+            "fileName": "/Users/i/Projects/cutler/combined.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cutler",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "txt"
           }
         ]

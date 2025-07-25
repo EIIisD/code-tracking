@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 274                                          |
+| **Lines Added** (➕)   | 692                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 273                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Net Change** (↕)    | 691                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,9 @@
 - **v1.txt** (+41, -0)
 - **v7.txt** (+22, -0)
 - **v6.txt** (+61, -0)
+- **transcription.txt** (+77, -0)
+- **notes.txt** (+72, -0)
+- **combined.txt** (+269, -0)
 
 ## Visualizations
 
@@ -27,7 +30,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 21
-".txt" : 254
+".txt" : 672
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +38,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"08h" : 11
+"08h" : 16
 ```
 
 
-> **Last Updated:** 25/07/2025, 08:52:06
+> **Last Updated:** 25/07/2025, 08:57:06
