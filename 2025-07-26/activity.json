@@ -75,6 +75,112 @@
         "/Users/i/.claude.json"
       ],
       "averageChangeSize": 125.25
+    },
+    "fish": {
+      "totalLinesAdded": 102,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/i/.config/fish/conf.d/env.fish": [
+          {
+            "timestamp": "2025-07-26T20:43:11.273Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-26T20:43:18.100Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/config.fish": [
+          {
+            "timestamp": "2025-07-26T20:43:19.835Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-26T20:43:21.827Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-26T20:43:34.240Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-26T20:45:21.881Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 6
+      },
+      "changeFrequency": {
+        "21": 6
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/config.fish",
+        "/Users/i/.config/fish/conf.d/env.fish"
+      ],
+      "averageChangeSize": 18.833333333333332
     }
   },
   "totalActiveTime": 3,
