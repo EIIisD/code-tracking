@@ -2,9 +2,9 @@
   "date": "2025-07-27",
   "projects": {
     "vtuber": {
-      "totalLinesAdded": 979,
+      "totalLinesAdded": 1284,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 4,
+      "totalActiveTime": 11,
       "files": {
         "/Users/i/Projects/vtuber/bun.lock": [
           {
@@ -94,6 +94,108 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/vtuber/app/globals.css": [
+          {
+            "timestamp": "2025-07-26T23:50:14.086Z",
+            "fileName": "/Users/i/Projects/vtuber/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-26T23:50:28.018Z",
+            "fileName": "/Users/i/Projects/vtuber/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-26T23:50:45.280Z",
+            "fileName": "/Users/i/Projects/vtuber/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-26T23:51:41.546Z",
+            "fileName": "/Users/i/Projects/vtuber/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-26T23:51:44.722Z",
+            "fileName": "/Users/i/Projects/vtuber/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-26T23:53:20.741Z",
+            "fileName": "/Users/i/Projects/vtuber/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/i/Projects/vtuber/components.json": [
+          {
+            "timestamp": "2025-07-26T23:52:54.142Z",
+            "fileName": "/Users/i/Projects/vtuber/components.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
