@@ -1,0 +1,127 @@
+{
+  "date": "2025-07-27",
+  "projects": {
+    "vtuber": {
+      "totalLinesAdded": 979,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/i/Projects/vtuber/bun.lock": [
+          {
+            "timestamp": "2025-07-26T23:40:49.336Z",
+            "fileName": "/Users/i/Projects/vtuber/bun.lock",
+            "fileType": ".lock",
+            "linesAdded": 859,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-07-26T23:41:10.622Z",
+            "fileName": "/Users/i/Projects/vtuber/bun.lock",
+            "fileType": ".lock",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-07-26T23:41:24.276Z",
+            "fileName": "/Users/i/Projects/vtuber/bun.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-07-26T23:41:50.714Z",
+            "fileName": "/Users/i/Projects/vtuber/bun.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/i/Projects/vtuber/package.json": [
+          {
+            "timestamp": "2025-07-26T23:40:49.344Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/vtuber/app/page.tsx": [
+          {
+            "timestamp": "2025-07-26T23:40:51.672Z",
+            "fileName": "/Users/i/Projects/vtuber/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "lock": 3,
+        "json": 0,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "0": 4
+      },
+      "topFiles": [
+        "/Users/i/Projects/vtuber/bun.lock",
+        "/Users/i/Projects/vtuber/package.json",
+        "/Users/i/Projects/vtuber/app/page.tsx"
+      ],
+      "averageChangeSize": 164.16666666666666
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "lock",
+    "tsx",
+    "json"
+  ]
+}
