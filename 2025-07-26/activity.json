@@ -199,9 +199,9 @@
       "averageChangeSize": 18.833333333333332
     },
     "vtuber": {
-      "totalLinesAdded": 680,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 692,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 18,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -290,6 +290,90 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:10:28.642Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:10:34.856Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:10:40.393Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:11:01.496Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:11:43.585Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:12:59.167Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]
