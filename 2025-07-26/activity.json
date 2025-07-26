@@ -199,7 +199,7 @@
       "averageChangeSize": 18.833333333333332
     },
     "vtuber": {
-      "totalLinesAdded": 501,
+      "totalLinesAdded": 624,
       "totalLinesRemoved": 15,
       "totalActiveTime": 1,
       "files": {
@@ -231,6 +231,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/vtuber/server.ts": [
+          {
+            "timestamp": "2025-07-26T21:01:25.050Z",
+            "fileName": "/Users/i/Projects/vtuber/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
