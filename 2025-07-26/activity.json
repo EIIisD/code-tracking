@@ -181,6 +181,53 @@
         "/Users/i/.config/fish/conf.d/env.fish"
       ],
       "averageChangeSize": 18.833333333333332
+    },
+    "vtuber": {
+      "totalLinesAdded": 501,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-07-26T20:53:16.288Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 501,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T20:53:16.763Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "/Users/i/.claude.json"
+      ],
+      "averageChangeSize": 258
     }
   },
   "totalActiveTime": 3,
