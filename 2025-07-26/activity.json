@@ -199,9 +199,9 @@
       "averageChangeSize": 18.833333333333332
     },
     "vtuber": {
-      "totalLinesAdded": 624,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 680,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 7,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -231,6 +231,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:05:11.503Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
           }
         ],
         "/Users/i/Projects/vtuber/server.ts": [
@@ -247,6 +261,36 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/vtuber/package.json": [
+          {
+            "timestamp": "2025-07-26T21:05:42.630Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-26T21:05:42.849Z",
+            "fileName": "/Users/i/Projects/vtuber/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
