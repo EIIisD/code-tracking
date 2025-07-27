@@ -1136,7 +1136,7 @@
       "averageChangeSize": 165.75
     },
     "refunds": {
-      "totalLinesAdded": 7050,
+      "totalLinesAdded": 7263,
       "totalLinesRemoved": 3964,
       "totalActiveTime": 39,
       "files": {
@@ -1616,6 +1616,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/refunds/merge_transactions.py": [
+          {
+            "timestamp": "2025-07-27T22:43:08.412Z",
+            "fileName": "/Users/i/Projects/refunds/merge_transactions.py",
+            "fileType": ".py",
+            "linesAdded": 213,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
           }
         ]
       },
