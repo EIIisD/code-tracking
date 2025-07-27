@@ -954,9 +954,9 @@
       "averageChangeSize": 165.75
     },
     "refunds": {
-      "totalLinesAdded": 28,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 113,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 7,
       "files": {
         "/Users/i/Projects/refunds/.mcp.json": [
           {
@@ -1030,6 +1030,36 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/refunds/payments.txt": [
+          {
+            "timestamp": "2025-07-27T18:26:01.166Z",
+            "fileName": "/Users/i/Projects/refunds/payments.txt",
+            "fileType": ".txt",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T18:26:06.412Z",
+            "fileName": "/Users/i/Projects/refunds/payments.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
