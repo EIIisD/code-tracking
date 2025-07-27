@@ -954,7 +954,7 @@
       "averageChangeSize": 165.75
     },
     "refunds": {
-      "totalLinesAdded": 113,
+      "totalLinesAdded": 631,
       "totalLinesRemoved": 1,
       "totalActiveTime": 7,
       "files": {
@@ -1060,6 +1060,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/refunds/Transactions.csv": [
+          {
+            "timestamp": "2025-07-27T18:47:19.900Z",
+            "fileName": "/Users/i/Projects/refunds/Transactions.csv",
+            "fileType": ".csv",
+            "linesAdded": 518,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
