@@ -355,9 +355,9 @@
       "averageChangeSize": 164.16666666666666
     },
     "fish": {
-      "totalLinesAdded": 21,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 41,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 19,
       "files": {
         "/Users/i/.config/fish/functions/bun.fish": [
           {
@@ -456,6 +456,76 @@
               "removed": []
             },
             "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T13:26:04.525Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T13:26:26.396Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T13:27:19.315Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T13:28:10.895Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T13:28:54.928Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "fish"
           }
         ]
