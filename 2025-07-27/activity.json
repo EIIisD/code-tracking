@@ -573,9 +573,9 @@
       "averageChangeSize": 164.16666666666666
     },
     "fish": {
-      "totalLinesAdded": 154,
-      "totalLinesRemoved": 29,
-      "totalActiveTime": 44,
+      "totalLinesAdded": 155,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 48,
       "files": {
         "/Users/i/.config/fish/functions/bun.fish": [
           {
@@ -900,6 +900,62 @@
               "removed": []
             },
             "duration": 4,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T21:58:32.460Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T21:58:56.114Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T21:59:01.265Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T21:59:07.519Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "fish"
           }
         ]
