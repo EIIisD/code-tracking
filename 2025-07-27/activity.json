@@ -573,9 +573,9 @@
       "averageChangeSize": 164.16666666666666
     },
     "fish": {
-      "totalLinesAdded": 142,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 154,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 44,
       "files": {
         "/Users/i/.config/fish/functions/bun.fish": [
           {
@@ -866,6 +866,34 @@
             "fileType": ".fish",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T21:54:52.826Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T21:57:54.453Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 13,
             "projectName": "fish",
             "content": {
               "added": [],
