@@ -355,9 +355,9 @@
       "averageChangeSize": 164.16666666666666
     },
     "fish": {
-      "totalLinesAdded": 59,
+      "totalLinesAdded": 93,
       "totalLinesRemoved": 16,
-      "totalActiveTime": 28,
+      "totalActiveTime": 31,
       "files": {
         "/Users/i/.config/fish/functions/bun.fish": [
           {
@@ -596,6 +596,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/config.fish": [
+          {
+            "timestamp": "2025-07-27T13:36:34.457Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "fish"
           }
         ]
