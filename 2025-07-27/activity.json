@@ -2,7 +2,7 @@
   "date": "2025-07-27",
   "projects": {
     "vtuber": {
-      "totalLinesAdded": 1449,
+      "totalLinesAdded": 1980,
       "totalLinesRemoved": 169,
       "totalActiveTime": 51,
       "files": {
@@ -478,6 +478,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-27T15:22:53.046Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 531,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
