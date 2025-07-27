@@ -954,7 +954,7 @@
       "averageChangeSize": 165.75
     },
     "refunds": {
-      "totalLinesAdded": 1235,
+      "totalLinesAdded": 3182,
       "totalLinesRemoved": 93,
       "totalActiveTime": 18,
       "files": {
@@ -1192,6 +1192,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/i/Projects/refunds/moneyhub/Transaction Export.csv": [
+          {
+            "timestamp": "2025-07-27T20:29:52.411Z",
+            "fileName": "/Users/i/Projects/refunds/moneyhub/Transaction Export.csv",
+            "fileType": ".csv",
+            "linesAdded": 1947,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
