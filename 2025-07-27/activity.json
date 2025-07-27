@@ -353,6 +353,53 @@
         "/Users/i/Projects/vtuber/app/page.tsx"
       ],
       "averageChangeSize": 164.16666666666666
+    },
+    "fish": {
+      "totalLinesAdded": 15,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/i/.config/fish/functions/bun.fish": [
+          {
+            "timestamp": "2025-07-27T13:16:07.002Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-07-27T13:18:16.427Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 3
+      },
+      "changeFrequency": {
+        "14": 3
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/functions/bun.fish"
+      ],
+      "averageChangeSize": 7.5
     }
   },
   "totalActiveTime": 5,
