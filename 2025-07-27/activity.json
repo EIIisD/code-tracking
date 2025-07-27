@@ -952,6 +952,99 @@
         "/Users/i/.claude.json"
       ],
       "averageChangeSize": 165.75
+    },
+    "refunds": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/i/Projects/refunds/.mcp.json": [
+          {
+            "timestamp": "2025-07-27T17:57:28.505Z",
+            "fileName": "/Users/i/Projects/refunds/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-27T17:57:50.513Z",
+            "fileName": "/Users/i/Projects/refunds/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-27T17:58:18.012Z",
+            "fileName": "/Users/i/Projects/refunds/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-27T17:59:49.232Z",
+            "fileName": "/Users/i/Projects/refunds/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/refunds/.claude.json": [
+          {
+            "timestamp": "2025-07-27T18:01:34.386Z",
+            "fileName": "/Users/i/Projects/refunds/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 6
+      },
+      "changeFrequency": {
+        "18": 4,
+        "19": 2
+      },
+      "topFiles": [
+        "/Users/i/Projects/refunds/.mcp.json",
+        "/Users/i/Projects/refunds/.claude.json"
+      ],
+      "averageChangeSize": 5.6
     }
   },
   "totalActiveTime": 5,
