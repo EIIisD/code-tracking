@@ -955,7 +955,7 @@
     },
     "refunds": {
       "totalLinesAdded": 1235,
-      "totalLinesRemoved": 30,
+      "totalLinesRemoved": 93,
       "totalActiveTime": 18,
       "files": {
         "/Users/i/Projects/refunds/.mcp.json": [
@@ -1117,6 +1117,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-07-27T19:37:38.463Z",
+            "fileName": "/Users/i/Projects/refunds/Transactions.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 63,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "csv"
           }
         ],
