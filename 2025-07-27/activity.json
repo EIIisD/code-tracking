@@ -3,8 +3,8 @@
   "projects": {
     "vtuber": {
       "totalLinesAdded": 1390,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 38,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 41,
       "files": {
         "/Users/i/Projects/vtuber/bun.lock": [
           {
@@ -93,6 +93,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-27T14:40:35.629Z",
+            "fileName": "/Users/i/Projects/vtuber/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 55,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
