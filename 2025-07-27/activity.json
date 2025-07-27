@@ -628,9 +628,9 @@
       "averageChangeSize": 7.5
     },
     ".claude": {
-      "totalLinesAdded": 663,
+      "totalLinesAdded": 667,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 9,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -690,6 +690,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/.claude/.gitignore": [
+          {
+            "timestamp": "2025-07-27T13:54:37.778Z",
+            "fileName": "/Users/i/.claude/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-27T13:55:28.972Z",
+            "fileName": "/Users/i/.claude/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
