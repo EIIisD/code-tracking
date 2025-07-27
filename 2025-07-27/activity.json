@@ -954,9 +954,9 @@
       "averageChangeSize": 165.75
     },
     "refunds": {
-      "totalLinesAdded": 5113,
+      "totalLinesAdded": 7050,
       "totalLinesRemoved": 3964,
-      "totalActiveTime": 30,
+      "totalActiveTime": 39,
       "files": {
         "/Users/i/Projects/refunds/.mcp.json": [
           {
@@ -1292,6 +1292,148 @@
             },
             "duration": 1,
             "language": "csv"
+          },
+          {
+            "timestamp": "2025-07-27T21:36:38.758Z",
+            "fileName": "/Users/i/Projects/refunds/moneyhub/Transaction Export.csv",
+            "fileType": ".csv",
+            "linesAdded": 1922,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          }
+        ],
+        "/Users/i/Projects/refunds/sync-transactions-log.txt": [
+          {
+            "timestamp": "2025-07-27T21:34:44.498Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:34:55.650Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:35:06.449Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:35:17.072Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:35:31.824Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:35:43.943Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:36:32.097Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:36:43.898Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T21:37:00.920Z",
+            "fileName": "/Users/i/Projects/refunds/sync-transactions-log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
