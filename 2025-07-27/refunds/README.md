@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3182                                          |
-| **Lines Removed** (➖) | 93                                        |
-| **Net Change** (↕)    | 3089                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Added** (➕)   | 3184                                          |
+| **Lines Removed** (➖) | 2037                                        |
+| **Net Change** (↕)    | 1147                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **Transactions.csv** (+518, -92)
 - **settings.json** (+532, -0)
 - **airtable_field_contains_check.js** (+72, -0)
-- **Transaction Export.csv** (+1947, -0)
+- **Transaction Export.csv** (+1949, -1944)
 
 ## Visualizations
 
@@ -28,7 +28,7 @@ pie showData
 title Lines changed by file type
 ".json" : 560
 ".txt" : 86
-".csv" : 2557
+".csv" : 4503
 ".js" : 72
 ```
 
@@ -40,8 +40,8 @@ title Coding activity by hour (count of changes)
 "18h" : 4
 "19h" : 7
 "20h" : 5
-"21h" : 1
+"21h" : 3
 ```
 
 
-> **Last Updated:** 27/07/2025, 21:32:25
+> **Last Updated:** 27/07/2025, 21:37:25
