@@ -2,7 +2,7 @@
   "date": "2025-07-28",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 9115,
+      "totalLinesAdded": 9127,
       "totalLinesRemoved": 1183,
       "totalActiveTime": 93,
       "files": {
@@ -716,6 +716,20 @@
             "fileName": "/Users/i/.claude.json",
             "fileType": ".json",
             "linesAdded": 1533,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T22:35:33.516Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 12,
             "linesRemoved": 0,
             "projectName": "refunds",
             "content": {
