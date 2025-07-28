@@ -175,7 +175,7 @@
       "averageChangeSize": 15.11111111111111
     },
     "refunds": {
-      "totalLinesAdded": 67,
+      "totalLinesAdded": 71,
       "totalLinesRemoved": 16,
       "totalActiveTime": 17,
       "files": {
@@ -388,6 +388,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T23:16:02.652Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
