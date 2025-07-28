@@ -1261,8 +1261,8 @@
     },
     "vtuber": {
       "totalLinesAdded": 209,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 2,
+      "totalLinesRemoved": 47,
+      "totalActiveTime": 6,
       "files": {
         "/Users/i/Projects/vtuber/server.ts": [
           {
@@ -1305,6 +1305,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-28T21:15:15.548Z",
+            "fileName": "/Users/i/Projects/vtuber/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-28T21:16:07.906Z",
+            "fileName": "/Users/i/Projects/vtuber/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-28T21:17:42.042Z",
+            "fileName": "/Users/i/Projects/vtuber/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
