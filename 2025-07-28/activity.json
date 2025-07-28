@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 2275,
-      "totalLinesRemoved": 406,
-      "totalActiveTime": 48,
+      "totalLinesAdded": 2717,
+      "totalLinesRemoved": 832,
+      "totalActiveTime": 51,
       "files": {
         "/Users/i/Projects/refunds/enrichment_pre.py": [
           {
@@ -288,6 +288,34 @@
             },
             "duration": 0,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-28T01:55:12.655Z",
+            "fileName": "/Users/i/Projects/refunds/enrichment.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 426,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-28T01:56:36.764Z",
+            "fileName": "/Users/i/Projects/refunds/enrichment.py",
+            "fileType": ".py",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
           }
         ],
         "/Users/i/.claude.json": [
@@ -446,6 +474,22 @@
             },
             "duration": 0,
             "language": "csv"
+          }
+        ],
+        "/Users/i/Projects/refunds/research/unique_vendors.txt": [
+          {
+            "timestamp": "2025-07-28T01:54:39.258Z",
+            "fileName": "/Users/i/Projects/refunds/research/unique_vendors.txt",
+            "fileType": ".txt",
+            "linesAdded": 414,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
           }
         ]
       },
