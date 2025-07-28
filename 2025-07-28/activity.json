@@ -2,7 +2,7 @@
   "date": "2025-07-28",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 2192,
+      "totalLinesAdded": 2244,
       "totalLinesRemoved": 406,
       "totalActiveTime": 48,
       "files": {
@@ -416,6 +416,22 @@
             },
             "duration": 4,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/refunds/moneyhub/Transaction Export.enriched.csv": [
+          {
+            "timestamp": "2025-07-28T01:09:04.433Z",
+            "fileName": "/Users/i/Projects/refunds/moneyhub/Transaction Export.enriched.csv",
+            "fileType": ".csv",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
           }
         ]
       },
