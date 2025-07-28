@@ -1361,6 +1361,39 @@
         "/Users/i/Projects/vtuber/server.ts"
       ],
       "averageChangeSize": 81
+    },
+    "ani": {
+      "totalLinesAdded": 210,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/ani/tests/e2e/session.test.ts": [
+          {
+            "timestamp": "2025-07-28T21:36:33.222Z",
+            "fileName": "/Users/i/Projects/ani/tests/e2e/session.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 210,
+            "linesRemoved": 0,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/ani/tests/e2e/session.test.ts"
+      ],
+      "averageChangeSize": 210
     }
   },
   "totalActiveTime": 1,
