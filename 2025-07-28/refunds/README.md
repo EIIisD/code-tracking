@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2244                                          |
+| **Lines Added** (➕)   | 2275                                          |
 | **Lines Removed** (➖) | 406                                        |
-| **Net Change** (↕)    | 1838                |
+| **Net Change** (↕)    | 1869                |
 | **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
 - **enrichment_pre.py** (+372, -212)
-- **enrichment.py** (+601, -164)
+- **enrichment.py** (+632, -164)
 - **.claude.json** (+1219, -30)
 - **Transaction Export.enriched.csv** (+52, -0)
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1349
+".py" : 1380
 ".json" : 1249
 ".csv" : 52
 ```
@@ -35,8 +35,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 6
 "01h" : 23
-"02h" : 1
+"02h" : 2
 ```
 
 
-> **Last Updated:** 28/07/2025, 02:12:26
+> **Last Updated:** 28/07/2025, 02:22:26
