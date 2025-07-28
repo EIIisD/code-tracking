@@ -1394,6 +1394,39 @@
         "/Users/i/Projects/ani/tests/e2e/session.test.ts"
       ],
       "averageChangeSize": 210
+    },
+    "Bella": {
+      "totalLinesAdded": 532,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-07-28T22:01:44.556Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 532,
+            "linesRemoved": 0,
+            "projectName": "Bella",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "/Users/i/Library/Application Support/Cursor/User/settings.json"
+      ],
+      "averageChangeSize": 532
     }
   },
   "totalActiveTime": 1,
