@@ -1258,6 +1258,67 @@
         "/Users/i/Projects/brightdata-mcp/mcp_config_examples.json"
       ],
       "averageChangeSize": 36
+    },
+    "vtuber": {
+      "totalLinesAdded": 209,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/i/Projects/vtuber/server.ts": [
+          {
+            "timestamp": "2025-07-28T21:14:19.411Z",
+            "fileName": "/Users/i/Projects/vtuber/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 184,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-28T21:14:36.207Z",
+            "fileName": "/Users/i/Projects/vtuber/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-28T21:14:59.334Z",
+            "fileName": "/Users/i/Projects/vtuber/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "vtuber",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "22": 2
+      },
+      "topFiles": [
+        "/Users/i/Projects/vtuber/server.ts"
+      ],
+      "averageChangeSize": 81
     }
   },
   "totalActiveTime": 1,
