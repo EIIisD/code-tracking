@@ -145,6 +145,54 @@
         "/Users/i/Projects/shortcuts/index.ts"
       ],
       "averageChangeSize": 15.11111111111111
+    },
+    "refunds": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-07-28T22:58:26.462Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T23:00:12.892Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2
+      },
+      "changeFrequency": {
+        "0": 2,
+        "23": 0
+      },
+      "topFiles": [
+        "/Users/i/.claude.json"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 12,
