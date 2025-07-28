@@ -175,9 +175,9 @@
       "averageChangeSize": 15.11111111111111
     },
     "refunds": {
-      "totalLinesAdded": 76,
+      "totalLinesAdded": 96,
       "totalLinesRemoved": 26,
-      "totalActiveTime": 18,
+      "totalActiveTime": 19,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -423,6 +423,34 @@
             "fileName": "/Users/i/.claude.json",
             "fileType": ".json",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T23:52:12.116Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T23:52:15.629Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "refunds",
             "content": {
