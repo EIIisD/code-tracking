@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5063                                          |
+| **Lines Added** (➕)   | 6993                                          |
 | **Lines Removed** (➖) | 1183                                        |
-| **Net Change** (↕)    | 3880                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Net Change** (↕)    | 5810                |
+| **Active Time** (⌚)   | 89 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **Transaction Export.enriched.csv** (+52, -0)
 - **unique_vendors.txt** (+414, -0)
 - **combined_enriched.csv** (+1930, -0)
+- **Transaction Export 2.csv** (+1930, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@ pie showData
 title Lines changed by file type
 ".py" : 2601
 ".json" : 1249
-".csv" : 1982
+".csv" : 3912
 ".txt" : 414
 ```
 
@@ -40,7 +41,8 @@ title Coding activity by hour (count of changes)
 "01h" : 23
 "02h" : 6
 "03h" : 18
+"14h" : 2
 ```
 
 
-> **Last Updated:** 28/07/2025, 03:52:26
+> **Last Updated:** 28/07/2025, 14:47:27
