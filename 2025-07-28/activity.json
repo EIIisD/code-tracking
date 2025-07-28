@@ -1517,9 +1517,9 @@
       "averageChangeSize": 532
     },
     ".gemini": {
-      "totalLinesAdded": 33,
+      "totalLinesAdded": 34,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 6,
+      "totalActiveTime": 8,
       "files": {
         "/Users/i/.gemini/settings.json": [
           {
@@ -1583,6 +1583,20 @@
             "fileName": "/Users/i/.gemini/settings.json",
             "fileType": ".json",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".gemini",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T22:22:18.304Z",
+            "fileName": "/Users/i/.gemini/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": ".gemini",
             "content": {
