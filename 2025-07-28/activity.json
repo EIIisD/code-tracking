@@ -459,6 +459,39 @@
         "/Users/i/Projects/refunds/enrichment_pre.py"
       ],
       "averageChangeSize": 212.5
+    },
+    ".claude": {
+      "totalLinesAdded": 1215,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-07-28T01:46:04.596Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 1215,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "2": 0
+      },
+      "topFiles": [
+        "/Users/i/.claude.json"
+      ],
+      "averageChangeSize": 1215
     }
   },
   "totalActiveTime": 1,
