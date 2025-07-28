@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 889,
-      "totalLinesRemoved": 371,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 907,
+      "totalLinesRemoved": 372,
+      "totalActiveTime": 11,
       "files": {
         "/Users/i/Projects/refunds/enrichment_pre.py": [
           {
@@ -105,6 +105,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-28T00:08:25.421Z",
+            "fileName": "/Users/i/Projects/refunds/enrichment.py",
+            "fileType": ".py",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-28T00:09:26.952Z",
+            "fileName": "/Users/i/Projects/refunds/enrichment.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
