@@ -1674,6 +1674,39 @@
         "/Users/i/.gemini/settings.json"
       ],
       "averageChangeSize": 8.4
+    },
+    "shortcuts": {
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/shortcuts/package.json": [
+          {
+            "timestamp": "2025-07-28T22:55:00.448Z",
+            "fileName": "/Users/i/Projects/shortcuts/package.json",
+            "fileType": ".json",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "shortcuts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/shortcuts/package.json"
+      ],
+      "averageChangeSize": 20
     }
   },
   "totalActiveTime": 1,
