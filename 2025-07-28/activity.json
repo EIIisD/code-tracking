@@ -2,7 +2,7 @@
   "date": "2025-07-28",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 949,
+      "totalLinesAdded": 960,
       "totalLinesRemoved": 372,
       "totalActiveTime": 20,
       "files": {
@@ -175,6 +175,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-28T00:33:59.747Z",
+            "fileName": "/Users/i/Projects/refunds/enrichment.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
