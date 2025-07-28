@@ -1149,6 +1149,39 @@
         "/Users/i/.config/fish/config.fish"
       ],
       "averageChangeSize": 45
+    },
+    "brightdata-mcp": {
+      "totalLinesAdded": 36,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/brightdata-mcp/mcp_config_examples.json": [
+          {
+            "timestamp": "2025-07-28T17:31:16.364Z",
+            "fileName": "/Users/i/Projects/brightdata-mcp/mcp_config_examples.json",
+            "fileType": ".json",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "brightdata-mcp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/brightdata-mcp/mcp_config_examples.json"
+      ],
+      "averageChangeSize": 36
     }
   },
   "totalActiveTime": 1,
