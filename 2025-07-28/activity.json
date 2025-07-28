@@ -803,9 +803,9 @@
       "averageChangeSize": 212.5
     },
     ".claude": {
-      "totalLinesAdded": 2516,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 2528,
+      "totalLinesRemoved": 30,
+      "totalActiveTime": 33,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -988,6 +988,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T16:49:06.723Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T16:49:33.613Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T16:49:38.931Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T16:50:52.464Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]
