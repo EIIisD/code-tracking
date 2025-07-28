@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 2749,
+      "totalLinesAdded": 4739,
       "totalLinesRemoved": 832,
-      "totalActiveTime": 53,
+      "totalActiveTime": 55,
       "files": {
         "/Users/i/Projects/refunds/enrichment_pre.py": [
           {
@@ -330,6 +330,34 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-28T02:10:41.783Z",
+            "fileName": "/Users/i/Projects/refunds/enrichment.py",
+            "fileType": ".py",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-28T02:11:43.249Z",
+            "fileName": "/Users/i/Projects/refunds/enrichment.py",
+            "fileType": ".py",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "/Users/i/.claude.json": [
@@ -504,6 +532,22 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/refunds/combined_enriched.csv": [
+          {
+            "timestamp": "2025-07-28T02:10:49.060Z",
+            "fileName": "/Users/i/Projects/refunds/combined_enriched.csv",
+            "fileType": ".csv",
+            "linesAdded": 1930,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
           }
         ]
       },
