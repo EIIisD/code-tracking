@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 2188,
+      "totalLinesAdded": 2192,
       "totalLinesRemoved": 406,
-      "totalActiveTime": 44,
+      "totalActiveTime": 48,
       "files": {
         "/Users/i/Projects/refunds/enrichment_pre.py": [
           {
@@ -401,6 +401,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T00:59:45.199Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ]
