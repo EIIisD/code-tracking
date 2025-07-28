@@ -1058,6 +1058,39 @@
         "/Users/i/.claude.json"
       ],
       "averageChangeSize": 1215
+    },
+    "fish": {
+      "totalLinesAdded": 45,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.config/fish/config.fish": [
+          {
+            "timestamp": "2025-07-28T16:52:26.590Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/config.fish"
+      ],
+      "averageChangeSize": 45
     }
   },
   "totalActiveTime": 1,
