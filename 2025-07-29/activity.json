@@ -175,9 +175,9 @@
       "averageChangeSize": 15.11111111111111
     },
     "refunds": {
-      "totalLinesAdded": 272,
-      "totalLinesRemoved": 88,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 280,
+      "totalLinesRemoved": 103,
+      "totalActiveTime": 85,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -955,6 +955,76 @@
             "fileName": "/Users/i/.claude.json",
             "fileType": ".json",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:41:10.564Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:41:16.742Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:41:18.669Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:41:29.388Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:42:25.260Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "refunds",
             "content": {
