@@ -1427,9 +1427,9 @@
       "averageChangeSize": 295.6666666666667
     },
     "invoices": {
-      "totalLinesAdded": 436,
+      "totalLinesAdded": 472,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 10,
       "files": {
         "/Users/i/Projects/invoices/TP-001.html": [
           {
@@ -1483,6 +1483,48 @@
             "fileName": "/Users/i/Projects/invoices/index.ts",
             "fileType": ".ts",
             "linesAdded": 207,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-29T12:55:10.335Z",
+            "fileName": "/Users/i/Projects/invoices/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-29T12:57:50.502Z",
+            "fileName": "/Users/i/Projects/invoices/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-29T12:58:04.603Z",
+            "fileName": "/Users/i/Projects/invoices/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "invoices",
             "content": {
