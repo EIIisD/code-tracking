@@ -979,9 +979,9 @@
       "averageChangeSize": 4
     },
     "ani": {
-      "totalLinesAdded": 19,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 1775,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 6,
       "files": {
         "/Users/i/Projects/ani/app/(chat)/layout.tsx": [
           {
@@ -1041,6 +1041,78 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-07-29T00:41:10.457Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 1748,
+            "linesRemoved": 0,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:41:16.745Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:41:18.610Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:41:29.323Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T00:42:25.223Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
