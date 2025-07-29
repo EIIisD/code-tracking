@@ -1063,7 +1063,7 @@
       "averageChangeSize": 4
     },
     "ani": {
-      "totalLinesAdded": 1779,
+      "totalLinesAdded": 1783,
       "totalLinesRemoved": 25,
       "totalActiveTime": 6,
       "files": {
@@ -1200,6 +1200,20 @@
           },
           {
             "timestamp": "2025-07-29T00:50:44.303Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T01:11:03.162Z",
             "fileName": "/Users/i/.claude.json",
             "fileType": ".json",
             "linesAdded": 4,
