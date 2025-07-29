@@ -587,9 +587,9 @@
       "averageChangeSize": 4
     },
     "ani": {
-      "totalLinesAdded": 0,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 19,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 2,
       "files": {
         "/Users/i/Projects/ani/app/(chat)/layout.tsx": [
           {
@@ -619,6 +619,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ani/lib/ai/tools/get-weather.ts": [
+          {
+            "timestamp": "2025-07-29T00:18:31.706Z",
+            "fileName": "/Users/i/Projects/ani/lib/ai/tools/get-weather.ts",
+            "fileType": ".ts",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-29T00:18:35.438Z",
+            "fileName": "/Users/i/Projects/ani/lib/ai/tools/get-weather.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ani",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
