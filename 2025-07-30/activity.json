@@ -2,9 +2,9 @@
   "date": "2025-07-30",
   "projects": {
     "ellis-donovan": {
-      "totalLinesAdded": 18,
+      "totalLinesAdded": 42,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "/Users/i/Projects/ellis-donovan/dominos-digital-experience.md": [
           {
@@ -19,6 +19,86 @@
               "removed": []
             },
             "duration": 0,
+            "language": "md"
+          }
+        ],
+        "/Users/i/Projects/ellis-donovan/easyjet-boarding-passes.md": [
+          {
+            "timestamp": "2025-07-30T14:34:53.557Z",
+            "fileName": "/Users/i/Projects/ellis-donovan/easyjet-boarding-passes.md",
+            "fileType": ".md",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ellis-donovan",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
+          }
+        ],
+        "/Users/i/Projects/ellis-donovan/jd-sports-mpos-application.md": [
+          {
+            "timestamp": "2025-07-30T14:34:55.825Z",
+            "fileName": "/Users/i/Projects/ellis-donovan/jd-sports-mpos-application.md",
+            "fileType": ".md",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ellis-donovan",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          }
+        ],
+        "/Users/i/Projects/ellis-donovan/online-ceramics-ecommerce.md": [
+          {
+            "timestamp": "2025-07-30T14:34:56.561Z",
+            "fileName": "/Users/i/Projects/ellis-donovan/online-ceramics-ecommerce.md",
+            "fileType": ".md",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ellis-donovan",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          }
+        ],
+        "/Users/i/Projects/ellis-donovan/superwhisper-ios-keyboard.md": [
+          {
+            "timestamp": "2025-07-30T14:34:57.177Z",
+            "fileName": "/Users/i/Projects/ellis-donovan/superwhisper-ios-keyboard.md",
+            "fileType": ".md",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ellis-donovan",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          }
+        ],
+        "/Users/i/Projects/ellis-donovan/vanarama-design-system.md": [
+          {
+            "timestamp": "2025-07-30T14:34:58.987Z",
+            "fileName": "/Users/i/Projects/ellis-donovan/vanarama-design-system.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ellis-donovan",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "md"
           }
         ]
