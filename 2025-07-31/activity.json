@@ -2,9 +2,9 @@
   "date": "2025-07-31",
   "projects": {
     ".claude": {
-      "totalLinesAdded": 51,
+      "totalLinesAdded": 118,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -34,6 +34,50 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-07-31T12:44:54.998Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-31T12:45:40.960Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.claude/scripts/claude-using-tool.sh": [
+          {
+            "timestamp": "2025-07-31T12:44:28.919Z",
+            "fileName": "/Users/i/.claude/scripts/claude-using-tool.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
           }
         ]
       },
