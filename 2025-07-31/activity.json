@@ -408,9 +408,9 @@
       "averageChangeSize": 55.07692307692308
     },
     "tw-server": {
-      "totalLinesAdded": 1124,
+      "totalLinesAdded": 1125,
       "totalLinesRemoved": 168,
-      "totalActiveTime": 137,
+      "totalActiveTime": 140,
       "files": {
         "/Users/i/Projects/tw-server/vite.config.ts": [
           {
@@ -837,6 +837,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-31T22:49:51.239Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
