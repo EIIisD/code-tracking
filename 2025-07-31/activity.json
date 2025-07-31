@@ -194,6 +194,218 @@
         "/Users/i/Projects/ellis-donovan/google_takeout_links.txt"
       ],
       "averageChangeSize": 119
+    },
+    "invoices": {
+      "totalLinesAdded": 692,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 13,
+      "files": {
+        "/Users/i/Projects/invoices/index.ts": [
+          {
+            "timestamp": "2025-07-31T14:26:31.622Z",
+            "fileName": "/Users/i/Projects/invoices/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 243,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-31T14:26:32.610Z",
+            "fileName": "/Users/i/Projects/invoices/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-31T14:26:37.899Z",
+            "fileName": "/Users/i/Projects/invoices/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/invoices/public/shared.css": [
+          {
+            "timestamp": "2025-07-31T14:27:27.412Z",
+            "fileName": "/Users/i/Projects/invoices/public/shared.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-31T14:27:35.846Z",
+            "fileName": "/Users/i/Projects/invoices/public/shared.css",
+            "fileType": ".css",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-31T14:27:40.685Z",
+            "fileName": "/Users/i/Projects/invoices/public/shared.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/i/Projects/invoices/public/invoices/SUI-001.html": [
+          {
+            "timestamp": "2025-07-31T14:27:51.914Z",
+            "fileName": "/Users/i/Projects/invoices/public/invoices/SUI-001.html",
+            "fileType": ".html",
+            "linesAdded": 216,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-31T14:27:53.130Z",
+            "fileName": "/Users/i/Projects/invoices/public/invoices/SUI-001.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/i/Projects/invoices/public/cover-images/easyjet.html": [
+          {
+            "timestamp": "2025-07-31T14:29:33.281Z",
+            "fileName": "/Users/i/Projects/invoices/public/cover-images/easyjet.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-31T14:29:35.187Z",
+            "fileName": "/Users/i/Projects/invoices/public/cover-images/easyjet.html",
+            "fileType": ".html",
+            "linesAdded": 216,
+            "linesRemoved": 0,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-31T14:29:46.894Z",
+            "fileName": "/Users/i/Projects/invoices/public/cover-images/easyjet.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-31T14:29:48.805Z",
+            "fileName": "/Users/i/Projects/invoices/public/cover-images/easyjet.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-31T14:29:52.869Z",
+            "fileName": "/Users/i/Projects/invoices/public/cover-images/easyjet.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "invoices",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2,
+        "css": 3,
+        "html": 8
+      },
+      "changeFrequency": {
+        "15": 13
+      },
+      "topFiles": [
+        "/Users/i/Projects/invoices/public/cover-images/easyjet.html",
+        "/Users/i/Projects/invoices/index.ts",
+        "/Users/i/Projects/invoices/public/shared.css",
+        "/Users/i/Projects/invoices/public/invoices/SUI-001.html"
+      ],
+      "averageChangeSize": 55.07692307692308
     }
   },
   "totalActiveTime": 1,
