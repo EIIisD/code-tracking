@@ -408,9 +408,9 @@
       "averageChangeSize": 55.07692307692308
     },
     "tw-server": {
-      "totalLinesAdded": 126,
+      "totalLinesAdded": 131,
       "totalLinesRemoved": 69,
-      "totalActiveTime": 21,
+      "totalActiveTime": 23,
       "files": {
         "/Users/i/Projects/tw-server/vite.config.ts": [
           {
@@ -701,6 +701,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-31T14:48:52.904Z",
+            "fileName": "/Users/i/Projects/tw-server/src/tailwind.css",
+            "fileType": ".css",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "css"
           }
         ]
