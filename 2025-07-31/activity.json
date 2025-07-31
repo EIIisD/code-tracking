@@ -119,6 +119,39 @@
         "/Users/i/.claude/settings.json"
       ],
       "averageChangeSize": 25.5
+    },
+    "ellis-donovan": {
+      "totalLinesAdded": 119,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/ellis-donovan/google_takeout_links.txt": [
+          {
+            "timestamp": "2025-07-31T12:57:57.264Z",
+            "fileName": "/Users/i/Projects/ellis-donovan/google_takeout_links.txt",
+            "fileType": ".txt",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "ellis-donovan",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/ellis-donovan/google_takeout_links.txt"
+      ],
+      "averageChangeSize": 119
     }
   },
   "totalActiveTime": 1,
