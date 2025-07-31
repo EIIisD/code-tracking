@@ -406,6 +406,166 @@
         "/Users/i/Projects/invoices/public/invoices/SUI-001.html"
       ],
       "averageChangeSize": 55.07692307692308
+    },
+    "tw-server": {
+      "totalLinesAdded": 112,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 9,
+      "files": {
+        "/Users/i/Projects/tw-server/vite.config.ts": [
+          {
+            "timestamp": "2025-07-31T14:34:10.734Z",
+            "fileName": "/Users/i/Projects/tw-server/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-31T14:34:11.690Z",
+            "fileName": "/Users/i/Projects/tw-server/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/App.css": [
+          {
+            "timestamp": "2025-07-31T14:34:22.625Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.css",
+            "fileType": ".css",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-31T14:34:23.659Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/main.tsx": [
+          {
+            "timestamp": "2025-07-31T14:34:33.569Z",
+            "fileName": "/Users/i/Projects/tw-server/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-31T14:34:34.198Z",
+            "fileName": "/Users/i/Projects/tw-server/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/App.tsx": [
+          {
+            "timestamp": "2025-07-31T14:35:09.849Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/tw-server/index.html": [
+          {
+            "timestamp": "2025-07-31T14:36:07.458Z",
+            "fileName": "/Users/i/Projects/tw-server/index.html",
+            "fileType": ".html",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-31T14:37:48.270Z",
+            "fileName": "/Users/i/Projects/tw-server/index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1,
+        "css": 2,
+        "tsx": 3,
+        "html": 3
+      },
+      "changeFrequency": {
+        "15": 9
+      },
+      "topFiles": [
+        "/Users/i/Projects/tw-server/vite.config.ts",
+        "/Users/i/Projects/tw-server/src/App.css",
+        "/Users/i/Projects/tw-server/src/main.tsx",
+        "/Users/i/Projects/tw-server/index.html",
+        "/Users/i/Projects/tw-server/src/App.tsx"
+      ],
+      "averageChangeSize": 17.444444444444443
     }
   },
   "totalActiveTime": 1,
