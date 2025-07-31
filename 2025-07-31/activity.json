@@ -408,9 +408,9 @@
       "averageChangeSize": 55.07692307692308
     },
     "tw-server": {
-      "totalLinesAdded": 131,
-      "totalLinesRemoved": 69,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 168,
+      "totalLinesRemoved": 70,
+      "totalActiveTime": 33,
       "files": {
         "/Users/i/Projects/tw-server/vite.config.ts": [
           {
@@ -613,6 +613,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-31T14:53:32.065Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-31T14:57:32.744Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
