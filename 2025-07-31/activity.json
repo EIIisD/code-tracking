@@ -409,8 +409,8 @@
     },
     "tw-server": {
       "totalLinesAdded": 1059,
-      "totalLinesRemoved": 154,
-      "totalActiveTime": 120,
+      "totalLinesRemoved": 160,
+      "totalActiveTime": 122,
       "files": {
         "/Users/i/Projects/tw-server/vite.config.ts": [
           {
@@ -1559,6 +1559,48 @@
           },
           {
             "timestamp": "2025-07-31T21:08:21.936Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/test-various copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:14:43.429Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/test-various copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:14:54.714Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/test-various copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:15:49.331Z",
             "fileName": "/Users/i/Projects/tw-server/src/assets/test-various copy.svg",
             "fileType": ".svg",
             "linesAdded": 0,
