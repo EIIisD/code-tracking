@@ -408,9 +408,9 @@
       "averageChangeSize": 55.07692307692308
     },
     "tw-server": {
-      "totalLinesAdded": 1059,
-      "totalLinesRemoved": 160,
-      "totalActiveTime": 122,
+      "totalLinesAdded": 1105,
+      "totalLinesRemoved": 166,
+      "totalActiveTime": 130,
       "files": {
         "/Users/i/Projects/tw-server/vite.config.ts": [
           {
@@ -1605,6 +1605,108 @@
             "fileType": ".svg",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:23:07.399Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/test-various copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:23:25.442Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/test-various copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          }
+        ],
+        "/Users/i/Projects/tw-server/b64.svg": [
+          {
+            "timestamp": "2025-07-31T21:26:13.989Z",
+            "fileName": "/Users/i/Projects/tw-server/b64.svg",
+            "fileType": ".svg",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:26:14.643Z",
+            "fileName": "/Users/i/Projects/tw-server/b64.svg",
+            "fileType": ".svg",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/assets/b64.svg": [
+          {
+            "timestamp": "2025-07-31T21:26:24.515Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/b64.svg",
+            "fileType": ".svg",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:27:23.669Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/b64.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-07-31T21:27:37.535Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/b64.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "tw-server",
             "content": {
               "added": [],
