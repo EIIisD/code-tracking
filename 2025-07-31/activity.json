@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-31",
+  "projects": {
+    ".claude": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.claude/settings.json": [
+          {
+            "timestamp": "2025-07-31T12:33:26.429Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-31T12:33:29.304Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "13": 1
+      },
+      "topFiles": [
+        "/Users/i/.claude/settings.json"
+      ],
+      "averageChangeSize": 25.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
