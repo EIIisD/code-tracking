@@ -2,7 +2,7 @@
   "date": "2025-08-01",
   "projects": {
     "tw-server": {
-      "totalLinesAdded": 1147,
+      "totalLinesAdded": 3800,
       "totalLinesRemoved": 240,
       "totalActiveTime": 31,
       "files": {
@@ -331,6 +331,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "txt"
+          }
+        ],
+        "/Users/i/Projects/tw-server/package_directories_pro_g40.txt": [
+          {
+            "timestamp": "2025-08-01T16:53:31.482Z",
+            "fileName": "/Users/i/Projects/tw-server/package_directories_pro_g40.txt",
+            "fileType": ".txt",
+            "linesAdded": 2653,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ]
