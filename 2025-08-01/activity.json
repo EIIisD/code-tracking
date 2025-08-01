@@ -3,8 +3,8 @@
   "projects": {
     "tw-server": {
       "totalLinesAdded": 3800,
-      "totalLinesRemoved": 240,
-      "totalActiveTime": 31,
+      "totalLinesRemoved": 1539,
+      "totalActiveTime": 34,
       "files": {
         "/Users/i/Projects/tw-server/src/App.tsx": [
           {
@@ -347,6 +347,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-01T16:56:04.848Z",
+            "fileName": "/Users/i/Projects/tw-server/package_directories_pro_g40.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1299,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "txt"
           }
         ]
