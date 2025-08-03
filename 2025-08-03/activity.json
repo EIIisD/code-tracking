@@ -177,6 +177,53 @@
         "/Users/i/.claude.json"
       ],
       "averageChangeSize": 231.1
+    },
+    "macrowhisper": {
+      "totalLinesAdded": 77,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.config/macrowhisper/macrowhisper.json": [
+          {
+            "timestamp": "2025-08-03T11:38:28.905Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-03T11:38:30.193Z",
+            "fileName": "/Users/i/.config/macrowhisper/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "/Users/i/.config/macrowhisper/macrowhisper.json"
+      ],
+      "averageChangeSize": 42.5
     }
   },
   "totalActiveTime": 9,
