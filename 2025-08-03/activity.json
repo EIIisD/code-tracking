@@ -1,0 +1,178 @@
+{
+  "date": "2025-08-03",
+  "projects": {
+    "refunds": {
+      "totalLinesAdded": 2311,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-08-03T10:05:47.875Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 2301,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/refunds/merchants.txt": [
+          {
+            "timestamp": "2025-08-03T10:06:19.428Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:21.482Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:27.650Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:30.414Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:33.091Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:35.632Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:38.155Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:40.545Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:06:45.683Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "txt": 9
+      },
+      "changeFrequency": {
+        "11": 9
+      },
+      "topFiles": [
+        "/Users/i/Projects/refunds/merchants.txt",
+        "/Users/i/.claude.json"
+      ],
+      "averageChangeSize": 231.1
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "txt",
+    "json"
+  ]
+}
