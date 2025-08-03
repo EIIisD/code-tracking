@@ -1416,7 +1416,7 @@
       "averageChangeSize": 27
     },
     "opencode": {
-      "totalLinesAdded": 63,
+      "totalLinesAdded": 117,
       "totalLinesRemoved": 9,
       "totalActiveTime": 15,
       "files": {
@@ -1532,6 +1532,22 @@
             },
             "duration": 1,
             "language": "jsonc"
+          }
+        ],
+        "/Users/i/.config/opencode/opencode.json": [
+          {
+            "timestamp": "2025-08-03T20:45:52.997Z",
+            "fileName": "/Users/i/.config/opencode/opencode.json",
+            "fileType": ".json",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "opencode",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
