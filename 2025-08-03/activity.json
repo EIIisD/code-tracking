@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "refunds": {
-      "totalLinesAdded": 2311,
+      "totalLinesAdded": 2312,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 14,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -147,6 +147,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-03T10:11:39.942Z",
+            "fileName": "/Users/i/Projects/refunds/merchants.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "refunds",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "txt"
           }
         ]
