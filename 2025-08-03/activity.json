@@ -556,7 +556,7 @@
       "averageChangeSize": 42.5
     },
     "fish": {
-      "totalLinesAdded": 385,
+      "totalLinesAdded": 439,
       "totalLinesRemoved": 14,
       "totalActiveTime": 18,
       "files": {
@@ -797,6 +797,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-03T20:39:13.966Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "fish"
           }
         ],
