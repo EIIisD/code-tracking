@@ -782,7 +782,7 @@
       "averageChangeSize": 87
     },
     ".claude": {
-      "totalLinesAdded": 2586,
+      "totalLinesAdded": 2684,
       "totalLinesRemoved": 0,
       "totalActiveTime": 7,
       "files": {
@@ -820,6 +820,20 @@
             "fileName": "/Users/i/.claude/settings.json",
             "fileType": ".json",
             "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-03T17:56:45.269Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 98,
             "linesRemoved": 0,
             "projectName": ".claude",
             "content": {
