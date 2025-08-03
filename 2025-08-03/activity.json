@@ -712,9 +712,9 @@
       "averageChangeSize": 87
     },
     ".claude": {
-      "totalLinesAdded": 87,
+      "totalLinesAdded": 2571,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -744,6 +744,68 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-03T17:19:30.192Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-08-03T17:20:00.735Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 2463,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.claude/scripts/start.sh": [
+          {
+            "timestamp": "2025-08-03T17:20:41.410Z",
+            "fileName": "/Users/i/.claude/scripts/start.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "/Users/i/.claude/scripts/PreToolUse.sh": [
+          {
+            "timestamp": "2025-08-03T17:21:00.131Z",
+            "fileName": "/Users/i/.claude/scripts/PreToolUse.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ]
       },
