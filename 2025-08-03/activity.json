@@ -509,9 +509,9 @@
       "averageChangeSize": 10
     },
     "tts": {
-      "totalLinesAdded": 174,
+      "totalLinesAdded": 181,
       "totalLinesRemoved": 62,
-      "totalActiveTime": 7,
+      "totalActiveTime": 12,
       "files": {
         "/Users/i/Projects/tts/tts_tools/openai_tts.py": [
           {
@@ -584,6 +584,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-03T16:28:30.966Z",
+            "fileName": "/Users/i/Projects/tts/tts_tools/elevenlabs_tts.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "tts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ]
