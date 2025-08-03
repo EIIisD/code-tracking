@@ -327,8 +327,8 @@
     },
     "fish": {
       "totalLinesAdded": 234,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 10,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 11,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -421,6 +421,34 @@
             "fileType": ".fish",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-03T16:36:45.048Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-03T16:36:47.409Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "fish",
             "content": {
               "added": [],
