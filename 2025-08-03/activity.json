@@ -514,9 +514,9 @@
       "averageChangeSize": 42.5
     },
     "fish": {
-      "totalLinesAdded": 352,
+      "totalLinesAdded": 380,
       "totalLinesRemoved": 14,
-      "totalActiveTime": 12,
+      "totalActiveTime": 13,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -700,6 +700,20 @@
             },
             "duration": 0,
             "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-03T19:43:00.588Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
           }
         ],
         "/Users/i/.config/fish/conf.d/ai_aliases.fish": [
@@ -732,6 +746,22 @@
             },
             "duration": 0,
             "language": "fish"
+          }
+        ],
+        "/Users/i/.config/crush/crush.json": [
+          {
+            "timestamp": "2025-08-03T19:43:35.241Z",
+            "fileName": "/Users/i/.config/crush/crush.json",
+            "fileType": ".json",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
