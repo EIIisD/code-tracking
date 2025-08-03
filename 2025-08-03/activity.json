@@ -179,9 +179,9 @@
       "averageChangeSize": 231.1
     },
     "macrowhisper": {
-      "totalLinesAdded": 609,
+      "totalLinesAdded": 733,
       "totalLinesRemoved": 75,
-      "totalActiveTime": 25,
+      "totalActiveTime": 27,
       "files": {
         "/Users/i/.config/macrowhisper/macrowhisper.json": [
           {
@@ -455,6 +455,50 @@
             },
             "duration": 1,
             "language": "yaml"
+          }
+        ],
+        "/Users/i/.gitignore_global": [
+          {
+            "timestamp": "2025-08-03T19:41:26.691Z",
+            "fileName": "/Users/i/.gitignore_global",
+            "fileType": "unknown",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-03T19:41:30.373Z",
+            "fileName": "/Users/i/.gitignore_global",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-03T19:41:35.851Z",
+            "fileName": "/Users/i/.gitignore_global",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
