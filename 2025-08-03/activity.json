@@ -179,9 +179,9 @@
       "averageChangeSize": 231.1
     },
     "macrowhisper": {
-      "totalLinesAdded": 537,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 548,
+      "totalLinesRemoved": 73,
+      "totalActiveTime": 19,
       "files": {
         "/Users/i/.config/macrowhisper/macrowhisper.json": [
           {
@@ -382,6 +382,48 @@
               "removed": []
             },
             "duration": 2,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-03T19:14:24.628Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.template.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-03T19:14:42.014Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.template.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-03T19:15:30.631Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.template.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "yaml"
           }
         ]
