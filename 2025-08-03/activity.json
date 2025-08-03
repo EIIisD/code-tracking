@@ -712,9 +712,9 @@
       "averageChangeSize": 87
     },
     ".claude": {
-      "totalLinesAdded": 2571,
+      "totalLinesAdded": 2586,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 7,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -796,6 +796,54 @@
           {
             "timestamp": "2025-08-03T17:21:00.131Z",
             "fileName": "/Users/i/.claude/scripts/PreToolUse.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "/Users/i/.claude/scripts/stop.sh": [
+          {
+            "timestamp": "2025-08-03T17:21:12.739Z",
+            "fileName": "/Users/i/.claude/scripts/stop.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "/Users/i/.claude/scripts/SubagentStop.sh": [
+          {
+            "timestamp": "2025-08-03T17:21:30.324Z",
+            "fileName": "/Users/i/.claude/scripts/SubagentStop.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "/Users/i/.claude/scripts/Notification.sh": [
+          {
+            "timestamp": "2025-08-03T17:21:42.632Z",
+            "fileName": "/Users/i/.claude/scripts/Notification.sh",
             "fileType": ".sh",
             "linesAdded": 5,
             "linesRemoved": 0,
