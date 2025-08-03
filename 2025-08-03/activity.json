@@ -710,6 +710,53 @@
         "/Users/i/Projects/tts/tts_tools/openai_tts.py"
       ],
       "averageChangeSize": 87
+    },
+    ".claude": {
+      "totalLinesAdded": 87,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.claude/settings.json": [
+          {
+            "timestamp": "2025-08-03T17:09:24.969Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-03T17:09:25.659Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "/Users/i/.claude/settings.json"
+      ],
+      "averageChangeSize": 43.5
     }
   },
   "totalActiveTime": 9,
