@@ -479,6 +479,39 @@
         "/Users/i/Projects/11-tts/src/constants.ts"
       ],
       "averageChangeSize": 10
+    },
+    "tts": {
+      "totalLinesAdded": 87,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/tts/tts_tools/openai_tts.py": [
+          {
+            "timestamp": "2025-08-03T16:10:29.216Z",
+            "fileName": "/Users/i/Projects/tts/tts_tools/openai_tts.py",
+            "fileType": ".py",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "tts",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/tts/tts_tools/openai_tts.py"
+      ],
+      "averageChangeSize": 87
     }
   },
   "totalActiveTime": 9,
