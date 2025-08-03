@@ -179,9 +179,9 @@
       "averageChangeSize": 231.1
     },
     "macrowhisper": {
-      "totalLinesAdded": 548,
-      "totalLinesRemoved": 73,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 609,
+      "totalLinesRemoved": 75,
+      "totalActiveTime": 25,
       "files": {
         "/Users/i/.config/macrowhisper/macrowhisper.json": [
           {
@@ -418,6 +418,36 @@
             "fileType": ".yaml",
             "linesAdded": 0,
             "linesRemoved": 51,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "/Users/i/.config/raycast/ai/providers.yaml": [
+          {
+            "timestamp": "2025-08-03T19:20:11.090Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-03T19:20:11.491Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "macrowhisper",
             "content": {
               "added": [],
