@@ -179,7 +179,7 @@
       "averageChangeSize": 231.1
     },
     "macrowhisper": {
-      "totalLinesAdded": 108,
+      "totalLinesAdded": 405,
       "totalLinesRemoved": 8,
       "totalActiveTime": 4,
       "files": {
@@ -252,6 +252,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Downloads/macrowhisper.json": [
+          {
+            "timestamp": "2025-08-03T15:15:16.195Z",
+            "fileName": "/Users/i/Downloads/macrowhisper.json",
+            "fileType": ".json",
+            "linesAdded": 297,
+            "linesRemoved": 0,
+            "projectName": "macrowhisper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
