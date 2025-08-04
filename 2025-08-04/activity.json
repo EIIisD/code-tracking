@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "tw-server": {
-      "totalLinesAdded": 1644,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 1658,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 32,
       "files": {
         "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx": [
           {
@@ -252,6 +252,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-04T07:49:56.608Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/i/Library/Application Support/Cursor/User/keybindings.json": [
@@ -366,6 +380,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/types.ts": [
+          {
+            "timestamp": "2025-08-04T07:49:35.998Z",
+            "fileName": "/Users/i/Projects/tw-server/src/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-04T07:49:38.501Z",
+            "fileName": "/Users/i/Projects/tw-server/src/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
