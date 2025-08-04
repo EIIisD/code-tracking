@@ -1,0 +1,146 @@
+{
+  "date": "2025-08-04",
+  "projects": {
+    "tw-server": {
+      "totalLinesAdded": 667,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx": [
+          {
+            "timestamp": "2025-08-04T05:03:14.552Z",
+            "fileName": "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-08-04T05:03:17.476Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 537,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/utils.ts": [
+          {
+            "timestamp": "2025-08-04T05:03:43.184Z",
+            "fileName": "/Users/i/Projects/tw-server/src/utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-04T05:03:56.527Z",
+            "fileName": "/Users/i/Projects/tw-server/src/utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/tailwind.css": [
+          {
+            "timestamp": "2025-08-04T05:04:28.942Z",
+            "fileName": "/Users/i/Projects/tw-server/src/tailwind.css",
+            "fileType": ".css",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-04T05:05:07.880Z",
+            "fileName": "/Users/i/Projects/tw-server/src/tailwind.css",
+            "fileType": ".css",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-04T05:06:30.133Z",
+            "fileName": "/Users/i/Projects/tw-server/src/tailwind.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0,
+        "json": 1,
+        "ts": 2,
+        "css": 4
+      },
+      "changeFrequency": {
+        "6": 7
+      },
+      "topFiles": [
+        "/Users/i/Projects/tw-server/src/tailwind.css",
+        "/Users/i/Projects/tw-server/src/utils.ts",
+        "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx",
+        "/Users/i/Library/Application Support/Cursor/User/settings.json"
+      ],
+      "averageChangeSize": 96.14285714285714
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    6
+  ],
+  "mostUsedLanguages": [
+    "css",
+    "ts",
+    "json",
+    "tsx"
+  ]
+}
