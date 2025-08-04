@@ -555,6 +555,39 @@
         "/Users/i/Library/Application Support/Cursor/User/settings.json"
       ],
       "averageChangeSize": 96.14285714285714
+    },
+    "HDR": {
+      "totalLinesAdded": 537,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-08-04T09:04:55.867Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 537,
+            "linesRemoved": 0,
+            "projectName": "HDR",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/Users/i/Library/Application Support/Cursor/User/settings.json"
+      ],
+      "averageChangeSize": 537
     }
   },
   "totalActiveTime": 7,
