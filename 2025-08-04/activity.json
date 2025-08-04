@@ -571,9 +571,9 @@
       "averageChangeSize": 96.14285714285714
     },
     "HDR": {
-      "totalLinesAdded": 537,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 19270,
+      "totalLinesRemoved": 18683,
+      "totalActiveTime": 1,
       "files": {
         "/Users/i/Library/Application Support/Cursor/User/settings.json": [
           {
@@ -589,6 +589,36 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/HDR/heic_files.txt": [
+          {
+            "timestamp": "2025-08-04T12:37:02.790Z",
+            "fileName": "/Users/i/Projects/HDR/heic_files.txt",
+            "fileType": ".txt",
+            "linesAdded": 18733,
+            "linesRemoved": 0,
+            "projectName": "HDR",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-04T12:37:54.193Z",
+            "fileName": "/Users/i/Projects/HDR/heic_files.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 18683,
+            "projectName": "HDR",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
