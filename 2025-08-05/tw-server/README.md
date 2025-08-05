@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 364                                          |
-| **Lines Removed** (➖) | 155                                        |
-| **Net Change** (↕)    | 209                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Lines Added** (➕)   | 372                                          |
+| **Lines Removed** (➖) | 168                                        |
+| **Net Change** (↕)    | 204                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **settings.json** (+1, -0)
 - **__root.tsx** (+52, -1)
 - **tailwind.css** (+92, -92)
-- **keybindings.json** (+10, -0)
+- **keybindings.json** (+18, -13)
 
 ## Visualizations
 
@@ -29,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 284
-".json" : 51
+".json" : 72
 ".css" : 184
 ```
 
@@ -39,8 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 12
-"17h" : 13
+"17h" : 18
 ```
 
 
-> **Last Updated:** 05/08/2025, 17:24:25
+> **Last Updated:** 05/08/2025, 17:29:25
