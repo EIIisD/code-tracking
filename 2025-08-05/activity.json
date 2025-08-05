@@ -1,0 +1,64 @@
+{
+  "date": "2025-08-05",
+  "projects": {
+    "tw-server": {
+      "totalLinesAdded": 55,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/i/Projects/tw-server/src/App.tsx": [
+          {
+            "timestamp": "2025-08-05T15:16:23.359Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx": [
+          {
+            "timestamp": "2025-08-05T15:18:02.798Z",
+            "fileName": "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "16": 2
+      },
+      "topFiles": [
+        "/Users/i/Projects/tw-server/src/App.tsx",
+        "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx"
+      ],
+      "averageChangeSize": 28.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
