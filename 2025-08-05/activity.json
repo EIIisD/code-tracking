@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "tw-server": {
-      "totalLinesAdded": 354,
+      "totalLinesAdded": 364,
       "totalLinesRemoved": 155,
-      "totalActiveTime": 28,
+      "totalActiveTime": 34,
       "files": {
         "/Users/i/Projects/tw-server/src/App.tsx": [
           {
@@ -314,6 +314,64 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json": [
+          {
+            "timestamp": "2025-08-05T16:19:50.469Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-05T16:20:02.780Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-05T16:20:18.672Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-05T16:20:27.147Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
