@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "tw-server": {
-      "totalLinesAdded": 445,
+      "totalLinesAdded": 446,
       "totalLinesRemoved": 168,
-      "totalActiveTime": 45,
+      "totalActiveTime": 47,
       "files": {
         "/Users/i/Projects/tw-server/src/App.tsx": [
           {
@@ -107,6 +107,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-05T16:35:00.744Z",
+            "fileName": "/Users/i/Projects/tw-server/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
