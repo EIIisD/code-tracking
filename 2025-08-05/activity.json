@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "tw-server": {
-      "totalLinesAdded": 446,
-      "totalLinesRemoved": 168,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 824,
+      "totalLinesRemoved": 398,
+      "totalActiveTime": 55,
       "files": {
         "/Users/i/Projects/tw-server/src/App.tsx": [
           {
@@ -484,6 +484,122 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/assets/svg-tests/template-oss.svg": [
+          {
+            "timestamp": "2025-08-05T22:05:27.716Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-oss.svg",
+            "fileType": ".svg",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T22:05:28.374Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-oss.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 62,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T22:05:51.316Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-oss.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 74,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T22:06:26.154Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-oss.svg",
+            "fileType": ".svg",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg": [
+          {
+            "timestamp": "2025-08-05T22:05:55.937Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T22:05:56.934Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 62,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T22:07:53.911Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T22:08:23.331Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
           }
         ]
       },
