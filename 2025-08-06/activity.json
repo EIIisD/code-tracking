@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "tw-server": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 70,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg": [
           {
@@ -27,6 +27,48 @@
             "fileType": ".svg",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T23:05:18.122Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T23:06:02.265Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T23:06:05.006Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 8,
+            "linesRemoved": 0,
             "projectName": "tw-server",
             "content": {
               "added": [],
