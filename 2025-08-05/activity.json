@@ -3,8 +3,8 @@
   "projects": {
     "tw-server": {
       "totalLinesAdded": 1039,
-      "totalLinesRemoved": 628,
-      "totalActiveTime": 80,
+      "totalLinesRemoved": 631,
+      "totalActiveTime": 83,
       "files": {
         "/Users/i/Projects/tw-server/src/App.tsx": [
           {
@@ -873,6 +873,20 @@
             "fileType": ".svg",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-08-05T22:31:28.720Z",
+            "fileName": "/Users/i/Projects/tw-server/src/assets/svg-tests/template-horizon.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "tw-server",
             "content": {
               "added": [],
