@@ -498,6 +498,39 @@
         "/Users/i/Projects/tw-server/src/_ui/IsometricGrid/IsometricGrid.tsx"
       ],
       "averageChangeSize": 28.5
+    },
+    ".claude": {
+      "totalLinesAdded": 98,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.claude/settings.json": [
+          {
+            "timestamp": "2025-08-05T16:38:18.693Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/i/.claude/settings.json"
+      ],
+      "averageChangeSize": 98
     }
   },
   "totalActiveTime": 2,
