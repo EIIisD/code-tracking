@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "tw-server": {
-      "totalLinesAdded": 55,
+      "totalLinesAdded": 164,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 2,
+      "totalActiveTime": 11,
       "files": {
         "/Users/i/Projects/tw-server/src/App.tsx": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-05T15:23:57.872Z",
+            "fileName": "/Users/i/Projects/tw-server/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -35,6 +49,52 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/tw-server/package.json": [
+          {
+            "timestamp": "2025-08-05T15:22:46.002Z",
+            "fileName": "/Users/i/Projects/tw-server/package.json",
+            "fileType": ".json",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-05T15:22:47.818Z",
+            "fileName": "/Users/i/Projects/tw-server/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tw-server/src/main.tsx": [
+          {
+            "timestamp": "2025-08-05T15:23:58.870Z",
+            "fileName": "/Users/i/Projects/tw-server/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "tw-server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
