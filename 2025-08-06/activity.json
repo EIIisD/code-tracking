@@ -713,9 +713,9 @@
       "averageChangeSize": 35
     },
     "remakes": {
-      "totalLinesAdded": 1149,
-      "totalLinesRemoved": 100,
-      "totalActiveTime": 56,
+      "totalLinesAdded": 1183,
+      "totalLinesRemoved": 115,
+      "totalActiveTime": 68,
       "files": {
         "/Users/i/Projects/remakes/package.json": [
           {
@@ -907,6 +907,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:19:04.376Z",
+            "fileName": "/Users/i/Projects/remakes/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/i/Projects/remakes/tsconfig.json": [
@@ -993,6 +1007,34 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-06T19:17:56.598Z",
+            "fileName": "/Users/i/Projects/remakes/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-06T19:18:24.966Z",
+            "fileName": "/Users/i/Projects/remakes/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/i/Projects/remakes/tsconfig.node.json": [
@@ -1072,6 +1114,34 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-06T19:18:03.139Z",
+            "fileName": "/Users/i/Projects/remakes/tsconfig.node.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-06T19:18:18.432Z",
+            "fileName": "/Users/i/Projects/remakes/tsconfig.node.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "remakes",
             "content": {
               "added": [],
@@ -1171,6 +1241,20 @@
             "fileName": "/Users/i/Projects/remakes/tsconfig.app.json",
             "fileType": ".json",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-06T19:18:02.491Z",
+            "fileName": "/Users/i/Projects/remakes/tsconfig.app.json",
+            "fileType": ".json",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "remakes",
             "content": {
@@ -1421,6 +1505,50 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T19:14:23.189Z",
+            "fileName": "/Users/i/Projects/remakes/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/remakes/src/routes/index.tsx": [
+          {
+            "timestamp": "2025-08-06T19:15:34.933Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:15:36.534Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
