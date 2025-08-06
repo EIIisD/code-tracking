@@ -1892,7 +1892,7 @@
       "averageChangeSize": 154.5
     },
     "fish": {
-      "totalLinesAdded": 280,
+      "totalLinesAdded": 284,
       "totalLinesRemoved": 85,
       "totalActiveTime": 36,
       "files": {
@@ -2278,6 +2278,22 @@
             },
             "duration": 1,
             "language": "fish"
+          }
+        ],
+        "/Users/i/.bashrc": [
+          {
+            "timestamp": "2025-08-06T22:49:11.588Z",
+            "fileName": "/Users/i/.bashrc",
+            "fileType": "unknown",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
