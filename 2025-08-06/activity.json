@@ -1850,9 +1850,9 @@
       "averageChangeSize": 154.5
     },
     "fish": {
-      "totalLinesAdded": 119,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 200,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 17,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -1959,6 +1959,122 @@
             "fileType": ".fish",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-06T20:40:09.575Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-06T20:42:15.229Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-06T20:42:25.483Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/b.fish": [
+          {
+            "timestamp": "2025-08-06T20:38:54.941Z",
+            "fileName": "/Users/i/.config/fish/functions/b.fish",
+            "fileType": ".fish",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-06T20:39:18.446Z",
+            "fileName": "/Users/i/.config/fish/functions/b.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/conf.d/env.fish": [
+          {
+            "timestamp": "2025-08-06T20:41:54.355Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-06T20:41:55.543Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-06T20:42:07.748Z",
+            "fileName": "/Users/i/.config/fish/conf.d/env.fish",
+            "fileType": ".fish",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "fish",
             "content": {
               "added": [],
