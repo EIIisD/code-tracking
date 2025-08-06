@@ -678,6 +678,39 @@
         "/Users/i/.claude/settings.json"
       ],
       "averageChangeSize": 125
+    },
+    "typescript": {
+      "totalLinesAdded": 35,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Downloads/catalyst-ui-kit 2/demo/typescript/package.json": [
+          {
+            "timestamp": "2025-08-06T18:46:59.386Z",
+            "fileName": "/Users/i/Downloads/catalyst-ui-kit 2/demo/typescript/package.json",
+            "fileType": ".json",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "/Users/i/Downloads/catalyst-ui-kit 2/demo/typescript/package.json"
+      ],
+      "averageChangeSize": 35
     }
   },
   "totalActiveTime": 1,
