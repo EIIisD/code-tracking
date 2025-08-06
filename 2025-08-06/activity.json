@@ -1764,6 +1764,90 @@
         "/Users/i/Projects/remakes/package.json"
       ],
       "averageChangeSize": 40
+    },
+    "tanstack-router-quickstart": {
+      "totalLinesAdded": 618,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/i/Projects/tanstack-router-quickstart/package.json": [
+          {
+            "timestamp": "2025-08-06T20:08:53.546Z",
+            "fileName": "/Users/i/Projects/tanstack-router-quickstart/package.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "tanstack-router-quickstart",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-08-06T20:09:26.891Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 538,
+            "linesRemoved": 0,
+            "projectName": "tanstack-router-quickstart",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tanstack-router-quickstart/biome.json": [
+          {
+            "timestamp": "2025-08-06T20:09:38.717Z",
+            "fileName": "/Users/i/Projects/tanstack-router-quickstart/biome.json",
+            "fileType": ".json",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "tanstack-router-quickstart",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/tanstack-router-quickstart/tsconfig.json": [
+          {
+            "timestamp": "2025-08-06T20:09:38.725Z",
+            "fileName": "/Users/i/Projects/tanstack-router-quickstart/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "tanstack-router-quickstart",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "21": 3
+      },
+      "topFiles": [
+        "/Users/i/Projects/tanstack-router-quickstart/package.json",
+        "/Users/i/Library/Application Support/Cursor/User/settings.json",
+        "/Users/i/Projects/tanstack-router-quickstart/biome.json",
+        "/Users/i/Projects/tanstack-router-quickstart/tsconfig.json"
+      ],
+      "averageChangeSize": 154.5
     }
   },
   "totalActiveTime": 1,
