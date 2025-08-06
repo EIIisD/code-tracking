@@ -713,9 +713,9 @@
       "averageChangeSize": 35
     },
     "remakes": {
-      "totalLinesAdded": 1183,
-      "totalLinesRemoved": 115,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 1344,
+      "totalLinesRemoved": 152,
+      "totalActiveTime": 81,
       "files": {
         "/Users/i/Projects/remakes/package.json": [
           {
@@ -914,6 +914,34 @@
             "fileType": ".tsx",
             "linesAdded": 10,
             "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:22:15.074Z",
+            "fileName": "/Users/i/Projects/remakes/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:22:15.727Z",
+            "fileName": "/Users/i/Projects/remakes/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
             "projectName": "remakes",
             "content": {
               "added": [],
@@ -1542,6 +1570,180 @@
             "fileType": ".tsx",
             "linesAdded": 13,
             "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/remakes/src/routes/about.tsx": [
+          {
+            "timestamp": "2025-08-06T19:21:24.576Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/about.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:21:24.883Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/about.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/remakes/src/routeTree.gen.ts": [
+          {
+            "timestamp": "2025-08-06T19:21:56.103Z",
+            "fileName": "/Users/i/Projects/remakes/src/routeTree.gen.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T19:21:56.411Z",
+            "fileName": "/Users/i/Projects/remakes/src/routeTree.gen.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/remakes/src/routes/__route.tsx": [
+          {
+            "timestamp": "2025-08-06T19:23:12.268Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:23:12.936Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:23:16.141Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:23:17.974Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:23:38.854Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:23:39.667Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:23:45.012Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "remakes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:23:46.682Z",
+            "fileName": "/Users/i/Projects/remakes/src/routes/__route.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "remakes",
             "content": {
               "added": [],
