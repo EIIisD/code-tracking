@@ -386,7 +386,7 @@
     },
     "ribbon": {
       "totalLinesAdded": 5979,
-      "totalLinesRemoved": 548,
+      "totalLinesRemoved": 551,
       "totalActiveTime": 196,
       "files": {
         "/Users/i/Projects/ribbon/.cursorrules": [
@@ -1542,6 +1542,20 @@
             "fileType": ".css",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-07T18:45:44.251Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "ribbon",
             "content": {
               "added": [],
