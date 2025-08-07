@@ -271,9 +271,9 @@
       "averageChangeSize": 1402.5
     },
     "ribbon": {
-      "totalLinesAdded": 1089,
-      "totalLinesRemoved": 50,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 1090,
+      "totalLinesRemoved": 54,
+      "totalActiveTime": 29,
       "files": {
         "/Users/i/Projects/ribbon/.cursorrules": [
           {
@@ -534,6 +534,48 @@
             "fileType": ".json",
             "linesAdded": 36,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T12:25:22.634Z",
+            "fileName": "/Users/i/Projects/ribbon/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T12:25:47.968Z",
+            "fileName": "/Users/i/Projects/ribbon/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T12:25:51.239Z",
+            "fileName": "/Users/i/Projects/ribbon/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "ribbon",
             "content": {
               "added": [],
