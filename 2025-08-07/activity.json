@@ -369,9 +369,9 @@
       "averageChangeSize": 105.5
     },
     "heroui": {
-      "totalLinesAdded": 108,
+      "totalLinesAdded": 112,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 6,
+      "totalActiveTime": 11,
       "files": {
         "/Users/i/Projects/heroui/package.json": [
           {
@@ -390,6 +390,48 @@
           },
           {
             "timestamp": "2025-08-07T10:21:44.325Z",
+            "fileName": "/Users/i/Projects/heroui/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T10:24:59.360Z",
+            "fileName": "/Users/i/Projects/heroui/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T10:25:01.788Z",
+            "fileName": "/Users/i/Projects/heroui/package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T10:26:35.635Z",
             "fileName": "/Users/i/Projects/heroui/package.json",
             "fileType": ".json",
             "linesAdded": 1,
