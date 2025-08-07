@@ -255,6 +255,88 @@
         "/Users/i/.claude/settings.json"
       ],
       "averageChangeSize": 1402.5
+    },
+    "ribbon": {
+      "totalLinesAdded": 422,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/i/Projects/ribbon/.cursorrules": [
+          {
+            "timestamp": "2025-08-07T10:04:26.327Z",
+            "fileName": "/Users/i/Projects/ribbon/.cursorrules",
+            "fileType": "unknown",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/Projects/ribbon/package.json": [
+          {
+            "timestamp": "2025-08-07T10:04:26.324Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 272,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.gitignore_global": [
+          {
+            "timestamp": "2025-08-07T10:07:57.034Z",
+            "fileName": "/Users/i/.gitignore_global",
+            "fileType": "unknown",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T10:08:00.161Z",
+            "fileName": "/Users/i/.gitignore_global",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 5,
+        "json": 0
+      },
+      "changeFrequency": {
+        "11": 5
+      },
+      "topFiles": [
+        "/Users/i/.gitignore_global",
+        "/Users/i/Projects/ribbon/.cursorrules",
+        "/Users/i/Projects/ribbon/package.json"
+      ],
+      "averageChangeSize": 105.5
     }
   },
   "totalActiveTime": 1,
