@@ -385,9 +385,9 @@
       "averageChangeSize": 1402.5
     },
     "ribbon": {
-      "totalLinesAdded": 5277,
+      "totalLinesAdded": 5286,
       "totalLinesRemoved": 282,
-      "totalActiveTime": 77,
+      "totalActiveTime": 83,
       "files": {
         "/Users/i/Projects/ribbon/.cursorrules": [
           {
@@ -1251,6 +1251,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-07T15:41:39.556Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/BackDrop.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-07T15:42:08.721Z",
+            "fileName": "/Users/i/Projects/ribbon/src/components/BackDrop.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/i/Library/Application Support/Cursor/User/settings.json": [
@@ -1482,6 +1510,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-07T15:46:06.232Z",
+            "fileName": "/Users/i/Projects/ribbon/src/app/(main-app)/sandbox/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
