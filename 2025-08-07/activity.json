@@ -50,8 +50,8 @@
     },
     ".claude": {
       "totalLinesAdded": 2871,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 13,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 15,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -134,6 +134,20 @@
             "fileType": ".py",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-07T00:05:14.556Z",
+            "fileName": "/Users/i/.claude/hooks/UserPromptSubmit.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": ".claude",
             "content": {
               "added": [],
