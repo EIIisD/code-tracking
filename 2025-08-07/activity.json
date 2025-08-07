@@ -385,7 +385,7 @@
       "averageChangeSize": 1402.5
     },
     "ribbon": {
-      "totalLinesAdded": 4058,
+      "totalLinesAdded": 4068,
       "totalLinesRemoved": 85,
       "totalActiveTime": 40,
       "files": {
@@ -898,6 +898,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T14:58:36.454Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
