@@ -2,7 +2,7 @@
   "date": "2025-08-07",
   "projects": {
     "fish": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 83,
       "totalLinesRemoved": 2,
       "totalActiveTime": 1,
       "files": {
@@ -40,6 +40,20 @@
             "fileName": "/Users/i/.config/fish/config.fish",
             "fileType": ".fish",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          },
+          {
+            "timestamp": "2025-08-07T10:25:34.673Z",
+            "fileName": "/Users/i/.config/fish/config.fish",
+            "fileType": ".fish",
+            "linesAdded": 79,
             "linesRemoved": 0,
             "projectName": "fish",
             "content": {
