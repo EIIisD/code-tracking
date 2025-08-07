@@ -369,7 +369,7 @@
       "averageChangeSize": 105.5
     },
     "heroui": {
-      "totalLinesAdded": 112,
+      "totalLinesAdded": 113,
       "totalLinesRemoved": 4,
       "totalActiveTime": 11,
       "files": {
@@ -458,6 +458,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-07T10:33:40.335Z",
+            "fileName": "/Users/i/Projects/heroui/components/counter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
