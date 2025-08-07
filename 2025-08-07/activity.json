@@ -271,9 +271,9 @@
       "averageChangeSize": 1402.5
     },
     "ribbon": {
-      "totalLinesAdded": 993,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 1089,
+      "totalLinesRemoved": 50,
+      "totalActiveTime": 24,
       "files": {
         "/Users/i/Projects/ribbon/.cursorrules": [
           {
@@ -361,6 +361,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T12:23:01.514Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ],
         "/Users/i/.gitignore_global": [
@@ -390,6 +404,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T12:19:34.493Z",
+            "fileName": "/Users/i/.gitignore_global",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "unknown"
           }
         ],
@@ -485,6 +513,34 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T12:19:48.429Z",
+            "fileName": "/Users/i/Projects/ribbon/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T12:20:23.098Z",
+            "fileName": "/Users/i/Projects/ribbon/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/i/Projects/ribbon/.editorconfig": [
@@ -529,6 +585,22 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/i/Projects/ribbon/scripts/repairTextBlocks.ts": [
+          {
+            "timestamp": "2025-08-07T12:20:03.674Z",
+            "fileName": "/Users/i/Projects/ribbon/scripts/repairTextBlocks.ts",
+            "fileType": ".ts",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
