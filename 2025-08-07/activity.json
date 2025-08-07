@@ -271,9 +271,9 @@
       "averageChangeSize": 1402.5
     },
     "ribbon": {
-      "totalLinesAdded": 948,
+      "totalLinesAdded": 993,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalActiveTime": 16,
       "files": {
         "/Users/i/Projects/ribbon/.cursorrules": [
           {
@@ -288,6 +288,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T11:04:28.995Z",
+            "fileName": "/Users/i/Projects/ribbon/.cursorrules",
+            "fileType": "unknown",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T11:04:40.966Z",
+            "fileName": "/Users/i/Projects/ribbon/.cursorrules",
+            "fileType": "unknown",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "unknown"
           }
         ],
@@ -443,6 +471,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/ribbon/.editorconfig": [
+          {
+            "timestamp": "2025-08-07T11:04:15.404Z",
+            "fileName": "/Users/i/Projects/ribbon/.editorconfig",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T11:04:15.589Z",
+            "fileName": "/Users/i/Projects/ribbon/.editorconfig",
+            "fileType": "unknown",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T11:04:40.868Z",
+            "fileName": "/Users/i/Projects/ribbon/.editorconfig",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
