@@ -49,9 +49,9 @@
       "averageChangeSize": 2.5
     },
     ".claude": {
-      "totalLinesAdded": 2840,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 2871,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 13,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -141,6 +141,78 @@
             },
             "duration": 2,
             "language": "py"
+          }
+        ],
+        "/Users/i/.claude/hooks/UserPromptSubmit.sh": [
+          {
+            "timestamp": "2025-08-07T00:00:41.862Z",
+            "fileName": "/Users/i/.claude/hooks/UserPromptSubmit.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-07T00:00:42.317Z",
+            "fileName": "/Users/i/.claude/hooks/UserPromptSubmit.sh",
+            "fileType": ".sh",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-07T00:00:49.448Z",
+            "fileName": "/Users/i/.claude/hooks/UserPromptSubmit.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-07T00:02:20.235Z",
+            "fileName": "/Users/i/.claude/hooks/UserPromptSubmit.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-07T00:03:48.491Z",
+            "fileName": "/Users/i/.claude/hooks/UserPromptSubmit.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
           }
         ]
       },
