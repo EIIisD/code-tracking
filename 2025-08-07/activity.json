@@ -353,6 +353,103 @@
         "/Users/i/Projects/ribbon/package.json"
       ],
       "averageChangeSize": 105.5
+    },
+    "heroui": {
+      "totalLinesAdded": 108,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/i/Projects/heroui/package.json": [
+          {
+            "timestamp": "2025-08-07T10:20:33.255Z",
+            "fileName": "/Users/i/Projects/heroui/package.json",
+            "fileType": ".json",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-07T10:21:44.325Z",
+            "fileName": "/Users/i/Projects/heroui/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/heroui/components/counter.tsx": [
+          {
+            "timestamp": "2025-08-07T10:22:22.992Z",
+            "fileName": "/Users/i/Projects/heroui/components/counter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/heroui/.eslintrc.js": [
+          {
+            "timestamp": "2025-08-07T10:23:40.029Z",
+            "fileName": "/Users/i/Projects/heroui/.eslintrc.js",
+            "fileType": ".js",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-07T10:23:49.163Z",
+            "fileName": "/Users/i/Projects/heroui/.eslintrc.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "heroui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2,
+        "tsx": 1,
+        "js": 3
+      },
+      "changeFrequency": {
+        "11": 6
+      },
+      "topFiles": [
+        "/Users/i/Projects/heroui/package.json",
+        "/Users/i/Projects/heroui/.eslintrc.js",
+        "/Users/i/Projects/heroui/components/counter.tsx"
+      ],
+      "averageChangeSize": 22.4
     }
   },
   "totalActiveTime": 1,
