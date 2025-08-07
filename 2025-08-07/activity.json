@@ -272,7 +272,7 @@
     },
     "ribbon": {
       "totalLinesAdded": 993,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 11,
       "totalActiveTime": 16,
       "files": {
         "/Users/i/Projects/ribbon/.cursorrules": [
@@ -316,6 +316,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T12:17:50.719Z",
+            "fileName": "/Users/i/Projects/ribbon/.cursorrules",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ],
