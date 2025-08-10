@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 343                                          |
+| **Lines Added** (➕)   | 399                                          |
 | **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 334                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Net Change** (↕)    | 390                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
 - **config.fish** (+300, -5)
 - **mcp.fish** (+9, -4)
-- **mcpdog.config.json** (+34, -0)
+- **mcpdog.config.json** (+90, -0)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".fish" : 318
-".json" : 34
+".json" : 90
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +35,8 @@ title Coding activity by hour (count of changes)
 "10h" : 2
 "13h" : 5
 "18h" : 7
-"19h" : 2
+"19h" : 8
 ```
 
 
-> **Last Updated:** 10/08/2025, 19:23:25
+> **Last Updated:** 10/08/2025, 19:28:25

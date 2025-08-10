@@ -2,9 +2,9 @@
   "date": "2025-08-10",
   "projects": {
     "fish": {
-      "totalLinesAdded": 343,
+      "totalLinesAdded": 399,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 19,
+      "totalActiveTime": 25,
       "files": {
         "/Users/i/.config/fish/config.fish": [
           {
@@ -296,6 +296,90 @@
             "fileName": "/Users/i/.mcpdog/mcpdog.config.json",
             "fileType": ".json",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:23:31.775Z",
+            "fileName": "/Users/i/.mcpdog/mcpdog.config.json",
+            "fileType": ".json",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:23:52.022Z",
+            "fileName": "/Users/i/.mcpdog/mcpdog.config.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:24:08.959Z",
+            "fileName": "/Users/i/.mcpdog/mcpdog.config.json",
+            "fileType": ".json",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:24:28.914Z",
+            "fileName": "/Users/i/.mcpdog/mcpdog.config.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:24:47.175Z",
+            "fileName": "/Users/i/.mcpdog/mcpdog.config.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:25:37.947Z",
+            "fileName": "/Users/i/.mcpdog/mcpdog.config.json",
+            "fileType": ".json",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "fish",
             "content": {
