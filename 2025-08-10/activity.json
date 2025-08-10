@@ -940,9 +940,9 @@
       "averageChangeSize": 17.5
     },
     ".claude": {
-      "totalLinesAdded": 3109,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 3113,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 13,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -1035,6 +1035,34 @@
             "fileType": ".json",
             "linesAdded": 10,
             "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:31:22.260Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:31:37.388Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": ".claude",
             "content": {
               "added": [],
