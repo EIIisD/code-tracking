@@ -2,7 +2,7 @@
   "date": "2025-08-11",
   "projects": {
     "transactions-new": {
-      "totalLinesAdded": 429,
+      "totalLinesAdded": 573,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -44,6 +44,22 @@
             "fileName": "/Users/i/Projects/transactions-new/Expenses2_terse.csv",
             "fileType": ".csv",
             "linesAdded": 141,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "/Users/i/Projects/transactions-new/Expenses.csv": [
+          {
+            "timestamp": "2025-08-10T23:36:02.985Z",
+            "fileName": "/Users/i/Projects/transactions-new/Expenses.csv",
+            "fileType": ".csv",
+            "linesAdded": 144,
             "linesRemoved": 0,
             "projectName": "transactions-new",
             "content": {
