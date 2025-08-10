@@ -120,7 +120,7 @@
     },
     ".hammerspoon": {
       "totalLinesAdded": 574,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 9,
       "files": {
         "/Users/i/.hammerspoon/ui-explorer.lua": [
@@ -180,6 +180,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "lua"
+          },
+          {
+            "timestamp": "2025-08-10T09:34:52.383Z",
+            "fileName": "/Users/i/.hammerspoon/init.lua",
+            "fileType": ".lua",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".hammerspoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "lua"
           }
         ],
