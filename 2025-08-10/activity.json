@@ -280,6 +280,115 @@
         "/Users/i/.hammerspoon/ui-explorer.lua"
       ],
       "averageChangeSize": 140
+    },
+    "openai.chatgpt-0.1.1741291060-darwin-arm64": {
+      "totalLinesAdded": 896,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/applications.js": [
+          {
+            "timestamp": "2025-08-10T10:41:17.263Z",
+            "fileName": "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/applications.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "openai.chatgpt-0.1.1741291060-darwin-arm64",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-10T10:41:59.600Z",
+            "fileName": "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/applications.js",
+            "fileType": ".js",
+            "linesAdded": 344,
+            "linesRemoved": 0,
+            "projectName": "openai.chatgpt-0.1.1741291060-darwin-arm64",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/constants.js": [
+          {
+            "timestamp": "2025-08-10T10:41:49.187Z",
+            "fileName": "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/constants.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "openai.chatgpt-0.1.1741291060-darwin-arm64",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-10T10:41:58.050Z",
+            "fileName": "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/constants.js",
+            "fileType": ".js",
+            "linesAdded": 266,
+            "linesRemoved": 0,
+            "projectName": "openai.chatgpt-0.1.1741291060-darwin-arm64",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/register.js": [
+          {
+            "timestamp": "2025-08-10T10:41:52.147Z",
+            "fileName": "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/register.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "openai.chatgpt-0.1.1741291060-darwin-arm64",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-10T10:41:55.555Z",
+            "fileName": "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/register.js",
+            "fileType": ".js",
+            "linesAdded": 283,
+            "linesRemoved": 0,
+            "projectName": "openai.chatgpt-0.1.1741291060-darwin-arm64",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 5
+      },
+      "changeFrequency": {
+        "11": 5
+      },
+      "topFiles": [
+        "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/applications.js",
+        "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/constants.js",
+        "/Users/i/.cursor/extensions/openai.chatgpt-0.1.1741291060-darwin-arm64/out/src/register.js"
+      ],
+      "averageChangeSize": 149.33333333333334
     }
   },
   "totalActiveTime": 4,
