@@ -618,6 +618,112 @@
         "/Users/i/Projects/chatgpt-helper-extension/package.json"
       ],
       "averageChangeSize": 21.5
+    },
+    "transactions-new": {
+      "totalLinesAdded": 86,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/i/Projects/transactions-new/.claude.json": [
+          {
+            "timestamp": "2025-08-10T17:01:46.400Z",
+            "fileName": "/Users/i/Projects/transactions-new/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T17:01:53.542Z",
+            "fileName": "/Users/i/Projects/transactions-new/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T17:01:56.758Z",
+            "fileName": "/Users/i/Projects/transactions-new/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T17:02:18.735Z",
+            "fileName": "/Users/i/Projects/transactions-new/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/transactions-new/.mcp.json": [
+          {
+            "timestamp": "2025-08-10T17:03:16.056Z",
+            "fileName": "/Users/i/Projects/transactions-new/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T17:03:16.558Z",
+            "fileName": "/Users/i/Projects/transactions-new/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 5
+      },
+      "changeFrequency": {
+        "18": 5
+      },
+      "topFiles": [
+        "/Users/i/Projects/transactions-new/.claude.json",
+        "/Users/i/Projects/transactions-new/.mcp.json"
+      ],
+      "averageChangeSize": 17.5
     }
   },
   "totalActiveTime": 4,
