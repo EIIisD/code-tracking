@@ -849,7 +849,7 @@
     },
     "transactions-new": {
       "totalLinesAdded": 86,
-      "totalLinesRemoved": 19,
+      "totalLinesRemoved": 33,
       "totalActiveTime": 5,
       "files": {
         "/Users/i/Projects/transactions-new/.claude.json": [
@@ -937,6 +937,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-10T18:44:19.109Z",
+            "fileName": "/Users/i/Projects/transactions-new/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
