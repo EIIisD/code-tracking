@@ -537,6 +537,56 @@
         "/Users/i/Projects/ribbon/bun.lock"
       ],
       "averageChangeSize": 1443.25
+    },
+    "fish": {
+      "totalLinesAdded": 54,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.config/fish/functions/bun.fish": [
+          {
+            "timestamp": "2025-08-11T13:03:05.159Z",
+            "fileName": "/Users/i/.config/fish/functions/bun.fish",
+            "fileType": ".fish",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "fish"
+          }
+        ],
+        "/Users/i/.config/fish/functions/dev.fish": [
+          {
+            "timestamp": "2025-08-11T13:03:12.047Z",
+            "fileName": "/Users/i/.config/fish/functions/dev.fish",
+            "fileType": ".fish",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "fish",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "fish"
+          }
+        ]
+      },
+      "languageStats": {
+        "fish": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "/Users/i/.config/fish/functions/bun.fish",
+        "/Users/i/.config/fish/functions/dev.fish"
+      ],
+      "averageChangeSize": 27
     }
   },
   "totalActiveTime": 1,
