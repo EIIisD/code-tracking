@@ -2,9 +2,9 @@
   "date": "2025-08-11",
   "projects": {
     "transactions-new": {
-      "totalLinesAdded": 1528,
+      "totalLinesAdded": 1816,
       "totalLinesRemoved": 14,
-      "totalActiveTime": 9,
+      "totalActiveTime": 10,
       "files": {
         "/Users/i/Downloads/Expenses.csv": [
           {
@@ -146,6 +146,38 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/transactions-new/Expenses-compacted1.csv": [
+          {
+            "timestamp": "2025-08-11T12:18:00.009Z",
+            "fileName": "/Users/i/Projects/transactions-new/Expenses-compacted1.csv",
+            "fileType": ".csv",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "/Users/i/Projects/transactions-new/Expenses-compacted2.csv": [
+          {
+            "timestamp": "2025-08-11T12:18:08.322Z",
+            "fileName": "/Users/i/Projects/transactions-new/Expenses-compacted2.csv",
+            "fileType": ".csv",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
           }
         ]
       },

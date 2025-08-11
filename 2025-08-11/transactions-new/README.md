@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1528                                          |
+| **Lines Added** (➕)   | 1816                                          |
 | **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 1514                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Net Change** (↕)    | 1802                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **keybindings.json** (+641, -0)
 - **mcp.json** (+25, -0)
 - **.mcp.json** (+0, -14)
+- **Expenses-compacted1.csv** (+144, -0)
+- **Expenses-compacted2.csv** (+144, -0)
 
 ## Visualizations
 
@@ -27,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".csv" : 573
+".csv" : 861
 ".md" : 289
 ".json" : 680
 ```
@@ -39,7 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 4
 "01h" : 5
+"13h" : 2
 ```
 
 
-> **Last Updated:** 11/08/2025, 01:29:27
+> **Last Updated:** 11/08/2025, 13:18:14
