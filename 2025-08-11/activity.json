@@ -460,9 +460,9 @@
       "averageChangeSize": 28.857142857142858
     },
     "ribbon": {
-      "totalLinesAdded": 7787,
+      "totalLinesAdded": 7789,
       "totalLinesRemoved": 308,
-      "totalActiveTime": 93,
+      "totalActiveTime": 96,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
           {
@@ -1505,6 +1505,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-11T16:17:06.720Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "css"
           }
         ]
