@@ -2,9 +2,9 @@
   "date": "2025-08-11",
   "projects": {
     "transactions-new": {
-      "totalLinesAdded": 862,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 1528,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 9,
       "files": {
         "/Users/i/Downloads/Expenses.csv": [
           {
@@ -84,6 +84,68 @@
             },
             "duration": 0,
             "language": "md"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json": [
+          {
+            "timestamp": "2025-08-11T00:26:35.181Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 641,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.cursor/mcp.json": [
+          {
+            "timestamp": "2025-08-11T00:27:08.557Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-11T00:27:12.750Z",
+            "fileName": "/Users/i/.cursor/mcp.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/transactions-new/.mcp.json": [
+          {
+            "timestamp": "2025-08-11T00:28:32.118Z",
+            "fileName": "/Users/i/Projects/transactions-new/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
