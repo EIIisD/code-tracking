@@ -460,9 +460,9 @@
       "averageChangeSize": 28.857142857142858
     },
     "ribbon": {
-      "totalLinesAdded": 7039,
-      "totalLinesRemoved": 128,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 7491,
+      "totalLinesRemoved": 131,
+      "totalActiveTime": 41,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
           {
@@ -762,6 +762,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T15:18:07.663Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/v1/DropArea.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/v1/DnDStateControllerDemo.tsx": [
@@ -855,6 +869,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T15:18:08.430Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/v1/DnDStateControllerDemo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
             "projectName": "ribbon",
             "content": {
               "added": [],
@@ -1012,6 +1040,52 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/v1/page.tsx": [
+          {
+            "timestamp": "2025-08-11T15:17:30.412Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/v1/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T15:17:36.814Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/v1/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/apps/web/src/app/globals.css": [
+          {
+            "timestamp": "2025-08-11T15:18:09.362Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 405,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
