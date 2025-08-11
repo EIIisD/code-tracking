@@ -474,9 +474,9 @@
       "averageChangeSize": 28.857142857142858
     },
     "ribbon": {
-      "totalLinesAdded": 10005,
-      "totalLinesRemoved": 1490,
-      "totalActiveTime": 314,
+      "totalLinesAdded": 10012,
+      "totalLinesRemoved": 1510,
+      "totalActiveTime": 322,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
           {
@@ -3376,6 +3376,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:24:49.533Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/Finder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:25:37.032Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/Finder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:27:41.292Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/Finder.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/i/Projects/ribbon/node_modules/react-dropzone/typings/react-dropzone.d.ts": [
@@ -3501,6 +3543,76 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:24:49.561Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/projects/EditFeaturedMaterial/MaterialSelector.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:26:35.772Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/projects/EditFeaturedMaterial/MaterialSelector.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:26:49.392Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/projects/EditFeaturedMaterial/MaterialSelector.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:27:08.166Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/projects/EditFeaturedMaterial/MaterialSelector.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T22:27:43.001Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/projects/EditFeaturedMaterial/MaterialSelector.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
             "projectName": "ribbon",
             "content": {
               "added": [],
