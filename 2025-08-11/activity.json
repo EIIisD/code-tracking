@@ -2,7 +2,7 @@
   "date": "2025-08-11",
   "projects": {
     "transactions-new": {
-      "totalLinesAdded": 573,
+      "totalLinesAdded": 862,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -68,6 +68,22 @@
             },
             "duration": 0,
             "language": "csv"
+          }
+        ],
+        "/Users/i/Projects/transactions-new/schema.md": [
+          {
+            "timestamp": "2025-08-11T00:22:51.622Z",
+            "fileName": "/Users/i/Projects/transactions-new/schema.md",
+            "fileType": ".md",
+            "linesAdded": 289,
+            "linesRemoved": 0,
+            "projectName": "transactions-new",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
           }
         ]
       },

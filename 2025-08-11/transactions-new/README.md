@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 573                                          |
+| **Lines Added** (➕)   | 862                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 573                |
+| **Net Change** (↕)    | 862                |
 | **Active Time** (⌚)   | 1 minute |
 
 
@@ -15,6 +15,7 @@
 - **Expenses2.csv** (+144, -0)
 - **Expenses2_terse.csv** (+141, -0)
 - **Expenses.csv** (+144, -0)
+- **schema.md** (+289, -0)
 
 ## Visualizations
 
@@ -24,6 +25,7 @@
 pie showData
 title Lines changed by file type
 ".csv" : 573
+".md" : 289
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 4
+"01h" : 1
 ```
 
 
-> **Last Updated:** 11/08/2025, 00:39:27
+> **Last Updated:** 11/08/2025, 01:24:27
