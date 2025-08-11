@@ -209,6 +209,67 @@
         "/Users/i/.cursor/mcp.json"
       ],
       "averageChangeSize": 4
+    },
+    ".gemini": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/i/.gemini/settings.json": [
+          {
+            "timestamp": "2025-08-11T01:11:53.883Z",
+            "fileName": "/Users/i/.gemini/settings.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": ".gemini",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-11T01:12:02.471Z",
+            "fileName": "/Users/i/.gemini/settings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".gemini",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-11T01:13:53.209Z",
+            "fileName": "/Users/i/.gemini/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".gemini",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "2": 3
+      },
+      "topFiles": [
+        "/Users/i/.gemini/settings.json"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 1,
