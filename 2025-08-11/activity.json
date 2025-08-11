@@ -461,8 +461,8 @@
     },
     "ribbon": {
       "totalLinesAdded": 9483,
-      "totalLinesRemoved": 1169,
-      "totalActiveTime": 284,
+      "totalLinesRemoved": 1225,
+      "totalActiveTime": 286,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
           {
@@ -1649,6 +1649,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T21:49:25.468Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DropArea.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -3043,6 +3057,34 @@
             "fileType": ".tsx",
             "linesAdded": 9,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T21:49:36.045Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DnDStateControllerDemo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T21:49:52.930Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DnDStateControllerDemo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "ribbon",
             "content": {
               "added": [],
