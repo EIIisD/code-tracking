@@ -461,7 +461,7 @@
     },
     "ribbon": {
       "totalLinesAdded": 8809,
-      "totalLinesRemoved": 1084,
+      "totalLinesRemoved": 1085,
       "totalActiveTime": 247,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
@@ -551,6 +551,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-11T20:40:47.975Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
