@@ -460,9 +460,9 @@
       "averageChangeSize": 28.857142857142858
     },
     "ribbon": {
-      "totalLinesAdded": 6298,
-      "totalLinesRemoved": 100,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 6563,
+      "totalLinesRemoved": 103,
+      "totalActiveTime": 16,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
           {
@@ -568,6 +568,156 @@
             },
             "duration": 0,
             "language": "md"
+          }
+        ],
+        "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/page.tsx": [
+          {
+            "timestamp": "2025-08-11T14:24:57.076Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:26:18.624Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DropArea.tsx": [
+          {
+            "timestamp": "2025-08-11T14:27:32.978Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DropArea.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:27:39.686Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DropArea.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DropAreaController.tsx": [
+          {
+            "timestamp": "2025-08-11T14:27:33.012Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DropAreaController.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:27:38.688Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/DropAreaController.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/apps/web/src/app/$v1/page.tsx": [
+          {
+            "timestamp": "2025-08-11T14:28:03.671Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$v1/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:28:04.029Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$v1/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:28:21.296Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$v1/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/i/Projects/ribbon/apps/web/src/app/$v2/page.tsx": [
+          {
+            "timestamp": "2025-08-11T14:29:07.068Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$v2/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
