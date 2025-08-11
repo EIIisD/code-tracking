@@ -272,9 +272,9 @@
       "averageChangeSize": 4
     },
     "universal-credit": {
-      "totalLinesAdded": 138,
+      "totalLinesAdded": 171,
       "totalLinesRemoved": 64,
-      "totalActiveTime": 6,
+      "totalActiveTime": 8,
       "files": {
         "/Users/i/Projects/universal-credit/Apr-May Out.csv": [
           {
@@ -373,6 +373,36 @@
             "fileType": ".csv",
             "linesAdded": 0,
             "linesRemoved": 32,
+            "projectName": "universal-credit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          }
+        ],
+        "/Users/i/Projects/universal-credit/3-Jun-Jul Out.csv": [
+          {
+            "timestamp": "2025-08-11T02:34:08.818Z",
+            "fileName": "/Users/i/Projects/universal-credit/3-Jun-Jul Out.csv",
+            "fileType": ".csv",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "universal-credit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-08-11T02:34:09.286Z",
+            "fileName": "/Users/i/Projects/universal-credit/3-Jun-Jul Out.csv",
+            "fileType": ".csv",
+            "linesAdded": 30,
+            "linesRemoved": 0,
             "projectName": "universal-credit",
             "content": {
               "added": [],
