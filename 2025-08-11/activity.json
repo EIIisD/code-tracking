@@ -458,6 +458,85 @@
         "/Users/i/Projects/universal-credit/Apr-May Out.csv"
       ],
       "averageChangeSize": 28.857142857142858
+    },
+    "ribbon": {
+      "totalLinesAdded": 5673,
+      "totalLinesRemoved": 100,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/i/Projects/ribbon/package.json": [
+          {
+            "timestamp": "2025-08-11T12:33:40.175Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 318,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-11T12:35:21.166Z",
+            "fileName": "/Users/i/Projects/ribbon/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 42,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/ribbon/bun.lock": [
+          {
+            "timestamp": "2025-08-11T12:33:40.194Z",
+            "fileName": "/Users/i/Projects/ribbon/bun.lock",
+            "fileType": ".lock",
+            "linesAdded": 5355,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-08-11T12:35:21.154Z",
+            "fileName": "/Users/i/Projects/ribbon/bun.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 58,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "lock"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2,
+        "lock": 2
+      },
+      "changeFrequency": {
+        "13": 4
+      },
+      "topFiles": [
+        "/Users/i/Projects/ribbon/package.json",
+        "/Users/i/Projects/ribbon/bun.lock"
+      ],
+      "averageChangeSize": 1443.25
     }
   },
   "totalActiveTime": 1,
