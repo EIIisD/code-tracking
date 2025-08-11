@@ -461,8 +461,8 @@
     },
     "ribbon": {
       "totalLinesAdded": 7039,
-      "totalLinesRemoved": 126,
-      "totalActiveTime": 36,
+      "totalLinesRemoved": 128,
+      "totalActiveTime": 37,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
           {
@@ -991,6 +991,20 @@
             "fileType": ".tsx",
             "linesAdded": 39,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:59:19.028Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/v1/CursorGlowButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "ribbon",
             "content": {
               "added": [],
