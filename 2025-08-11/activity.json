@@ -461,8 +461,8 @@
     },
     "ribbon": {
       "totalLinesAdded": 6999,
-      "totalLinesRemoved": 114,
-      "totalActiveTime": 30,
+      "totalLinesRemoved": 126,
+      "totalActiveTime": 35,
       "files": {
         "/Users/i/Projects/ribbon/package.json": [
           {
@@ -748,6 +748,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:40:51.773Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/v1/DropArea.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/v1/DnDStateControllerDemo.tsx": [
@@ -834,6 +848,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:41:07.820Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/v1/DnDStateControllerDemo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/v2/page.tsx": [
@@ -903,6 +931,20 @@
             "fileType": ".tsx",
             "linesAdded": 140,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-11T14:41:59.170Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/prototypes/v2/DropArea.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "ribbon",
             "content": {
               "added": [],
