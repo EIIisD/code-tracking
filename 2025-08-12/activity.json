@@ -2,9 +2,9 @@
   "date": "2025-08-12",
   "projects": {
     "ribbon": {
-      "totalLinesAdded": 10280,
+      "totalLinesAdded": 10298,
       "totalLinesRemoved": 93,
-      "totalActiveTime": 29,
+      "totalActiveTime": 30,
       "files": {
         "/Users/i/Projects/ribbon/apps/web/src/components/Finder/DnDStateControllerDemo.tsx": [
           {
@@ -400,6 +400,22 @@
             "fileName": "/Users/i/.claude.json",
             "fileType": ".json",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/ribbon/.mcp.json": [
+          {
+            "timestamp": "2025-08-12T08:52:03.567Z",
+            "fileName": "/Users/i/Projects/ribbon/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 18,
             "linesRemoved": 0,
             "projectName": "ribbon",
             "content": {
