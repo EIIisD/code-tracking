@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 17181,
-      "totalLinesRemoved": 428,
-      "totalActiveTime": 142,
+      "totalLinesRemoved": 452,
+      "totalActiveTime": 150,
       "files": {
         "/Users/i/Projects/ribbon/apps/web/src/components/Finder/DnDStateControllerDemo.tsx": [
           {
@@ -189,6 +189,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-12T19:30:41.616Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/hooks/useDropAreaState.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
@@ -1617,6 +1631,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-12T19:28:16.710Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
