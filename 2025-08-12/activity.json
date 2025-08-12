@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 18569,
-      "totalLinesRemoved": 1522,
-      "totalActiveTime": 221,
+      "totalLinesRemoved": 1830,
+      "totalActiveTime": 225,
       "files": {
         "/Users/i/Projects/ribbon/apps/web/src/components/Finder/DnDStateControllerDemo.tsx": [
           {
@@ -849,6 +849,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-12T21:26:24.874Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 139,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "css"
           }
         ],
@@ -2107,6 +2121,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-12T21:24:47.778Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/$sandbox/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 169,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
