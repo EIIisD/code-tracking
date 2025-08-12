@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 18355,
-      "totalLinesRemoved": 1238,
-      "totalActiveTime": 204,
+      "totalLinesRemoved": 1240,
+      "totalActiveTime": 205,
       "files": {
         "/Users/i/Projects/ribbon/apps/web/src/components/Finder/DnDStateControllerDemo.tsx": [
           {
@@ -2343,6 +2343,20 @@
             "fileType": ".tsx",
             "linesAdded": 27,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-12T21:03:08.604Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/app/sandbox/v2/MorphingGradient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "ribbon",
             "content": {
               "added": [],
