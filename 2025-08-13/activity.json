@@ -2071,6 +2071,39 @@
         "/Users/i/.raycast/ipad.sh"
       ],
       "averageChangeSize": 1
+    },
+    "research": {
+      "totalLinesAdded": 35,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/research/ipad-mirroring-disconnect.sh": [
+          {
+            "timestamp": "2025-08-13T12:36:11.254Z",
+            "fileName": "/Users/i/Projects/research/ipad-mirroring-disconnect.sh",
+            "fileType": ".sh",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "research",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/research/ipad-mirroring-disconnect.sh"
+      ],
+      "averageChangeSize": 35
     }
   },
   "totalActiveTime": 1,
