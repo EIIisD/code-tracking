@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2319                                          |
+| **Lines Added** (➕)   | 2426                                          |
 | **Lines Removed** (➖) | 534                                        |
-| **Net Change** (↕)    | 1785                |
-| **Active Time** (⌚)   | 170 minutes |
+| **Net Change** (↕)    | 1892                |
+| **Active Time** (⌚)   | 172 minutes |
 
 
 ## Modified Files
@@ -19,9 +19,10 @@
 - **$DropArea.tsx** (+135, -10)
 - **DropArea.tsx** (+335, -177)
 - **settings.json** (+612, -23)
-- **Finder.tsx** (+161, -0)
+- **Finder.tsx** (+172, -0)
 - **$ripples.tsx** (+80, -0)
-- **MaterialsFinder.tsx** (+166, -0)
+- **MaterialsFinder.tsx** (+177, -0)
+- **MaterialSelector.tsx** (+85, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1859
+".tsx" : 1966
 ".json" : 994
 ```
 
@@ -43,9 +44,9 @@ title Coding activity by hour (count of changes)
 "08h" : 25
 "09h" : 25
 "10h" : 68
-"11h" : 2
+"11h" : 5
 "23h" : 2
 ```
 
 
-> **Last Updated:** 13/08/2025, 11:09:26
+> **Last Updated:** 13/08/2025, 11:19:26
