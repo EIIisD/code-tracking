@@ -2040,9 +2040,9 @@
       "averageChangeSize": 5.5
     },
     ".raycast": {
-      "totalLinesAdded": 43,
+      "totalLinesAdded": 85,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/i/.raycast/ipad.sh": [
           {
@@ -2073,6 +2073,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "sh"
+          }
+        ],
+        "/Users/i/.raycast/ipad-mirroring.sh": [
+          {
+            "timestamp": "2025-08-13T12:41:03.604Z",
+            "fileName": "/Users/i/.raycast/ipad-mirroring.sh",
+            "fileType": ".sh",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sh"
           }
         ]
