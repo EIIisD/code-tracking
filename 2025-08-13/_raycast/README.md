@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 85                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 85                |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 84                |
 | **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **ipad.sh** (+1, -0)
 - **ipad-mirroring-connect.sh** (+42, -0)
-- **ipad-mirroring.sh** (+42, -0)
+- **ipad-mirroring.sh** (+42, -1)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".sh" : 85
+".sh" : 86
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 3
+"13h" : 4
 ```
 
 
-> **Last Updated:** 13/08/2025, 13:45:54
+> **Last Updated:** 13/08/2025, 13:55:54

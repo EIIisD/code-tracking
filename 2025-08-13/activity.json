@@ -2041,7 +2041,7 @@
     },
     ".raycast": {
       "totalLinesAdded": 85,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 1,
       "files": {
         "/Users/i/.raycast/ipad.sh": [
@@ -2089,6 +2089,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-13T12:52:03.962Z",
+            "fileName": "/Users/i/.raycast/ipad-mirroring.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "sh"
           }
         ]
