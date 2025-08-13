@@ -1905,9 +1905,9 @@
       "averageChangeSize": 157
     },
     "universal-credit": {
-      "totalLinesAdded": 603,
+      "totalLinesAdded": 605,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "/Users/i/Projects/universal-credit/.mcp.json": [
           {
@@ -1961,6 +1961,34 @@
             "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
             "fileType": ".json",
             "linesAdded": 589,
+            "linesRemoved": 0,
+            "projectName": "universal-credit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-13T10:19:28.145Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "universal-credit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-13T10:20:20.798Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "universal-credit",
             "content": {
