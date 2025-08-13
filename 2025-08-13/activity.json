@@ -1861,9 +1861,9 @@
       "averageChangeSize": 157
     },
     "universal-credit": {
-      "totalLinesAdded": 11,
+      "totalLinesAdded": 603,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 3,
       "files": {
         "/Users/i/Projects/universal-credit/.mcp.json": [
           {
@@ -1892,6 +1892,38 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/universal-credit/docs/universal-credit/uc-self-employment-guide.md": [
+          {
+            "timestamp": "2025-08-13T10:14:13.281Z",
+            "fileName": "/Users/i/Projects/universal-credit/docs/universal-credit/uc-self-employment-guide.md",
+            "fileType": ".md",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "universal-credit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-08-13T10:14:22.888Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 589,
+            "linesRemoved": 0,
+            "projectName": "universal-credit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
