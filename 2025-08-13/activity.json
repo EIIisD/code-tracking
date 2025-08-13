@@ -2038,6 +2038,39 @@
         "/Users/i/Projects/universal-credit/.mcp.json"
       ],
       "averageChangeSize": 5.5
+    },
+    ".raycast": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.raycast/ipad.sh": [
+          {
+            "timestamp": "2025-08-13T12:25:57.628Z",
+            "fileName": "/Users/i/.raycast/ipad.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/Users/i/.raycast/ipad.sh"
+      ],
+      "averageChangeSize": 1
     }
   },
   "totalActiveTime": 1,
