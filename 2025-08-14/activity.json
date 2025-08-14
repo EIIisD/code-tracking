@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 7915,
-      "totalLinesRemoved": 2616,
-      "totalActiveTime": 283,
+      "totalLinesRemoved": 2714,
+      "totalActiveTime": 290,
       "files": {
         "/Users/i/Library/Application Support/Cursor/User/settings.json": [
           {
@@ -2755,6 +2755,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-14T17:52:47.487Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/MorphingScrim.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-14T17:54:21.600Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/MorphingScrim.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 68,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-14T17:56:01.075Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/MorphingScrim.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
