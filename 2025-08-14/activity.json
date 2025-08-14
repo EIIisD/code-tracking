@@ -3406,8 +3406,8 @@
     },
     "FRESH_START": {
       "totalLinesAdded": 648,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 7,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 10,
       "files": {
         "/Users/i/Projects/FRESH_START/.claude.json": [
           {
@@ -3495,6 +3495,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-14T21:29:05.074Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/i/Library/Application Support/Cursor/User/settings.json": [
@@ -3510,6 +3524,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-14T21:28:55.876Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-14T21:29:00.128Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
