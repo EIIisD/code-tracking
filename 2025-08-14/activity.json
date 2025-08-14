@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 3266,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 56,
+      "totalLinesRemoved": 122,
+      "totalActiveTime": 60,
       "files": {
         "/Users/i/Library/Application Support/Cursor/User/settings.json": [
           {
@@ -161,6 +161,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-14T11:24:13.424Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/DropArea.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 79,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
