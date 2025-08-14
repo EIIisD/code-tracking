@@ -3,8 +3,8 @@
   "projects": {
     "ribbon": {
       "totalLinesAdded": 8134,
-      "totalLinesRemoved": 2724,
-      "totalActiveTime": 311,
+      "totalLinesRemoved": 2727,
+      "totalActiveTime": 315,
       "files": {
         "/Users/i/Library/Application Support/Cursor/User/settings.json": [
           {
@@ -3037,6 +3037,20 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-14T18:14:18.979Z",
+            "fileName": "/Users/i/Projects/ribbon/apps/web/src/components/Finder/DropArea/MorphingScrim.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "ribbon",
             "content": {
               "added": [],
