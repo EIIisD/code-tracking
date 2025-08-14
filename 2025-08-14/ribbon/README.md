@@ -4,21 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3374                                          |
-| **Lines Removed** (➖) | 150                                        |
-| **Net Change** (↕)    | 3224                |
-| **Active Time** (⌚)   | 93 minutes |
+| **Lines Added** (➕)   | 4882                                          |
+| **Lines Removed** (➖) | 153                                        |
+| **Net Change** (↕)    | 4729                |
+| **Active Time** (⌚)   | 102 minutes |
 
 
 ## Modified Files
 - **settings.json** (+1776, -0)
-- **DropArea.tsx** (+390, -137)
+- **DropArea.tsx** (+390, -140)
 - **package.json** (+1, -0)
-- **MaterialsFinder.tsx** (+196, -10)
-- **Finder.tsx** (+184, -1)
-- **MaterialSelector.tsx** (+87, -2)
+- **MaterialsFinder.tsx** (+203, -10)
+- **Finder.tsx** (+191, -1)
+- **MaterialSelector.tsx** (+94, -2)
 - **package.json** (+272, -0)
 - **globals.css** (+468, -0)
+- **Import.tsx** (+1487, -0)
 
 ## Visualizations
 
@@ -28,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 2049
-".tsx" : 1007
+".tsx" : 2518
 ".css" : 468
 ```
 
@@ -40,8 +41,8 @@ title Coding activity by hour (count of changes)
 "10h" : 3
 "11h" : 29
 "12h" : 20
-"13h" : 10
+"13h" : 16
 ```
 
 
-> **Last Updated:** 14/08/2025, 13:17:03
+> **Last Updated:** 14/08/2025, 13:22:03
