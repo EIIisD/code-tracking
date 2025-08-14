@@ -3403,6 +3403,53 @@
         "/Users/i/.gemini/settings.json"
       ],
       "averageChangeSize": 6.5
+    },
+    "FRESH_START": {
+      "totalLinesAdded": 43,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/FRESH_START/.claude.json": [
+          {
+            "timestamp": "2025-08-14T20:58:51.656Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-14T20:59:01.726Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/FRESH_START/.claude.json"
+      ],
+      "averageChangeSize": 21.5
     }
   },
   "totalActiveTime": 0,
