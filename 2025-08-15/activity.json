@@ -276,8 +276,8 @@
     },
     "FRESH_START": {
       "totalLinesAdded": 90,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 14,
       "files": {
         "/Users/i/Projects/FRESH_START/.mcp.notion.json": [
           {
@@ -325,6 +325,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-15T12:30:40.474Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcps.CSV.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
           }
         ],
         "/Users/i/Projects/FRESH_START/.mcps.Notion.json": [
@@ -340,6 +354,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-15T12:30:40.472Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcps.Notion.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "json"
           }
         ],
