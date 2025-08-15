@@ -418,6 +418,39 @@
         "/Users/i/Projects/FRESH_START/.mcp.json"
       ],
       "averageChangeSize": 18
+    },
+    "ribbon": {
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/ribbon/ellis_commits.txt": [
+          {
+            "timestamp": "2025-08-15T18:42:15.533Z",
+            "fileName": "/Users/i/Projects/ribbon/ellis_commits.txt",
+            "fileType": ".txt",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "ribbon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/ribbon/ellis_commits.txt"
+      ],
+      "averageChangeSize": 106
     }
   },
   "totalActiveTime": 0,
