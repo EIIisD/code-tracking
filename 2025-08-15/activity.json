@@ -273,6 +273,107 @@
         "/Users/i/.claude.json"
       ],
       "averageChangeSize": 4034
+    },
+    "FRESH_START": {
+      "totalLinesAdded": 90,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/i/Projects/FRESH_START/.mcp.notion.json": [
+          {
+            "timestamp": "2025-08-15T12:25:21.137Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcp.notion.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/FRESH_START/.mcp copy.json": [
+          {
+            "timestamp": "2025-08-15T12:25:34.640Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcp copy.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/FRESH_START/.mcps.CSV.json": [
+          {
+            "timestamp": "2025-08-15T12:25:49.284Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcps.CSV.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/FRESH_START/.mcps.Notion.json": [
+          {
+            "timestamp": "2025-08-15T12:25:54.814Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcps.Notion.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/FRESH_START/.mcp.json": [
+          {
+            "timestamp": "2025-08-15T12:25:58.617Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 4
+      },
+      "changeFrequency": {
+        "13": 4
+      },
+      "topFiles": [
+        "/Users/i/Projects/FRESH_START/.mcp.notion.json",
+        "/Users/i/Projects/FRESH_START/.mcp copy.json",
+        "/Users/i/Projects/FRESH_START/.mcps.CSV.json",
+        "/Users/i/Projects/FRESH_START/.mcps.Notion.json",
+        "/Users/i/Projects/FRESH_START/.mcp.json"
+      ],
+      "averageChangeSize": 18
     }
   },
   "totalActiveTime": 0,
