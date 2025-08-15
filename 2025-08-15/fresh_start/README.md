@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 90                                          |
+| **Lines Added** (➕)   | 275                                          |
 | **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 76                |
+| **Net Change** (↕)    | 261                |
 | **Active Time** (⌚)   | 14 minutes |
 
 
@@ -16,6 +16,7 @@
 - **.mcps.CSV.json** (+18, -4)
 - **.mcps.Notion.json** (+18, -10)
 - **.mcp.json** (+18, -0)
+- **subscriptions_identified.txt** (+185, -0)
 
 ## Visualizations
 
@@ -25,6 +26,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 104
+".txt" : 185
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 7
+"14h" : 1
 ```
 
 
-> **Last Updated:** 15/08/2025, 13:33:03
+> **Last Updated:** 15/08/2025, 14:13:03
