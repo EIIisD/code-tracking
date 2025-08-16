@@ -3,8 +3,8 @@
   "projects": {
     "FRESH_START": {
       "totalLinesAdded": 831,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesRemoved": 162,
+      "totalActiveTime": 6,
       "files": {
         "/Users/i/.config/raycast/ai/providers.yaml": [
           {
@@ -27,6 +27,20 @@
             "fileType": ".yaml",
             "linesAdded": 100,
             "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-16T12:09:41.350Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 162,
             "projectName": "FRESH_START",
             "content": {
               "added": [],
