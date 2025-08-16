@@ -1,0 +1,61 @@
+{
+  "date": "2025-08-16",
+  "projects": {
+    "FRESH_START": {
+      "totalLinesAdded": 831,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/i/.config/raycast/ai/providers.yaml": [
+          {
+            "timestamp": "2025-08-16T12:04:27.085Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 731,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-16T12:07:18.648Z",
+            "fileName": "/Users/i/.config/raycast/ai/providers.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 3
+      },
+      "changeFrequency": {
+        "13": 3
+      },
+      "topFiles": [
+        "/Users/i/.config/raycast/ai/providers.yaml"
+      ],
+      "averageChangeSize": 415.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "yaml"
+  ]
+}
