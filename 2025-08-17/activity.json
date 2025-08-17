@@ -2,9 +2,9 @@
   "date": "2025-08-17",
   "projects": {
     "FRESH_START": {
-      "totalLinesAdded": 4320,
+      "totalLinesAdded": 4334,
       "totalLinesRemoved": 10,
-      "totalActiveTime": 4,
+      "totalActiveTime": 9,
       "files": {
         "/Users/i/.claude.json": [
           {
@@ -75,6 +75,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-17T19:53:11.756Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-17T19:56:43.822Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ]
