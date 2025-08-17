@@ -166,9 +166,9 @@
       "averageChangeSize": 5.5
     },
     "claudecraft": {
-      "totalLinesAdded": 1038,
+      "totalLinesAdded": 1118,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 12,
       "files": {
         "/Users/i/.gitignore_global": [
           {
@@ -290,6 +290,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/claudecraft/folder-tree.txt": [
+          {
+            "timestamp": "2025-08-17T21:36:40.219Z",
+            "fileName": "/Users/i/Projects/claudecraft/folder-tree.txt",
+            "fileType": ".txt",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "txt"
           }
         ]
       },
