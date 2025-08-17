@@ -166,9 +166,9 @@
       "averageChangeSize": 5.5
     },
     "claudecraft": {
-      "totalLinesAdded": 131,
+      "totalLinesAdded": 1038,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 7,
       "files": {
         "/Users/i/.gitignore_global": [
           {
@@ -200,6 +200,96 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts": [
+          {
+            "timestamp": "2025-08-17T21:29:31.376Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-17T21:29:32.973Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 302,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-17T21:31:35.137Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-17T21:31:53.594Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/claudecraft/.env": [
+          {
+            "timestamp": "2025-08-17T21:29:50.543Z",
+            "fileName": "/Users/i/Projects/claudecraft/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-08-17T21:30:04.895Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 587,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

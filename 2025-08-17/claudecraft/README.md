@@ -4,15 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 131                                          |
+| **Lines Added** (➕)   | 1038                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 131                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 1038                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **.gitignore_global** (+130, -0)
 - **index.ts** (+1, -0)
+- **transcribe-batch.ts** (+319, -0)
+- **.env** (+1, -0)
+- **settings.json** (+587, -0)
 
 ## Visualizations
 
@@ -21,8 +24,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 130
-".ts" : 1
+"unknown" : 131
+".ts" : 320
+".json" : 587
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 2
+"22h" : 6
 ```
 
 
-> **Last Updated:** 17/08/2025, 21:57:20
+> **Last Updated:** 17/08/2025, 22:32:20
