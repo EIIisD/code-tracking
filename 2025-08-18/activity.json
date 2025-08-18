@@ -735,9 +735,9 @@
       "averageChangeSize": 61.666666666666664
     },
     "reflect-parser": {
-      "totalLinesAdded": 10,
+      "totalLinesAdded": 11,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/i/Projects/reflect-parser/.mcp.json": [
           {
@@ -759,6 +759,20 @@
             "fileName": "/Users/i/Projects/reflect-parser/.mcp.json",
             "fileType": ".json",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "reflect-parser",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-18T21:34:11.316Z",
+            "fileName": "/Users/i/Projects/reflect-parser/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "reflect-parser",
             "content": {
