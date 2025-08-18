@@ -462,9 +462,9 @@
       "averageChangeSize": 26.5
     },
     "FRESH_START": {
-      "totalLinesAdded": 3,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 15,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 4,
       "files": {
         "/Users/i/Projects/FRESH_START/.mcp.json": [
           {
@@ -535,6 +535,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/FRESH_START/.mcps.JSON.json": [
+          {
+            "timestamp": "2025-08-18T21:31:56.769Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcps.JSON.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-18T21:32:04.587Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcps.JSON.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-18T21:32:34.577Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcps.JSON.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
