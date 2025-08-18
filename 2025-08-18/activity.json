@@ -444,6 +444,39 @@
         "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts"
       ],
       "averageChangeSize": 26.5
+    },
+    "FRESH_START": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Projects/FRESH_START/.mcp.json": [
+          {
+            "timestamp": "2025-08-18T14:49:32.895Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "/Users/i/Projects/FRESH_START/.mcp.json"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 1,
