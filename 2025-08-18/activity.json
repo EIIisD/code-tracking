@@ -462,7 +462,7 @@
       "averageChangeSize": 26.5
     },
     "FRESH_START": {
-      "totalLinesAdded": 1,
+      "totalLinesAdded": 3,
       "totalLinesRemoved": 5,
       "totalActiveTime": 2,
       "files": {
@@ -507,6 +507,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-18T20:23:52.658Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
