@@ -49,9 +49,9 @@
       "averageChangeSize": 322.5
     },
     "claudecraft": {
-      "totalLinesAdded": 265,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 290,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 35,
       "files": {
         "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts": [
           {
@@ -396,6 +396,34 @@
             "fileType": ".ts",
             "linesAdded": 16,
             "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-18T13:25:19.074Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-18T13:25:43.086Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 21,
             "projectName": "claudecraft",
             "content": {
               "added": [],
