@@ -47,6 +47,53 @@
         "/Users/i/Library/Application Support/Cursor/User/keybindings.json"
       ],
       "averageChangeSize": 322.5
+    },
+    "claudecraft": {
+      "totalLinesAdded": 53,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts": [
+          {
+            "timestamp": "2025-08-18T12:53:19.737Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-18T12:53:28.508Z",
+            "fileName": "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "claudecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "13": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/claudecraft/scripts/transcribe-batch.ts"
+      ],
+      "averageChangeSize": 26.5
     }
   },
   "totalActiveTime": 1,
