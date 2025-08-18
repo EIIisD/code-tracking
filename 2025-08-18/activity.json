@@ -551,9 +551,9 @@
       "averageChangeSize": 4
     },
     "reflect-mcp-bun": {
-      "totalLinesAdded": 368,
+      "totalLinesAdded": 409,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 8,
+      "totalActiveTime": 10,
       "files": {
         "/Users/i/Projects/reflect-mcp-bun/index.ts": [
           {
@@ -643,6 +643,36 @@
             },
             "duration": 3,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/reflect-mcp-bun/test.ts": [
+          {
+            "timestamp": "2025-08-18T20:44:06.564Z",
+            "fileName": "/Users/i/Projects/reflect-mcp-bun/test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reflect-mcp-bun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-18T20:44:06.622Z",
+            "fileName": "/Users/i/Projects/reflect-mcp-bun/test.ts",
+            "fileType": ".ts",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "reflect-mcp-bun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
