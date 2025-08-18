@@ -733,6 +733,53 @@
         "/Users/i/Projects/reflect-mcp-bun/tsconfig.json"
       ],
       "averageChangeSize": 61.666666666666664
+    },
+    "reflect-parser": {
+      "totalLinesAdded": 10,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/reflect-parser/.mcp.json": [
+          {
+            "timestamp": "2025-08-18T21:33:06.137Z",
+            "fileName": "/Users/i/Projects/reflect-parser/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reflect-parser",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-18T21:33:28.794Z",
+            "fileName": "/Users/i/Projects/reflect-parser/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "reflect-parser",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "22": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/reflect-parser/.mcp.json"
+      ],
+      "averageChangeSize": 5
     }
   },
   "totalActiveTime": 1,
