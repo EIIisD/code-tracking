@@ -463,7 +463,7 @@
     },
     "FRESH_START": {
       "totalLinesAdded": 3,
-      "totalLinesRemoved": 5,
+      "totalLinesRemoved": 6,
       "totalActiveTime": 2,
       "files": {
         "/Users/i/Projects/FRESH_START/.mcp.json": [
@@ -515,6 +515,20 @@
             "fileType": ".json",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-18T20:35:44.464Z",
+            "fileName": "/Users/i/Projects/FRESH_START/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "FRESH_START",
             "content": {
               "added": [],
