@@ -1,0 +1,61 @@
+{
+  "date": "2025-08-18",
+  "projects": {
+    ".claude": {
+      "totalLinesAdded": 645,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json": [
+          {
+            "timestamp": "2025-08-18T01:03:50.708Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 641,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-18T01:03:51.144Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "2": 1
+      },
+      "topFiles": [
+        "/Users/i/Library/Application Support/Cursor/User/keybindings.json"
+      ],
+      "averageChangeSize": 322.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
