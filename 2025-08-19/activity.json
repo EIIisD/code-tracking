@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-19",
+  "projects": {
+    "FRESH_START": {
+      "totalLinesAdded": 110,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/Downloads/paid_subscriptions_updated.csv": [
+          {
+            "timestamp": "2025-08-19T14:45:56.348Z",
+            "fileName": "/Users/i/Downloads/paid_subscriptions_updated.csv",
+            "fileType": ".csv",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "FRESH_START",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ]
+      },
+      "languageStats": {
+        "csv": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "/Users/i/Downloads/paid_subscriptions_updated.csv"
+      ],
+      "averageChangeSize": 110
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "csv"
+  ]
+}
