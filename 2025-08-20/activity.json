@@ -1,0 +1,75 @@
+{
+  "date": "2025-08-20",
+  "projects": {
+    "reflect-parser": {
+      "totalLinesAdded": 412,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/i/Projects/reflect-parser/reflect-schema.ts": [
+          {
+            "timestamp": "2025-08-20T19:07:23.517Z",
+            "fileName": "/Users/i/Projects/reflect-parser/reflect-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 400,
+            "linesRemoved": 0,
+            "projectName": "reflect-parser",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-20T19:07:23.642Z",
+            "fileName": "/Users/i/Projects/reflect-parser/reflect-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "reflect-parser",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-20T19:07:55.736Z",
+            "fileName": "/Users/i/Projects/reflect-parser/reflect-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reflect-parser",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "20": 2
+      },
+      "topFiles": [
+        "/Users/i/Projects/reflect-parser/reflect-schema.ts"
+      ],
+      "averageChangeSize": 137.33333333333334
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
