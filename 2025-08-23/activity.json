@@ -79,7 +79,7 @@
       "averageChangeSize": 294
     },
     ".claude": {
-      "totalLinesAdded": 580,
+      "totalLinesAdded": 1346,
       "totalLinesRemoved": 180,
       "totalActiveTime": 39,
       "files": {
@@ -661,6 +661,22 @@
             },
             "duration": 1,
             "language": "jsonl"
+          }
+        ],
+        "/Users/i/.claude/claude-session-log-schema.ts": [
+          {
+            "timestamp": "2025-08-23T20:03:32.468Z",
+            "fileName": "/Users/i/.claude/claude-session-log-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 766,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
