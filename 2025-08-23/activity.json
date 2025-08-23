@@ -79,9 +79,9 @@
       "averageChangeSize": 294
     },
     ".claude": {
-      "totalLinesAdded": 3436,
+      "totalLinesAdded": 9825,
       "totalLinesRemoved": 189,
-      "totalActiveTime": 48,
+      "totalActiveTime": 53,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -103,6 +103,20 @@
             "fileName": "/Users/i/.claude/settings.json",
             "fileType": ".json",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-23T20:31:49.674Z",
+            "fileName": "/Users/i/.claude/settings.json",
+            "fileType": ".json",
+            "linesAdded": 117,
             "linesRemoved": 0,
             "projectName": ".claude",
             "content": {
@@ -691,6 +705,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-23T20:34:13.144Z",
+            "fileName": "/Users/i/.claude/claude-session-log-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 760,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ],
         "/Users/i/Library/Application Support/Cursor/User/settings.json": [
@@ -779,6 +807,36 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-23T20:34:54.019Z",
+            "fileName": "/Users/i/.claude/claude-hook-log-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 701,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-08-23T20:31:45.018Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 4811,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
