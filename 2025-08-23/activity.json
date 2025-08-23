@@ -79,9 +79,9 @@
       "averageChangeSize": 294
     },
     ".claude": {
-      "totalLinesAdded": 1346,
-      "totalLinesRemoved": 180,
-      "totalActiveTime": 39,
+      "totalLinesAdded": 1934,
+      "totalLinesRemoved": 181,
+      "totalActiveTime": 42,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -677,6 +677,50 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/i/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2025-08-23T20:22:09.536Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 587,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-23T20:22:09.622Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-23T20:23:26.090Z",
+            "fileName": "/Users/i/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
