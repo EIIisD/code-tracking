@@ -79,9 +79,9 @@
       "averageChangeSize": 294
     },
     ".claude": {
-      "totalLinesAdded": 117,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 378,
+      "totalLinesRemoved": 180,
+      "totalActiveTime": 3,
       "files": {
         "/Users/i/.claude/settings.json": [
           {
@@ -111,6 +111,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/.claude/hooks/hook_logger.py": [
+          {
+            "timestamp": "2025-08-23T19:35:04.964Z",
+            "fileName": "/Users/i/.claude/hooks/hook_logger.py",
+            "fileType": ".py",
+            "linesAdded": 261,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-23T19:36:56.190Z",
+            "fileName": "/Users/i/.claude/hooks/hook_logger.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 180,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
           }
         ]
       },
