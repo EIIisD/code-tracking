@@ -338,7 +338,7 @@
     },
     ".claude": {
       "totalLinesAdded": 6831,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 3,
       "totalActiveTime": 3,
       "files": {
         "/Users/i/.claude/claude-hook-log-schema.ts": [
@@ -410,6 +410,20 @@
             "fileType": ".json",
             "linesAdded": 4932,
             "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-24T16:37:40.697Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": ".claude",
             "content": {
               "added": [],
