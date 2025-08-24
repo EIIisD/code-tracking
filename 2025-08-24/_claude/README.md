@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1899                                          |
+| **Lines Added** (➕)   | 6831                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1899                |
+| **Net Change** (↕)    | 6831                |
 | **Active Time** (⌚)   | 3 minutes |
 
 
@@ -14,6 +14,7 @@
 - **claude-hook-log-schema.ts** (+702, -0)
 - **hook-log-schema.ts** (+611, -0)
 - **settings.json** (+586, -0)
+- **.claude.json** (+4932, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 1313
-".json" : 586
+".json" : 5518
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,7 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 4
+"16h" : 1
 ```
 
 
-> **Last Updated:** 24/08/2025, 13:55:06
+> **Last Updated:** 24/08/2025, 16:50:06
