@@ -3,8 +3,8 @@
   "projects": {
     "chatgpt-extension": {
       "totalLinesAdded": 2496,
-      "totalLinesRemoved": 891,
-      "totalActiveTime": 103,
+      "totalLinesRemoved": 893,
+      "totalActiveTime": 106,
       "files": {
         "/Users/i/Projects/chatgpt-extension/open-active-group-in-insiders.ts": [
           {
@@ -415,6 +415,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-24T18:48:36.665Z",
+            "fileName": "/Users/i/Projects/chatgpt-extension/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "chatgpt-extension",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
