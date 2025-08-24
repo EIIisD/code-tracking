@@ -4,21 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1698                                          |
-| **Lines Removed** (➖) | 683                                        |
-| **Net Change** (↕)    | 1015                |
-| **Active Time** (⌚)   | 85 minutes |
+| **Lines Added** (➕)   | 2495                                          |
+| **Lines Removed** (➖) | 891                                        |
+| **Net Change** (↕)    | 1604                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
 - **open-active-group-in-insiders.ts** (+281, -146)
 - **tsconfig.json** (+135, -117)
-- **package.json** (+223, -92)
+- **package.json** (+231, -92)
 - **.vscodeignore** (+105, -92)
-- **extension.ts** (+777, -235)
+- **extension.ts** (+1083, -443)
 - **build.ts** (+35, -1)
 - **test-bun.js** (+32, -0)
 - **test-extension.js** (+110, -0)
+- **test-file-uris.js** (+129, -0)
+- **test-codium-execution.js** (+146, -0)
+- **test-split-tabs.js** (+208, -0)
 
 ## Visualizations
 
@@ -27,10 +30,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1475
-".json" : 567
+".ts" : 1989
+".json" : 575
 "unknown" : 197
-".js" : 142
+".js" : 625
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +45,8 @@ title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 13
 "18h" : 14
-"19h" : 38
+"19h" : 50
 ```
 
 
-> **Last Updated:** 24/08/2025, 19:38:30
+> **Last Updated:** 24/08/2025, 19:43:30
