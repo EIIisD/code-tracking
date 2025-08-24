@@ -135,6 +135,53 @@
         "/Users/i/Projects/chatgpt-extension/open-active-group-in-insiders.ts"
       ],
       "averageChangeSize": 272
+    },
+    ".claude": {
+      "totalLinesAdded": 702,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/i/.claude/claude-hook-log-schema.ts": [
+          {
+            "timestamp": "2025-08-24T12:38:56.210Z",
+            "fileName": "/Users/i/.claude/claude-hook-log-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 701,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-24T12:40:27.201Z",
+            "fileName": "/Users/i/.claude/claude-hook-log-schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "/Users/i/.claude/claude-hook-log-schema.ts"
+      ],
+      "averageChangeSize": 351
     }
   },
   "totalActiveTime": 0,
