@@ -2,9 +2,9 @@
   "date": "2025-08-24",
   "projects": {
     "chatgpt-extension": {
-      "totalLinesAdded": 325,
-      "totalLinesRemoved": 150,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 327,
+      "totalLinesRemoved": 188,
+      "totalActiveTime": 20,
       "files": {
         "/Users/i/Projects/chatgpt-extension/open-active-group-in-insiders.ts": [
           {
@@ -92,6 +92,20 @@
             },
             "duration": 4,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-24T16:18:41.127Z",
+            "fileName": "/Users/i/Projects/chatgpt-extension/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "chatgpt-extension",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/i/Projects/chatgpt-extension/package.json": [
@@ -136,6 +150,52 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-24T16:18:40.481Z",
+            "fileName": "/Users/i/Projects/chatgpt-extension/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "chatgpt-extension",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/i/Projects/chatgpt-extension/.vscodeignore": [
+          {
+            "timestamp": "2025-08-24T16:20:57.129Z",
+            "fileName": "/Users/i/Projects/chatgpt-extension/.vscodeignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chatgpt-extension",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
+          }
+        ],
+        "/Users/i/Projects/chatgpt-extension/src/extension.ts": [
+          {
+            "timestamp": "2025-08-24T16:20:57.108Z",
+            "fileName": "/Users/i/Projects/chatgpt-extension/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chatgpt-extension",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ]
       },
