@@ -3,8 +3,8 @@
   "projects": {
     "chatgpt-extension": {
       "totalLinesAdded": 588,
-      "totalLinesRemoved": 227,
-      "totalActiveTime": 29,
+      "totalLinesRemoved": 229,
+      "totalActiveTime": 32,
       "files": {
         "/Users/i/Projects/chatgpt-extension/open-active-group-in-insiders.ts": [
           {
@@ -192,6 +192,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-24T16:28:55.868Z",
+            "fileName": "/Users/i/Projects/chatgpt-extension/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "chatgpt-extension",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/i/Projects/chatgpt-extension/.vscodeignore": [
@@ -259,6 +273,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 39,
+            "projectName": "chatgpt-extension",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-24T16:28:12.820Z",
+            "fileName": "/Users/i/Projects/chatgpt-extension/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "chatgpt-extension",
             "content": {
               "added": [],
