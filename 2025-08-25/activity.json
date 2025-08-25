@@ -230,6 +230,53 @@
         "/Users/i/.claude/.mcps.Gmail.json"
       ],
       "averageChangeSize": 18.5
+    },
+    "UC": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/UC/.mcp.json": [
+          {
+            "timestamp": "2025-08-25T19:10:12.621Z",
+            "fileName": "/Users/i/Projects/UC/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "UC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-25T19:10:13.044Z",
+            "fileName": "/Users/i/Projects/UC/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "UC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "20": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/UC/.mcp.json"
+      ],
+      "averageChangeSize": 6
     }
   },
   "totalActiveTime": 5,
