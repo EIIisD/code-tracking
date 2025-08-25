@@ -90,6 +90,146 @@
         "/Users/i/Projects/chatgpt-extension/src/extension.ts"
       ],
       "averageChangeSize": 7
+    },
+    ".claude": {
+      "totalLinesAdded": 104,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/i/.claude/.mcps.all.json": [
+          {
+            "timestamp": "2025-08-25T19:08:30.804Z",
+            "fileName": "/Users/i/.claude/.mcps.all.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-25T19:08:45.343Z",
+            "fileName": "/Users/i/.claude/.mcps.all.json",
+            "fileType": ".json",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.claude/.mcps.Airtable.json": [
+          {
+            "timestamp": "2025-08-25T19:09:11.364Z",
+            "fileName": "/Users/i/.claude/.mcps.Airtable.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-25T19:09:11.764Z",
+            "fileName": "/Users/i/.claude/.mcps.Airtable.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.claude/.mcps.Chrome.json": [
+          {
+            "timestamp": "2025-08-25T19:09:16.123Z",
+            "fileName": "/Users/i/.claude/.mcps.Chrome.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-25T19:09:22.212Z",
+            "fileName": "/Users/i/.claude/.mcps.Chrome.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/i/.claude/.mcps.Gmail.json": [
+          {
+            "timestamp": "2025-08-25T19:09:25.307Z",
+            "fileName": "/Users/i/.claude/.mcps.Gmail.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-25T19:09:26.615Z",
+            "fileName": "/Users/i/.claude/.mcps.Gmail.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 7
+      },
+      "changeFrequency": {
+        "20": 7
+      },
+      "topFiles": [
+        "/Users/i/.claude/.mcps.all.json",
+        "/Users/i/.claude/.mcps.Airtable.json",
+        "/Users/i/.claude/.mcps.Chrome.json",
+        "/Users/i/.claude/.mcps.Gmail.json"
+      ],
+      "averageChangeSize": 18.5
     }
   },
   "totalActiveTime": 5,
