@@ -2,9 +2,9 @@
   "date": "2025-08-26",
   "projects": {
     "mcp-web": {
-      "totalLinesAdded": 1090,
-      "totalLinesRemoved": 105,
-      "totalActiveTime": 87,
+      "totalLinesAdded": 1352,
+      "totalLinesRemoved": 122,
+      "totalActiveTime": 108,
       "files": {
         "/Users/i/Projects/mcp-web/index.ts": [
           {
@@ -736,6 +736,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-26T21:55:43.674Z",
+            "fileName": "/Users/i/Projects/mcp-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/i/.cursor/mcp.json": [
@@ -910,6 +924,234 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:56:29.009Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:56:33.760Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.js",
+            "fileType": ".js",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:56:37.844Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/i/Projects/mcp-web/generate-mcp-configs.js": [
+          {
+            "timestamp": "2025-08-26T21:55:39.976Z",
+            "fileName": "/Users/i/Projects/mcp-web/generate-mcp-configs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:55:40.044Z",
+            "fileName": "/Users/i/Projects/mcp-web/generate-mcp-configs.js",
+            "fileType": ".js",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:55:48.994Z",
+            "fileName": "/Users/i/Projects/mcp-web/generate-mcp-configs.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:56:07.947Z",
+            "fileName": "/Users/i/Projects/mcp-web/generate-mcp-configs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/i/Projects/mcp-web/test-mcp.test.ts": [
+          {
+            "timestamp": "2025-08-26T21:57:29.499Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:57:29.609Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:57:41.764Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:57:46.593Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:57:51.081Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:57:57.360Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:58:16.194Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:58:21.406Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:58:26.043Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
