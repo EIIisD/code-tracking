@@ -2,9 +2,9 @@
   "date": "2025-08-26",
   "projects": {
     "mcp-web": {
-      "totalLinesAdded": 999,
+      "totalLinesAdded": 1090,
       "totalLinesRemoved": 105,
-      "totalActiveTime": 79,
+      "totalActiveTime": 87,
       "files": {
         "/Users/i/Projects/mcp-web/index.ts": [
           {
@@ -722,6 +722,20 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-26T21:51:26.147Z",
+            "fileName": "/Users/i/Projects/mcp-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/i/.cursor/mcp.json": [
@@ -852,6 +866,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/mcp-web/test-mcp.js": [
+          {
+            "timestamp": "2025-08-26T21:51:22.934Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:51:23.021Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.js",
+            "fileType": ".js",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-26T21:51:34.601Z",
+            "fileName": "/Users/i/Projects/mcp-web/test-mcp.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
