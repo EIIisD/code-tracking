@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 340                                          |
-| **Lines Removed** (➖) | 66                                        |
-| **Net Change** (↕)    | 274                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Lines Added** (➕)   | 953                                          |
+| **Lines Removed** (➖) | 88                                        |
+| **Net Change** (↕)    | 865                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
-- **index.ts** (+319, -66)
+- **index.ts** (+320, -74)
 - **package.json** (+21, -0)
+- **mcp.json** (+25, -12)
+- **settings.json** (+587, -2)
 
 ## Visualizations
 
@@ -21,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 385
-".json" : 21
+".ts" : 394
+".json" : 647
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 7
-"22h" : 25
+"22h" : 37
 ```
 
 
-> **Last Updated:** 26/08/2025, 22:23:31
+> **Last Updated:** 26/08/2025, 22:28:31
