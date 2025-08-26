@@ -1,0 +1,194 @@
+{
+  "date": "2025-08-26",
+  "projects": {
+    "mcp-web": {
+      "totalLinesAdded": 242,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 10,
+      "files": {
+        "/Users/i/Projects/mcp-web/index.ts": [
+          {
+            "timestamp": "2025-08-26T20:58:42.715Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 170,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T20:58:42.797Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T20:58:59.087Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T20:59:02.377Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T20:59:31.811Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:00:22.452Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:00:26.687Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:00:38.552Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-26T21:00:51.643Z",
+            "fileName": "/Users/i/Projects/mcp-web/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/i/Projects/mcp-web/package.json": [
+          {
+            "timestamp": "2025-08-26T20:59:13.181Z",
+            "fileName": "/Users/i/Projects/mcp-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-26T20:59:40.517Z",
+            "fileName": "/Users/i/Projects/mcp-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mcp-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 8,
+        "json": 2
+      },
+      "changeFrequency": {
+        "21": 6,
+        "22": 4
+      },
+      "topFiles": [
+        "/Users/i/Projects/mcp-web/index.ts",
+        "/Users/i/Projects/mcp-web/package.json"
+      ],
+      "averageChangeSize": 22.727272727272727
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    21,
+    22
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "json"
+  ]
+}
