@@ -94,6 +94,95 @@
         "/Users/i/Projects/mcp-web/index.ts"
       ],
       "averageChangeSize": 6
+    },
+    ".raycast": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/i/.raycast/restart-raycast.sh": [
+          {
+            "timestamp": "2025-08-27T01:37:29.636Z",
+            "fileName": "/Users/i/.raycast/restart-raycast.sh",
+            "fileType": ".sh",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-27T01:38:20.128Z",
+            "fileName": "/Users/i/.raycast/restart-raycast.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-27T01:40:12.916Z",
+            "fileName": "/Users/i/.raycast/restart-raycast.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-27T01:40:35.599Z",
+            "fileName": "/Users/i/.raycast/restart-raycast.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-08-27T01:41:36.518Z",
+            "fileName": "/Users/i/.raycast/restart-raycast.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 6
+      },
+      "changeFrequency": {
+        "2": 6
+      },
+      "topFiles": [
+        "/Users/i/.raycast/restart-raycast.sh"
+      ],
+      "averageChangeSize": 16.4
     }
   },
   "totalActiveTime": 1,
