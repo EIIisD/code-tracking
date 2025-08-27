@@ -229,6 +229,53 @@
         "/Users/i/.raycast/restart-raycast.sh"
       ],
       "averageChangeSize": 16.4
+    },
+    ".claude": {
+      "totalLinesAdded": 266,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/.claude/hooks/personality_sound_manager.py": [
+          {
+            "timestamp": "2025-08-27T10:46:04.586Z",
+            "fileName": "/Users/i/.claude/hooks/personality_sound_manager.py",
+            "fileType": ".py",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-27T10:46:11.320Z",
+            "fileName": "/Users/i/.claude/hooks/personality_sound_manager.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "/Users/i/.claude/hooks/personality_sound_manager.py"
+      ],
+      "averageChangeSize": 133
     }
   },
   "totalActiveTime": 1,
