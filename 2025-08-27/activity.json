@@ -2,7 +2,7 @@
   "date": "2025-08-27",
   "projects": {
     "reflect-parser": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 26922,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -34,6 +34,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/i/Projects/reflect-parser/combined_dist2.yaml": [
+          {
+            "timestamp": "2025-08-27T02:20:59.798Z",
+            "fileName": "/Users/i/Projects/reflect-parser/combined_dist2.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 26914,
+            "linesRemoved": 0,
+            "projectName": "reflect-parser",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
           }
         ]
       },
