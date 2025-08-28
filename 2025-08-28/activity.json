@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-28",
+  "projects": {
+    ".raycast": {
+      "totalLinesAdded": 41,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.raycast/ipad-mirroring-wireless.sh": [
+          {
+            "timestamp": "2025-08-28T12:11:52.095Z",
+            "fileName": "/Users/i/.raycast/ipad-mirroring-wireless.sh",
+            "fileType": ".sh",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": ".raycast",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/Users/i/.raycast/ipad-mirroring-wireless.sh"
+      ],
+      "averageChangeSize": 41
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "sh"
+  ]
+}
