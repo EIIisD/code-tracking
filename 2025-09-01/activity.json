@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-01",
+  "projects": {
+    "mcp-demo": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/i/Projects/mcp-demo/.mcp.json": [
+          {
+            "timestamp": "2025-09-01T18:49:35.376Z",
+            "fileName": "/Users/i/Projects/mcp-demo/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mcp-demo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T18:49:35.934Z",
+            "fileName": "/Users/i/Projects/mcp-demo/.mcp.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "mcp-demo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "19": 1
+      },
+      "topFiles": [
+        "/Users/i/Projects/mcp-demo/.mcp.json"
+      ],
+      "averageChangeSize": 4
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
