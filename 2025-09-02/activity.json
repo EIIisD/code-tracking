@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-02",
+  "projects": {
+    ".claude": {
+      "totalLinesAdded": 5312,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/i/.claude.json": [
+          {
+            "timestamp": "2025-09-02T01:02:55.821Z",
+            "fileName": "/Users/i/.claude.json",
+            "fileType": ".json",
+            "linesAdded": 5312,
+            "linesRemoved": 0,
+            "projectName": ".claude",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "2": 0
+      },
+      "topFiles": [
+        "/Users/i/.claude.json"
+      ],
+      "averageChangeSize": 5312
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
